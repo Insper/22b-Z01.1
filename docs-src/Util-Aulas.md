@@ -1,41 +1,9 @@
 # Resumo Aulas
 
-Resumo (Atualizado) e planejamento das aulas.
-
-![](https://github.com/Insper/Z01.1/raw/main/Planejamento.png){width=550}
+Resumo e planejamento das aulas.
 
 <!--
-## Aula 13 - nasm jmp 
- 
-- Próxima avaliação 30/10
-    - ULA 
-    - Lógica Sequencial
-    - Z01
-    - nasm
-    
-- Expositiva periféricos e jump
-
-Labs:
-    - Lab 11: Assembly
-    - Lab 12: Periféricos 
-    - Lab 13: saltos (jmp) 
-    - Lab 14: praticando nasm 
- 
-## Aula 12 - 2/10 - Sexta
-
-- Vocês devem trabalhar no grupo no Teams (não vale whatsapp)
-    - iremos começar dar falta para quem não estiver trabalhando em grupo no grupo.
-- Não tem prova durante AI
-    - próxima avaliação (A2): 23/10    SEXTA: HW e SW
-
-- Expositiva (~0h45):
-
-    1. Um pouco sobre memória
-    1. Arquitetura Z01 e introdução assembly
-
--  Labs e Teoria (~1h15):
-
--->
+![](https://github.com/Insper/Z01.1/raw/main/Planejamento.png){width=550}
 
 ## 14/12 - Sub
 
@@ -383,11 +351,14 @@ Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
 
 1. Laboratório (15 min): 
     - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-2)
+preparar github do grupo
+-->
 
-## Aula 1
+## Aula 16/02
 
-Aula de apresentação da matéria; visão geral do que vai ser feito; Criação de grupos e preparar github do grupo.
+Aula de apresentação da matéria; visão geral do que vai ser feito; criação de grupos.
 
+<!--
 1. Slides (1h00):
     - [Slide](https://github.com/Insper/Z01.1/blob/main/Aulas/01-OrganizacaoDeComputadores.pdf)
     - [Prezi](https://prezi.com/view/InQMPs4wjxMtznUGlW6L/)
@@ -399,3 +370,4 @@ Aula de apresentação da matéria; visão geral do que vai ser feito; Criação
    
 1. Laboratório (20 min): 
     - [Lab 1: Configurando GitHub](/Z01.1/A-Ambiente-Lab-1)
+-->
