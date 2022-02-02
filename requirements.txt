@@ -1,0 +1,11 @@
+termcolor
+vunit
+vunit_hdl
+requests
+joblib
+subprocess.run
+pymongo
+datetime
+#PyQt5
+pymongo
+pygame
