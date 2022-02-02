@@ -2,9 +2,10 @@
 
 Resumo e planejamento das aulas.
 
-<!--
+
 ![](https://github.com/Insper/Z01.1/raw/main/Planejamento.png){width=550}
 
+<!--
 ## 14/12 - Sub
 
 ## 03/12 - Av4 - AF
