@@ -12,7 +12,7 @@ O Facilitador será atribuído pelo professor antes do inicio do projeto.
 
 O facilitador será avaliado pelos 'Desenvolvedores' com base em seus objetivos:
 
-- Fez a manutenção do Kanban board (GitHub project). Ex: cria cards, atribui tarefas, dá feedback de inssues.
+- Fez a manutenção do Kanban board (GitHub project). Ex: cria cards, atribui tarefas, dá feedback de issues.
 - Gerenciou os pull-requests.
 - Acompanhou o desenvolvimento do grupo, dando o suporte sempre que necessário
 - Ajudou outros colegas com o objetivo da entrega final e não somente das suas tarefas
