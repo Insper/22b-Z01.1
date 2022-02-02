@@ -1,5 +1,5 @@
 termcolor
-vunit
+#vunit
 vunit_hdl
 requests
 joblib
