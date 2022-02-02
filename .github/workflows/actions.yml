@@ -1,0 +1,56 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: Teste
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-20.04
+    
+    env:
+      VUNIT_SIMULATOR: modelsim
+      VUNIT_MODELSIM_PATH: /home/runner/modelsim_ase/bin/
+      LD_LIBRARY_PATH: /home/runner/modelsim_ase/lib32
+    
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    
+    - name: Install ubuntu dependencies
+      run: |
+        sudo dpkg --add-architecture i386
+        sudo apt-get update
+        sudo apt-get install build-essential
+        sudo apt-get install gcc make libxft2:i386 libxext6:i386 \
+        libncurses5:i386 libstdc++6:i386 libpng-dev libpng16-16:i386 \
+        libpng16-16 python-gobject libnotify-bin 
+        
+    - name: install modelsim
+      run: |
+       wget https://download.altera.com/akdlm/software/acdsinst/20.1std.1/720/ib_installers/ModelSimSetup-20.1.1.720-linux.run -O modelsim.run
+       chmod +x modelsim.run
+       ./modelsim.run --mode unattended --accept_eula 1 --installdir $HOME
+       sed -i '209 a\        4.[0-9]*)             vco="linux" ;;' $HOME/modelsim_ase/vco   
+        
+    - name: Install python dependencies
+      run: |
+        pip install wheel
+        pip install termcolor vunit_hdl pymongo 
+      
+    - name: teste vhdl
+      run: |
+        bash updateZ01tools.sh 
+#        python3 Projetos/B-LogicaCombinacional/testeLogicaCombinacional.py
+#        python3 Projetos/C-UnidadeLogicaAritmetica/testeULA.py
+#        python3 Projetos/D-LogicaSequencial/testeLogicaSequencial.py
+        
+    
