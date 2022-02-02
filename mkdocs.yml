@@ -1,0 +1,190 @@
+site_name: 'Elementos de Sistemas'
+theme:
+  name: 'material'
+  features:
+#    - navigation.tabs
+    - navigation.instant
+  palette:
+      primary: 'black'
+      accent: 'pink'
+
+docs_dir: 'docs-src'
+
+site_url: https://insper.github.io/Z01.1/
+edit_uri: 'edit/docs/docs-src/'
+
+repo_name: 'Insper/Z01.1'
+repo_url: 'https://github.com/insper/Z01.1'
+
+copyright: 'Copyright &copy; Rafael Corsi @ insper'
+
+google_analytics:
+  - UA-G-XQ38NZ62XF
+  - auto
+
+nav:
+- Home:
+  - 'index.md'
+  - 'Sobre-Criterios-de-Avaliacao.md'
+  - 'Sobre-Rubricas.md'
+
+- 'Util-Aulas.md'
+- '21a/Avaliacoes.md'
+
+- 'Projetos':
+  - 'A-Ambiente-Desenvolvimento-Projeto.md'
+  - 'LogiComb-Projeto.md'
+  - 'ula-Projeto.md'
+  - 'ula-Projeto-dicas.md'
+  - 'seq-Projeto.md'
+  - 'assembly-Projeto.md'
+  - 'F - CPU':
+      - 'cpu-Projeto.md'
+      - 'cpu-Testando.md'
+  - 'assembler-Projeto.md'
+  - 'vm-Projeto.md'
+  - 'J-VMtranslator-Projeto.md'
+  - 'X-Processadores-Projeto.md'
+
+- Labs:
+  - 'A-Ambiente-Lab-1.md'
+  - 'A-Ambiente-Lab-2.md'
+  - 'A-Transistores-Lab-1.md'
+  - 'LogiComb-Lab-1.md'
+  - 'LogiComb-Lab-2.md'
+  - 'ula-Lab-1.md'
+  - 'ula-Lab-2.md'
+  - 'ula-Lab-3.md'
+  - 'ula-lab-4.md'
+  - 'seq-Lab-1.md'
+  - 'assembly-Lab-1.md'
+  - 'assembly-Lab-2.md'
+  - 'assembly-Lab-3.md'
+  - 'assembly-Lab-4.md'
+  - 'assembly-lab-HW.md'
+  - 'cpu-lab-1.md'
+  - 'Lab 16: Assembler':
+    - 'assembler-Lab-1.md'
+    - 'assembler-Lab-1-parte-1.md'
+    - 'assembler-Lab-1-parte-2.md'
+    - 'assembler-Lab-1-parte-3.md'
+    - 'assembler-Lab-1-parte-4.md'
+    - 'assembler-Lab-1-parte-5.md'
+  - 'vm-Lab-1.md'
+  - 'Lab 18: VMtranslator':
+    - 'VMtranslator-Lab-1-old.md'
+    - 'VMtranslator-Lab-1.md'
+
+- 'Teoria':
+  - 'Teoria-Algebra-Booleana.md'
+  - 'Teoria-CMOS.md'
+  - 'Teoria-RTL.md'
+  - 'Teoria-Dados.md'
+  - 'Teoria-Componentes.md'
+  - 'Teoria-Aritmetica-Binaria.md'
+  - 'Teoria-Aritmetica-Binaria-HW.md'
+  - 'Teoria-ULA.md'
+  - 'Teoria-Logica-Sequencial.md'
+  - 'Teoria-Sequencial-Componentes.md'
+  - 'Teoria-Z01.md'
+  - 'Teoria-Assembly.md'
+  - 'Teoria-Z01-mapadeMemoria.md'
+  - 'Teoria-nasm-jump.md'
+  - 'Teoria-Linguagem-de-Maquina.md'
+  - 'Teoria-Assembler.md'
+  - 'assembler-Dicas-SymbolTable.md'
+  - 'Teoria-vm.md'
+  - 'Teoria-vm-segmentos.md'
+  - 'Teoria-vm-jump.md'
+  - 'Teoria-vm-funcoes.md'
+  - 'Teoria-vm-memoria.md'
+  - 'Vídeo Aulas (Luciano)': 'Util-Video-Aulas.md'
+
+- 'VHDL':
+  - 'VHDL-basico.md'
+  - 'VHDL-Combinacional.md'
+  - 'VHDL-port-map.md'
+  - 'VHDL-Sequencial.md'
+  - 'VHDL-RTL.md'
+  - 'VHDL-exemplos.md'
+
+- 'Z01':
+  - 'Resumo Assembly': 'Util-Resumo-Assembly.md'
+  - 'Z01.1 Cheat Sheet': 'Util-Z01.1-Cheat-Sheet.md'
+  - 'Instruction Set': 'Util-InstructionSet.md'
+  - 'Resumo VM': 'Util-Resumo-VM.md'
+
+- 'Estudo':
+  - 'Exercicio-Algebra-Booleana-1.md'
+  - 'Exercicio-Algebra-Booleana-2.md'
+  - 'Dados Digitais - 1': 'https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing'
+  - 'Exercicio-Dados-2.md'
+  - 'Handout Aritmetica Booleana': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf'
+  - 'Handout Aritmetica Booleana - Resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana_resolvido.pdf'
+  - 'Lógica Sequencial': 'https://forms.gle/XMsFCDMYsmz1qUP86'
+  - 'Lógica Sequencial - resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Lógica-Sequencial_resolucao.pdf'
+  - 'Linguagem de Máquina': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina.pdf' #'https://forms.gle/6jNZR4CAELJ69ZjXA'
+  - 'Linguagem de Máquina - respostas': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina_respostas.pdf' 
+  - 'Exercicio-CPU-1.md'
+  - 'Exercicio-CPU-2.md'
+
+
+- Útil:
+  - 'Util-Comecando-novo-projeto.md'
+  - 'Util-vixi-sou-scrum.md'
+  - 'Dicas git': 'Util-Dicas-GIT.md'
+  - 'Util-Dicas-Travis.md'
+  - 'Infraestrutura': 'Util-Infraestrutura.md'
+  - 'Util-VM-Linux.md'
+
+- História:
+  - 'Historia-linux.md'
+
+#- Atendimento:
+#  - 'Atendimento.md'
+
+extra_css:
+  - css/progress.css
+  - css/quizlib.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML
+  - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
+  - js/markdown-enhancer.js
+
+plugins:
+    - search
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.attr_list
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
