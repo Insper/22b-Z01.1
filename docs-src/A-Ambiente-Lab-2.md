@@ -31,7 +31,8 @@ $ git clone $URL_DO_FORK
 !!! Linux
     Para abrir o terminal: `meta`+`t` 
 
-<button class="button0" id="0:clonando" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+<!-- <button class="button0" id="0:clonando" onClick="progressBut(this.id);">Cheguei Aqui!</button> -->
+!!! progress
 
 ## Adicionando nomes ao `INTEGRANTES.json`
 
