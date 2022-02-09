@@ -39,7 +39,7 @@ Note que criar um **fork** é diferente de criar apenas uma cópia. No **fork** 
 !!! tip "git"
     `fork` não existe no git, é algo implementado pelo github (e similares). É utilizado para criar uma 'cópia' de um repositório para podermos trabalhar nele sem a necessidade de mexermos no original.
 
-<button class="button0" id="0:fork" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress Cheguei Aqui!
 
 ### Alterando o nome do Fork
 
