@@ -76,10 +76,10 @@ nav:
     - 'VMtranslator-Lab-1.md'
 
 - 'Teoria':
+  - 'Teoria-Dados.md'
   - 'Teoria-Algebra-Booleana.md'
   - 'Teoria-CMOS.md'
   - 'Teoria-RTL.md'
-  - 'Teoria-Dados.md'
   - 'Teoria-Componentes.md'
   - 'Teoria-Aritmetica-Binaria.md'
   - 'Teoria-Aritmetica-Binaria-HW.md'
@@ -115,10 +115,10 @@ nav:
   - 'Resumo VM': 'Util-Resumo-VM.md'
 
 - 'Estudo':
-  - 'Exercicio-Algebra-Booleana-1.md'
-  - 'Exercicio-Algebra-Booleana-2.md'
   - 'Dados Digitais - 1': 'https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing'
   - 'Exercicio-Dados-2.md'
+  - 'Exercicio-Algebra-Booleana-1.md'
+  - 'Exercicio-Algebra-Booleana-2.md'  
   - 'Handout Aritmetica Booleana': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf'
 #  - 'Handout Aritmetica Booleana - Resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana_resolvido.pdf'
   - 'Lógica Sequencial': 'https://forms.gle/XMsFCDMYsmz1qUP86'
