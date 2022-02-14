@@ -75,7 +75,7 @@ Liberado consulta ao material da disciplina.
 [Uma possível resolução](https://github.com/Insper/Z01.1/blob/docs/docs-src/21a/21a-ele-av2_resolucao.txt) (Não necessariamente a melhor)
 
 -->
-## AV1 - sexta 09/03
+## AV1 - quarta 09/03
 
 - Conteúdos: 
     - Organização de Computadores (visão geral)
