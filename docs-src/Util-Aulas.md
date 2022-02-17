@@ -374,16 +374,17 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 ## Aula 16/02
 
 Aula de apresentação da matéria; visão geral do que vai ser feito; criação de grupos.
+
+1. Slides (1h00):
     - [Slide](https://github.com/Insper/Z01.1/blob/main/Aulas/01-OrganizacaoDeComputadores.pdf)
     - [Prezi](https://prezi.com/view/InQMPs4wjxMtznUGlW6L/)
 
+1. Handout/ Estudo/ Exercício (1h00):
+    - Montar grupos
+    - Mural
+
 <!--
-1. Slides (1h00):
-    
-1. Handout/ Estudo/ Exercício (40 min):
-    - [Montar grupos](https://docs.google.com/spreadsheets/d/1XhAXg-nwWI8tvm6oyWrA2L4KHHK8cY8r19hw9sZuAhE/edit?usp=sharing)
-    - [Mural](https://app.mural.co/invitation/mural/elementos9119/1628606349982?sender=u4a998cd84eb9376497204438&key=a177e160-10a3-47a3-ae03-76784c7b765f)
-   
+     
 1. Laboratório (20 min): 
     - [Lab 1: Configurando GitHub](/Z01.1/A-Ambiente-Lab-1)
 -->
