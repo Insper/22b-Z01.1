@@ -355,15 +355,30 @@ Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
 preparar github do grupo
 -->
 
+## Aula 18/02
+
+Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
+
+| Estudo prévio                                |
+|----------------------------------------------|
+| [Dados digitais](https://insper.github.io/Z01.1/Teoria-Dados/) |
+
+1. Expositiva/ Dúvidas (0h40):
+    - Slides
+
+1. Handout/ Exercício (1h20):
+    - [Dados Digitais 1](https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing)
+    - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
+
+
 ## Aula 16/02
 
 Aula de apresentação da matéria; visão geral do que vai ser feito; criação de grupos.
+    - [Slide](https://github.com/Insper/Z01.1/blob/main/Aulas/01-OrganizacaoDeComputadores.pdf)
+    - [Prezi](https://prezi.com/view/InQMPs4wjxMtznUGlW6L/)
 
 <!--
 1. Slides (1h00):
-    - [Slide](https://github.com/Insper/Z01.1/blob/main/Aulas/01-OrganizacaoDeComputadores.pdf)
-    - [Prezi](https://prezi.com/view/InQMPs4wjxMtznUGlW6L/)
-    CALC
     
 1. Handout/ Estudo/ Exercício (40 min):
     - [Montar grupos](https://docs.google.com/spreadsheets/d/1XhAXg-nwWI8tvm6oyWrA2L4KHHK8cY8r19hw9sZuAhE/edit?usp=sharing)
