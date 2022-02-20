@@ -50,7 +50,8 @@ Acesse a página do repositório de vocês no :arrow_right: `github` :arrow_righ
 !!! tip "NomeDoGrupo"
     O Nome do grupo deve ser uma palavra que começe com a letra que o grupo recebeu...
     
-<button class="button0" id="1:fork-name" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ### Colaboradores
 
