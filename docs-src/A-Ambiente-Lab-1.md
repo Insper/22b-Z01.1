@@ -62,7 +62,8 @@ Isso irá criar uma cópia do repositório na sua conta, uma vez realizado a có
 
 ![Collaborators](figs/A-Transistores/A-Ferramental-github-collaborators.png)
 
-<button class="button0" id="2:colaboradores" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ### Ferramentas github
 
