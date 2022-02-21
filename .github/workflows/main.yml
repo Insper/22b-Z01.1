@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - docs
-
+ 
 # Environment
 env:
   CI: true
@@ -14,7 +14,6 @@ jobs:
      
   # Build and deploy documentation site
   deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
 
@@ -28,8 +27,23 @@ jobs:
 
       # pip
       - run: |
+          pip install mkdocs-material
           pip install -r requirements-mkdocs.txt
+          pip install mkdocs-minify-plugin>=0.2
+          
+      # Set configuration for repository and deploy documentation
+      - env:
+          GH_TOKEN: ${{ secrets.mkdocs }}
+          GH_NAME: ci
+          GH_EMAIL: corsiferrao@gmail.com
+        run: |
+          REMOTE="https://${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}"
+          git config --global user.name "${GH_NAME}"
+          git config --global user.email "${GH_EMAIL}"
+          git remote set-url origin ${REMOTE}
+              
       # deploy
       - run: |
           mkdocs gh-deploy --force
           mkdocs --version
+
