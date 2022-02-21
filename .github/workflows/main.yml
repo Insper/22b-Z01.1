@@ -1,4 +1,4 @@
-name: ci
+name: mkdocs
 on:
   push:
     branches:
@@ -14,7 +14,6 @@ jobs:
      
   # Build and deploy documentation site
   deploy:
-    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
 
@@ -29,6 +28,7 @@ jobs:
       # pip
       - run: |
           pip install -r requirements-mkdocs.txt
+          pip install mkdocs-minify-plugin>=0.2
           
       # deploy
       - run: |
