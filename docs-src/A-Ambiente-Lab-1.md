@@ -13,9 +13,8 @@ O grupo irá trabalhar de forma colaborativa via a utilização do git/ github. 
 
 Grupo de até 6 pessoas! Preencher a tabela a seguir:
 
-https://docs.google.com/spreadsheets/d/1XhAXg-nwWI8tvm6oyWrA2L4KHHK8cY8r19hw9sZuAhE/edit?usp=sharing
+[Tabela - Grupos](https://alinsperedu-my.sharepoint.com/:x:/g/personal/renan_doria_al_insper_edu_br/ERwwJyWmeUhJgj7veaSi9QYBauDtwgm_PubkRnnSMkVeiQ?e=z697eK)
 
-<iframe width="800" height="200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQDfb_L2u3uDbXfS4A-d0HIbBZsw04DLMZd_PXqmctQf6UWmvHErdbkV43DShwt_zWr7j6vqCr4o6PS/pubhtml?widget=true&amp;headers=false" ></iframe>
 
 ## GitHub
 
@@ -39,7 +38,8 @@ Note que criar um **fork** é diferente de criar apenas uma cópia. No **fork** 
 !!! tip "git"
     `fork` não existe no git, é algo implementado pelo github (e similares). É utilizado para criar uma 'cópia' de um repositório para podermos trabalhar nele sem a necessidade de mexermos no original.
 
-<button class="button0" id="0:fork" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ### Alterando o nome do Fork
 
@@ -50,7 +50,8 @@ Acesse a página do repositório de vocês no :arrow_right: `github` :arrow_righ
 !!! tip "NomeDoGrupo"
     O Nome do grupo deve ser uma palavra que começe com a letra que o grupo recebeu...
     
-<button class="button0" id="1:fork-name" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ### Colaboradores
 
@@ -61,7 +62,8 @@ Isso irá criar uma cópia do repositório na sua conta, uma vez realizado a có
 
 ![Collaborators](figs/A-Transistores/A-Ferramental-github-collaborators.png)
 
-<button class="button0" id="2:colaboradores" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ### Ferramentas github
 
@@ -82,14 +84,14 @@ Nessa disciplina iremos utilizar não só a ferramenta principal do github, que 
 
     - **Branch**: Ramo criado para implementar um feature/ correção de bug que será futuramente incorporado no master (merge)
 
-    - **Master**: Ramo principal do projeto, gerenciado pelo Scrum Master
+    - **Main**: Ramo principal do projeto, gerenciado pelo Scrum Master
 
     - **Pull-request**: Maneira de um lider de projeto receber alterações a um projeto e ter controle do que será aceito ou não. Na maioria dos casos o pull-request é criado por um usuário e revisado por outro. Quem for fazer a eletiva de [`Desenvolvimento Aberto`](https://igordsm.github.io/dev-aberto/aulas.html) do [Prof. Igor](https://github.com/igordsm) verá bem a fundo essa questão. 
 
 
-## Travis CI
+## Actions
 
-Travis é um sistema de integração contínua que vai executar de forma automática alguns testes (criado por nós) no projeto e em caso de alguma falha irá notificar no github e por e-mail todos os integrantes.
+Irá executar de forma automática alguns testes (criado por nós) no projeto e em caso de alguma falha irá notificar no github.
 
 Como ele funciona ? Ele fica verificando o repositório por alterações (você deve além de dar commit, dar push) e para cada novo commit ele faz o seguinte
 
@@ -98,7 +100,7 @@ Como ele funciona ? Ele fica verificando o repositório por alterações (você 
 3. Executa os scripts de teste localizados em cada projeto.
 4. Desliga e "deleta" a máquina virtual recém criada.
 
-O arquivo de configuração do travis está localizado na raiz do repositório: [`Z01.1/.travis.yml`](https://github.com/Insper/Z01.1/blob/master/.travis.yml). Nele que estão feitas todas as definições de execução.
+O arquivo de configuração está localizado na pasta: [`Z01.1/.github/workflows/`](https://github.com/Insper/Z01.1/blob/main/.github/workflows/actions.yml). Nele que estão feitas todas as definições de execução.
 
 Na pagina do seu repositório em commits deve aparecer uma pequena bolinha em cada um dos commits novos que serão feitos no projeto, esse indicador será atualizado pelo travis sendo:
 
@@ -109,16 +111,6 @@ Na pagina do seu repositório em commits deve aparecer uma pequena bolinha em ca
 !!! note
     Cada teste leva em torno de alguns minutos já que toda a infraestrutura é instalada sempre do zero, não utilize o sistema de Integração Contínua para validar as suas novas implementações, esse sistema deve ser utilizado para encontrar problemas mais amplos ou para o scrum master aceitar ou não um pull-request, já que o resultado do sucesso ou não dessa requisição é visível facilmente.
 
-## Ativando o Travis
-
-Será necessário acessar o site do travis:
-
-- [https://travis-ci.org/](https://travis-ci.org/) e adicione o projeto forkado ao travis:
-
-![Travis](figs/A-Transistores/C-config-travis.gif)
-
-
-<button class="button0" id="3:travis" onClick="progressBut(this.id);">Cheguei Aqui!</button>
 
 ### Arquivo GRUPO.json de configuração 
 

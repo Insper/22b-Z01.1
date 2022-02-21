@@ -6,16 +6,24 @@ Os critérios de avaliação a seguir serão aplicados a disciplina:
 
 Os alunos devem:
 
-1. Ter acumulado no mínimo 60 pontos de `HW` nas provas
-1. Ter acumulado no mínimo 60 pontos de `SW` nas provas
-1. Ter no mínimo conceito C no quesito `Grupo` em todos os Projetos. 
-1. Ter no máximo duas notas inferiores a C na avaliação individual do projeto (`Individual`).
+1. Ter acumulado no mínimo 50 pontos de `HW` (Álgebra booleana, lógica combinacional, unidade lógica aritmética, lógica sequencial, CPU) nas provas
+1. Ter acumulado no mínimo 50 pontos de `SW` (Dadoss digitais, assembly, assembler, máquina virtual, VM translator) nas provas
+1. Ter no mínimo conceito C na média de todos os Projetos nos quesitos `Individual` e `Grupo` 
+1. Ter no máximo duas notas inferiores a C na avaliação individual e uma nota inferior a C na avaliação coletiva dos Projetos
 
 ## Provas
 
-Ao longo do semestre o aluno deve acumular `60 pontos` de `Software` e `60 pontos` de `Hardware` esses pontos estarão distribuídos nas quatro provas (A1, A2, A3, A4) que serão aplicadas ao longo do semestre. 
+Ao longo do semestre o aluno deve acumular `50 pontos` de `Software` e `50 pontos` de `Hardware` esses pontos estarão distribuídos nas quatro provas (A1, A2, A3, A4) que serão aplicadas ao longo do semestre. 
 
 A nota final de **prova** (atingido atingido o critério) será a média da soma das notas de HW e SW  aplicado o conceito (final da página).
+
+| Provas           | Pontuação HW        | Pontuação SW        |  Pontuação Total    | Conteúdo            |
+|------------------|---------------------|---------------------|---------------------|---------------------|
+| A1               | 30                  | 10                  | 40                  | Álgebra booleana, dados digitais |
+| A2               | 40                  | 10                  | 50                  | Dados digitais, lógica combinacional, ULA, lógica sequencial |
+| A3               | 20                  | 35                  | 55                  | Assembly, CPU |
+| A4               | 10                  | 45                  | 55                  | Assembler, máquina virtual, VM translator, álgebra booleana |
+| Total            | 100                 | 100                 | 200                 | |
 
 ## Projetos (APS)
 

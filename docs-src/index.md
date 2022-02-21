@@ -3,10 +3,10 @@
 ![](figs/icon-elementos.png)
 
 - **Curso:** Engenharia Da Computação - Terceiro semestre
-- **Disciplina:** Elementos de Sistemas [Insper](https://www.insper.edu.br/) - 2021-2.
+- **Disciplina:** Elementos de Sistemas [Insper](https://www.insper.edu.br/) - 2022-1.
 - **Prof.** Renan Trevisoli / renantd@insper.edu.br
 - **Repositório:** [http:/github.com/Insper/Z01.1](http:/github.com/Insper/Z01.1)
-- **Local:** Laboratório de Informática  - 404
+- **Local:** Laboratório de Informática  <!-- - 404 -->
 
 **© Todos os direitos reservados**
 
@@ -32,11 +32,11 @@ Desenvolver um computador do ZERO!
 
 A disciplina é avaliada em duas frentes: avaliação individual e APS:
 
-- Individual: ao longo do semestre o aluno deve acumular `60 pontos` de `Software` e `60 pontos` de `Hardware` 
+- Individual: ao longo do semestre o aluno deve acumular `50 pontos` de `Software` e `50 pontos` de `Hardware` 
 esses pontos estarão distribuídos nas quatro avaliações (A1,A2,A3,A4) que serão aplicadas ao longo do semestre. 
 
 - APS: Compostas por duas notas: `Grupo` e `Individual` sendo que cada uma segue uma 
-rubrica diferente e avalia objetivo diferentes do curso.
+rubrica diferente e avalia objetivos diferentes do curso.
 
 ## Infraestrutura
 

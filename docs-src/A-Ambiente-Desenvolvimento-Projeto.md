@@ -4,7 +4,7 @@ Nesse projeto iremos configurar grande parte do ambiente de desenvolvimento a se
 
 1. Repositório github
 1. Teams
-1. Travis CI
+1. Actions
 
 Esse projeto também tem como objetivo introduzir a dinâmica de trabalho e avaliação que será usada na disciplina, onde uma pessoa é responsável pela gestão do projeto e avaliação dos colegas e as demais por implementar o que é pedido.
 
@@ -27,7 +27,6 @@ Para a entrega ser aceita:
 1. `GRUPO.json` atualizado corretamente
 1. `INTEGRANTES.json` atualizado
 1. Teste de arquivos `.json` passando
-1. Travis configurado
 1. Integrantes do grupo realizaram pull-request e os mesmos foram aceitos
 1. Ter criado um canal dentro no Teams da disciplina
 

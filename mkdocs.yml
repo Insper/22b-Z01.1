@@ -1,8 +1,7 @@
 site_name: 'Elementos de Sistemas'
 theme:
-  name: 'material'
+  name: active-handout
   features:
-#    - navigation.tabs
     - navigation.instant
   palette:
       primary: 'black'
@@ -21,6 +20,61 @@ copyright: 'Copyright &copy; Rafael Corsi @ insper'
 google_analytics:
   - UA-G-XQ38NZ62XF
   - auto
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/gh/insper-education/active-handout-plugins-js@main/package/plugin-bundle.js
+
+plugins:
+    - search
+    - git-revision-date-localized
+
+extra:
+  ihandout_config:
+#    calendar: /active-handout/reference/calendar/calendar.yml
+#    counter:
+#      - question
+#      - tip
+#      - exercise
+#      - example
+    report:
+      api-base: https://127.0.0.1:8080/api/offerings/1/
+      url: https://127.0.0.1:8080/api/offerings/1/exercises/
+
+markdown_extensions:
+  - markdown.extensions.attr_list
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 nav:
 - Home:
@@ -44,7 +98,7 @@ nav:
   - 'assembler-Projeto.md'
   - 'vm-Projeto.md'
   - 'J-VMtranslator-Projeto.md'
-  - 'X-Processadores-Projeto.md'
+  # - 'X-Processadores-Projeto.md'
 
 - Labs:
   - 'A-Ambiente-Lab-1.md'
@@ -76,10 +130,10 @@ nav:
     - 'VMtranslator-Lab-1.md'
 
 - 'Teoria':
+  - 'Teoria-Dados.md'
   - 'Teoria-Algebra-Booleana.md'
   - 'Teoria-CMOS.md'
   - 'Teoria-RTL.md'
-  - 'Teoria-Dados.md'
   - 'Teoria-Componentes.md'
   - 'Teoria-Aritmetica-Binaria.md'
   - 'Teoria-Aritmetica-Binaria-HW.md'
@@ -115,19 +169,21 @@ nav:
   - 'Resumo VM': 'Util-Resumo-VM.md'
 
 - 'Estudo':
-  - 'Exercicio-Algebra-Booleana-1.md'
-  - 'Exercicio-Algebra-Booleana-2.md'
   - 'Dados Digitais - 1': 'https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing'
+  - 'Dados Digitais - 1 - pdf': 'https://github.com/Insper/Z01.1/blob/main/Exercicios/Dados_1.pdf'
+  - 'Dados Digitais - 1 - respostas': 'https://github.com/Insper/Z01.1/blob/main/Exercicios/Dados_1_respostas.pdf'
   - 'Exercicio-Dados-2.md'
+  - 'Dados Digitais - 2 - respostas': 'https://github.com/Insper/Z01.1/blob/main/Exercicios/Exercicio-Dados-2_resolucao.pdf'
+  - 'Exercicio-Algebra-Booleana-1.md'
+  - 'Exercicio-Algebra-Booleana-2.md'  
   - 'Handout Aritmetica Booleana': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana.pdf'
-  - 'Handout Aritmetica Booleana - Resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana_resolvido.pdf'
+#  - 'Handout Aritmetica Booleana - Resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Aritmetica-Booleana_resolvido.pdf'
   - 'Lógica Sequencial': 'https://forms.gle/XMsFCDMYsmz1qUP86'
-  - 'Lógica Sequencial - resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Lógica-Sequencial_resolucao.pdf'
+#  - 'Lógica Sequencial - resolução': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Lógica-Sequencial_resolucao.pdf'
   - 'Linguagem de Máquina': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina.pdf' #'https://forms.gle/6jNZR4CAELJ69ZjXA'
-  - 'Linguagem de Máquina - respostas': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina_respostas.pdf' 
+#  - 'Linguagem de Máquina - respostas': 'https://github.com/Insper/Z01.1/blob/master/Exercicios/Linguagem_de_maquina_respostas.pdf' 
   - 'Exercicio-CPU-1.md'
   - 'Exercicio-CPU-2.md'
-
 
 - Útil:
   - 'Util-Comecando-novo-projeto.md'
@@ -143,48 +199,3 @@ nav:
 #- Atendimento:
 #  - 'Atendimento.md'
 
-extra_css:
-  - css/progress.css
-  - css/quizlib.css
-
-extra_javascript:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML
-  - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.0.0/js-yaml.min.js
-  - js/markdown-enhancer.js
-
-plugins:
-    - search
-
-# Extensions
-markdown_extensions:
-  - markdown.extensions.attr_list
-  - markdown.extensions.admonition
-  - markdown.extensions.codehilite:
-      guess_lang: false
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
-  - markdown.extensions.toc:
-      permalink: true
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.tilde
