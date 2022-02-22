@@ -322,6 +322,16 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 ## Aula 3
 
+
+## Aula 2 
+
+1. Laboratório (15 min): 
+    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-2)
+preparar github do grupo
+-->
+
+## Aula 25/02
+
 Trabalhar com transistores e circuitos integrados.
 
 | Estudo prévio                                            |
@@ -330,30 +340,25 @@ Trabalhar com transistores e circuitos integrados.
 | [Teoria CMOS](https://insper.github.io/Z01.1/Teoria-CMOS/) |
 
 1. Expositiva/ Dúvidas  (0h40):
-    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/03-Slides-Transitores.pdf)
 
 1. Laboratório (1h20):
-    - [Lab 3: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
+    - [Lab 1: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
+    
 
-## Aula 2 
+## Aula 23/02
 
-Estudar lógica booleana e praticar; Introdução ao git com trabalho coletivo.
+Estudar lógica booleana e praticar
 
 | Estudo prévio                                                                      |
 |------------------------------------------------------------------------------------|
 | [Teoria Álgebra Booleana](https://insper.github.io/Z01.1/Teoria-Algebra-Booleana/) |
 
 1. Expositiva/ Dúvidas  (45 min)
-    - [Slides](https://github.com/Insper/Z01.1/blob/main/Aulas/02-AlgebraBooleana.pdf) 
 
-1. Handout/ Exercício/ Vevox (1h00):
+1. Handout/ Exercício/ Vevox (1h15):
     - [Álgebra Booleana - 1](/Z01.1/Exercicio-Algebra-Booleana-1)
     - [Álgebra Booleana - 2](/Z01.1/Exercicio-Algebra-Booleana-2)
 
-1. Laboratório (15 min): 
-    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-2)
-preparar github do grupo
--->
 
 ## Aula 18/02
 
