@@ -5,22 +5,31 @@
 !!! tip ""
     [:pencil: Resolução](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Algebra-Booleana-1-resolucao.pdf)
 
-### Indique o nome dos elementos lógicos a seguir:
 
-![](figs/Exercicios/AlgebraBooleana-componentes.png)
+!!! exercise text short
+    Indique o nome dos elementos lógicos a seguir:
+
+    ![](figs/Exercicios/AlgebraBooleana-componentes.png)
+    
+    !!! answer
+        and, nand, or, nor, xor, not
 
 ----------------
 
 ### Tabela verdade
 
-- A tabela verdade a seguir representa qual porta lógica?
+!!! exercise text short
+    A tabela verdade a seguir representa qual porta lógica?
 
-| A | B | OUT |
-|---|---|-----|
-| 0 | 0 |   0 |
-| 0 | 1 |   1 |
-| 1 | 0 |   1 |
-| 1 | 1 |   0 |
+    | A | B | OUT |
+    |---|---|-----|
+    | 0 | 0 |   0 |
+    | 0 | 1 |   1 |
+    | 1 | 0 |   1 |
+    | 1 | 1 |   0 |
+    
+    !!! answer
+        xor
 
 - A tabela verdade a seguir representa qual porta lógica?
 
