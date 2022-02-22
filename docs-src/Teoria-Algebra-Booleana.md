@@ -28,8 +28,8 @@ Em Álgebra Booleana as variáveis só podem assumir dois valores. Desligado e l
 
     <iframe width="710" height="520" src="https://www.youtube.com/embed/ewokFOSxabs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; -picture" allowfullscreen></iframe>
 
-
-<button class="button0" id="0:bit" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## Equações
 
@@ -75,7 +75,8 @@ Também podemos representar essa equação `X = A . B` como sendo um circuito di
 
     <iframe width="710" height="520" src="https://www.youtube.com/embed/rZwCJWOhNG0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<button class="button0" id="1:equacoes" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## Operações
 
@@ -196,7 +197,8 @@ Para as demais portas lógicas, consulte a referência: https://en.wikipedia.org
       </div>
       
       
-<button class="button0" id="2:portas-logicas" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## Tabela Verdade
 
@@ -219,7 +221,8 @@ Nessa tabela criamos colunas para cada variável de entrada e de saída e coloca
     <iframe style="width:100%;height:300px;border:1px solid #cfcfcf;" src="https://www.riddle.com/a/227867?" title="Pop Quiz - Lógica booleana - Tabela Verdade"><section><h2><p>Lógica booleana - Tabela Verdade</p></h2><p><p>Responda sobre tabela verdade</p></p></section><section><h2><h2>É correto afirmar sobre a tabela verdade:</h2></h2><p><p>(pode existir mais de um item correto)</p></p></section><section><h3><p>Considerando um circuito de <strong>4 entradas</strong> (A,B, C, D) quantas são as linhas da tabela verdade?</p></h3></section><section><h3><h2><strong>﻿Qual tabela verdade a seguir foi montada correta?</strong></h2></h3></section><section><h3><p>Considerando a equação:<strong> X = not(B) + A</strong>, e a tabela verdade da imagem, qual resposta está correta (na sequência da tabela)? </p><p><br></p><p>Resposta na sequência: X0; X1; X2; X3</p></h3></section><section><h2></h2></section><section><h3></h3></section></iframe>
     </div>
     
-<button class="button0" id="2:tabela-verdade" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
     
 ## Funções geradas a partir de Tabelas Verdade
 
@@ -230,7 +233,6 @@ Nessa tabela criamos colunas para cada variável de entrada e de saída e coloca
 - Soma dos Produtos (SoP) 
 - Produto das Somas (PoS)
 
-<button class="button0" id="3:tabela-verdade-funcoes" onClick="progressBut(this.id);">Cheguei Aqui!</button>
 
 ### Soma Dos Produtos
 
@@ -267,7 +269,8 @@ Nesse método, precisamos encontrar as linhas da tabela verdade que resultam em 
     <iframe style="width:100%;height:300px;border:1px solid #cfcfcf;" src="https://www.riddle.com/a/228672?" title="Tap And Find - ﻿Lógica Booleana - Equações Canônicas "><section><h2><h2><strong>﻿Lógica Booleana - Equações Canônicas </strong></h2></h2><p><p>Encontre a equação correta dada a tabela verdade ou vice versa</p></p></section><section><h2><h2><strong>﻿Qual forma é a mais adequada?</strong></h2></h2></section><section><h3><h2><strong>﻿Qual forma é a mais adequada?</strong></h2></h3></section><section><h3><p>Qual equação representa a tabela verdade?</p></h3></section><section><h3><p>Qual equação representa a tabela verdade?</p></h3></section><section><h2></h2></section><section><h3></h3></section></iframe>
     </div><p class="link-riddle" style="width: 640px; margin: 0px auto; padding-top: 10px;"><a href="https://www.riddle.com"  rel="nofollow" target="blank">Quiz Maker</a> - powered by Riddle</p>
 
-<button class="button0" id="4:tabela-verdade-soma-dos-produtos" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## Simplificação
 
@@ -309,9 +312,10 @@ Para simplificarmos uma equação, aplicamos as propriedades da tabela anterior 
 1. Minimize o uso de 'portas lógicas'
     - exe: $(A . B) . C  + A . B . D$ -> $(A . B)(C + D)$
 1. Elimine minimize as entradas necessárias
-    - exe: $(A \overline{A}.B)$ ->  $B$
+    - exe: $( (A + \overline{A}).B)$ ->  $B$
 
-<button class="button0" id="5:simplificacao" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 #### Exemplos
 
@@ -386,7 +390,8 @@ Como seria mais lógico (já que em binário: `00 = 0; 01 = 1; 10 = 2; 11 = 3`).
     <iframe style="width:100%;height:300px;border:1px solid #cfcfcf;" src="https://www.riddle.com/a/228677?" title="Tap And Find - Lógica Booleana - Karnaugh 1"><section><h2><p>Lógica Booleana - Karnaugh 1</p></h2><p><p>Encontre a montagem do mapa de Karnaugh correta.</p></p></section><section><h2><p>Qual mapa de K. foi montado certo?</p></h2></section><section><h3><p>Qual mapa de K. foi montado certo?</p></h3></section><section><h2></h2></section><section><h3></h3></section></iframe>
     </div><p class="link-riddle" style="width: 640px; margin: 0px auto; padding-top: 10px;"><a href="https://www.riddle.com"  rel="nofollow" target="blank">Quiz Maker</a> - powered by Riddle</p>
 
-<button class="button0" id="6:mapa-de-karnought" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 #### 3. Grupos
 
@@ -471,7 +476,8 @@ Podemos pensar no MK **não como sendo uma tabela plana**, mas sim uma superfíc
     </div><button id="riddleFullScreenButton-228679" class="btn-fullscreen" onclick="window.riddleAPI.toggleFullScreen(228679);"><img src="https://cdn.riddle.com/website/assets/icons/spot/screenfull.7vg" /></button>
 
   
-<button class="button0" id="7:mapa-de-karnought-grupos" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 #### 4. Gerando as equações
 
@@ -516,4 +522,3 @@ Gera-se uma equação por agrupamento, cada grupo irá fornecer um componente na
 !!! example "Casos extras"
     ![](figs/Teoria/LogicaBooleana-mk-exemplo2.png)
 
-<button class="button0" id="8:mapa-de-karnought-equacoes" onClick="progressBut(this.id);">Cheguei Aqui!</button>
