@@ -7,7 +7,7 @@
 
 
 !!! exercise
-    Indique o nome dos elementos lógicos a seguir:
+    1. Indique o nome dos elementos lógicos a seguir:
 
     ![](figs/Exercicios/AlgebraBooleana-componentes.png)
 
@@ -16,7 +16,7 @@
 ### Tabela verdade
 
 !!! exercise
-    A tabela verdade a seguir representa qual porta lógica?
+    1. A tabela verdade a seguir representa qual porta lógica?
 
     | A | B | OUT |
     |---|---|-----|
@@ -26,7 +26,7 @@
     | 1 | 1 |   0 |
 
 !!! exercise
-    A tabela verdade a seguir representa qual porta lógica?
+    1. A tabela verdade a seguir representa qual porta lógica?
 
     | A | B | OUT |
     |---|---|-----|
