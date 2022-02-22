@@ -6,19 +6,16 @@
     [:pencil: Resolução](https://github.com/Insper/Z01.1/blob/master/Exercicios/Exercicio-Algebra-Booleana-1-resolucao.pdf)
 
 
-!!! exercise text short
+!!! exercise
     Indique o nome dos elementos lógicos a seguir:
 
     ![](figs/Exercicios/AlgebraBooleana-componentes.png)
-    
-    !!! answer
-        and, nand, or, nor, xor, not
 
 ----------------
 
 ### Tabela verdade
 
-!!! exercise text short
+!!! exercise
     A tabela verdade a seguir representa qual porta lógica?
 
     | A | B | OUT |
@@ -27,22 +24,19 @@
     | 0 | 1 |   1 |
     | 1 | 0 |   1 |
     | 1 | 1 |   0 |
-    
-    !!! answer
-        xor
 
-- A tabela verdade a seguir representa qual porta lógica?
+!!! exercise
+    A tabela verdade a seguir representa qual porta lógica?
 
-| A | B | OUT |
-|---|---|-----|
-| 0 | 0 |   1 |
-| 0 | 1 |   1 |
-| 1 | 0 |   1 |
-| 1 | 1 |   0 |
+    | A | B | OUT |
+    |---|---|-----|
+    | 0 | 0 |   1 |
+    | 0 | 1 |   1 |
+    | 1 | 0 |   1 |
+    | 1 | 1 |   0 |
 
 ----------------
 
-\newpage
 
 ### Aplicando a lei da Distributividade na expressão $A(B+\bar{C}+D)$ se tem:
 
