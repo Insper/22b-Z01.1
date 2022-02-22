@@ -180,12 +180,12 @@
     Qual das seguintes propriedades da álgebra booleana é falsa:
 
     - [ ] $A . (\bar{A} + B)= A . B$
-    - [ ] $A + (A . B) = A$
+    - [x] $A + (\bar{A} . B) = A$
     - [ ] $A + \bar{A} = 1$
     - [ ] $A . A = A$
        
     !!! answer
-        não há
+        $A + (\bar{A} . B) = A$
 
 ----------------
 
