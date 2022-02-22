@@ -7,7 +7,7 @@
 
 
 !!! exercise text short
-    1. Indique o nome dos elementos lógicos a seguir:
+    Indique o nome dos elementos lógicos a seguir:
 
     ![](figs/Exercicios/AlgebraBooleana-componentes.png)
     
@@ -202,14 +202,13 @@
 !!! exercise
     Encontre as equações para os mapas de Karnaugh a seguir:
 
-    1. ![](figs/Exercicios/AlgebraBooleana-MK-1.png)
+    ![](figs/Exercicios/AlgebraBooleana-MK-1.png)
 
 ----------------
 
 !!! exercise
     Crie o mapa de Karnaugh e encontre a equação da tabela verdade a seguir.
 
-    1. 
      | **A** | **B** | **C** | **OUT** |
      |-------|-------|-------|---------|
      |     0 |     0 |     0 |       1 |
@@ -226,8 +225,6 @@
 
 !!! exercise
     Crie o mapa de Karnaugh da tabela verdade de quatro entradas.
-
-    1. 
 
      | **A** | **B** | **C** | **D** | **OUT** |
      |-------|-------|-------|-------|---------|
@@ -253,14 +250,14 @@
 !!! exercise
     Crie o mapa de Karnaugh para a expressão a seguir e simplifique:
 
-    1. $ABC\bar{D} + \bar{A}\bar{B}CD + A \bar{B}\bar{C}D + \bar{A} + \bar{B} + \bar{C} + \bar{D}$       
+    $ABC\bar{D} + \bar{A}\bar{B}CD + A \bar{B}\bar{C}D + \bar{A} + \bar{B} + \bar{C} + \bar{D}$       
 
 ----------------
 
 !!! exercise
     A seguinte expressão foi resultado da forma canônica do produto de somas de uma tabela verdade para a produção de um circuito lógico. O objetivo é simplificar a álgebra booleana dessa lógica para o menor número possível de portas, porém visivelmente quem fez essa fórmula não percebeu que se tivesse feito a soma de produtos já partiria com um número menor de termos. Converta essa fórmula para a soma de produtos e minimize-a.
 
-    1. $(A+B+C)(A+B+\bar{C})(A+\bar{B}+C)(\bar{A}+B+C)(\bar{A}+\bar{B}+C)$
+    $(A+B+C)(A+B+\bar{C})(A+\bar{B}+C)(\bar{A}+B+C)(\bar{A}+\bar{B}+C)$
 
     > dica: Equação -> tabela verdade -> soma dos produtos
 
