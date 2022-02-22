@@ -46,14 +46,18 @@
 
 ----------------
 
+!!! exercise choice "Pergunta"
+    Aplicando a lei da Distributividade na expressão $A(B+\bar{C}+D)$ se tem:
 
-### Aplicando a lei da Distributividade na expressão $A(B+\bar{C}+D)$ se tem:
+    - [ ] $A . B + A . C + A . D$
+    - [ ] $A . B . C . D$
+    - [ ] $A + B + C + D$
+    - [X] $A B + A\bar{C} + A . D$
 
-1. $A . B + A . C + A . D$
-1. $A . B . C . D$
-1. $A + B + C + D$
-1. $A B + A\bar{C} + A . D$
 
+    !!! answer
+        $A B + A\bar{C} + A . D$
+        
 ----------------
 
 
