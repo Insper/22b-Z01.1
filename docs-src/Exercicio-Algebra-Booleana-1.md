@@ -133,7 +133,7 @@
     $A \bar{B} \bar{C} + \bar{A} B C + \bar{A} B \bar{C} + A \bar{B} \bar{C} + A B C$
     
     !!! answer
-        5
+        4
 
 ----------------
 
