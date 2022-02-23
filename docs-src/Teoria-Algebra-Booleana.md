@@ -245,7 +245,7 @@ Na soma dos produtos iremos encontrar uma equação booleana que possui a seguin
          | = '1'
 ```
 
-Nesse método, precisamos encontrar as linhas da tabela verdade que resultam em uma saída **'1'** (Verdadeira) e invertendo (ou não) as entras fazendo com que o termo `( . . . .)` resulte em **'1'** para a linha em questão.
+Nesse método, precisamos encontrar as linhas da tabela verdade que resultam em uma saída **'1'** (Verdadeira) e invertendo (ou não) as entradas fazendo com que o termo `( . . . .)` resulte em **'1'** para a linha em questão.
 
 
 ### Produto das somas 
@@ -257,7 +257,7 @@ Nesse método, precisamos encontrar as linhas da tabela verdade que resultam em 
          | = '0'
 ```
 
-Nesse método, precisamos encontrar as linhas da tabela verdade que resultam em uma saída **'0'** e invertendo (ou não) as entras gazer com que o termo `( . . . .)` resulte em **'0'** para a linha em questão.
+Nesse método, precisamos encontrar as linhas da tabela verdade que resultam em uma saída **'0'** e invertendo (ou não) as entradas fazendo com que o termo `( . . . .)` resulte em **'0'** para a linha em questão.
 
 !!! example
     ![](figs/Teoria/LogicaBooleana-tv-exe1.png)
