@@ -126,7 +126,8 @@ Vamos agora gerar o pull-request na interface do github, de forma similar ao exe
 !!! tip
     Ao realizar o PR, o `Actions` irá verificar o seu arquivo com o mesmo teste que você executou anteriormente, esse será o fluxo geral da disciplina, onde o mesmo teste é realizado local na máquina de cada aluno e remoto automaticamente pelo Actions.
 
-<button class="button0" id="3:pullrequest" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## Aceitando pull-request
 
