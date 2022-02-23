@@ -101,9 +101,10 @@ nav:
   # - 'X-Processadores-Projeto.md'
 
 - Labs:
+  - 'A-Transistores-Lab-1-22.md'
   - 'A-Ambiente-Lab-1.md'
   - 'A-Ambiente-Lab-2.md'
-  - 'A-Transistores-Lab-1.md'
+#  - 'A-Transistores-Lab-1.md'
   - 'LogiComb-Lab-1.md'
   - 'LogiComb-Lab-2.md'
   - 'ula-Lab-1.md'
