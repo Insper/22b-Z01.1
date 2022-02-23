@@ -31,7 +31,8 @@ $ git clone $URL_DO_FORK
 !!! Linux
     Para abrir o terminal: `meta`+`t` 
 
-<button class="button0" id="0:clonando" onClick="progressBut(this.id);">Cheguei Aqui!</button> 
+!!! progress 
+    Cheguei Aqui!
 
 
 ## Adicionando nomes ao `INTEGRANTES.json`
@@ -72,7 +73,8 @@ e adicionar a esse arquivo o seu nome, e-mail (insper) e usuário gituhb. Confor
     
     - Cada um deve realizar individualmente em seu computador.
 
-<button class="button0" id="1:integrantes.json" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## branch / commit
 
@@ -104,7 +106,8 @@ $ git push origin $NOME
     Esse comando diz para o git que é para enviar o branch `$NOME` 
     para o repositório remoto `origin`. Aquele que aparece no comando `$ git remote -v`.
 
-<button class="button0" id="2:branch-push" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress 
+    Cheguei Aqui!
 
 ## Realizando pull-request
 
