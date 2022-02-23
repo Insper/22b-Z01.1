@@ -1,4 +1,4 @@
-# Lab 1: Configurando Github
+# Lab 2: Configurando Github
 
 Devemos começar a preparar o terreno para os projetos em grupo que estarão por vir, nessa etapa vocês devem montar um grupo de 5/6 colegas e dar um nome a ele (os grupos são nomeados por letras, a primeira letra do nome do seu grupo será fornecida pelo professor).
 
