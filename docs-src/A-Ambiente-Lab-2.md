@@ -137,6 +137,5 @@ Vamos agora gerar o pull-request na interface do github, de forma similar ao exe
 O **mediador** do projeto deve revisar os pull-requests (e corrigir eventuais erros de merge) 
 e aceitar ou negar o pedido. 
 
-<button class="button0" id="4:aceitandoPR" onClick="progressBut(this.id);">Cheguei Aqui!</button>
 
 ![](figs/B-CI/pullrequest-accept.gif)
