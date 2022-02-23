@@ -138,7 +138,7 @@ w 320 304 240 304 0
 !!! progress
     Cheguei Aqui!
 
-## Parte 2 - RTL
+## Parte 2 - RTL e CMOS
 
 <!---
 !!! note "Modo online"
@@ -160,6 +160,7 @@ Cada grupo receberá:
 - 10 transistores NPN s9013
 - 10 transistores PNP s9012
 - 20 resistores de 330
+- 2 CIs CD4007
 - 10 LEDs coloridos (Vermelho e amarelo)
 
 ![](figs/A-Transistores/materiais.jpg)
@@ -214,6 +215,11 @@ Para isso vocês deverão:
 
 !!! note "Solução"
     https://www.tinkercad.com/things/bnWLvsuRvp6-neat-lappi-snicket/editel?sharecode=QlWtWTyxH18eCaVwphNPVTpzdXW9IlssdNUmgLUOtAU
+
+!!! progress
+    Cheguei Aqui!
+
+Implemente agora uma porta lógica do tipo NOT usando transistores MOS utilizando o CD4007. 
 
 !!! progress
     Cheguei Aqui!
