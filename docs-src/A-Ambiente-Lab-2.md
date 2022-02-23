@@ -1,4 +1,4 @@
-# Lab 2: Github
+# Lab 3: Github
 
 Nesse laboratório iremos trabalhar com o uso do git de forma colaborativa.
 
