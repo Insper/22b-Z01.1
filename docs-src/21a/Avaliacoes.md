@@ -95,11 +95,14 @@ Liberado consulta ao material da disciplina.
     - Conversão entre bases
     - Complemento de 2
 
-<!--
+
 Avaliação teórica será realizado no blackboard, com proctorio e sem consulta.
 
-- Simulado: 
-    -  [Av1](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1-Simulado.pdf)
+- Atividade de revisão:
+    - [Prairie Learn](https://www.prairielearn.org/pl/course_instance/129146/assessment/2317661)
+    
+- Prova 02/2021
+    -  [Prova](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
 
 - Questões de ENADE: 
     -  [2008](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/enade2008.pdf)
@@ -107,5 +110,5 @@ Avaliação teórica será realizado no blackboard, com proctorio e sem consulta
     -  [2017](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/enade2017.pdf)
     -  [Video](https://drive.google.com/file/d/1fPyAzyWFIXi8NeilBf5AIsQoe6tl9jbh/view?usp=sharing)
 
--->
+
 
