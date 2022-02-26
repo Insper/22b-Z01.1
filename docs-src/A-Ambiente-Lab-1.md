@@ -134,5 +134,3 @@ $ git commit -am "update Grupo"
 $ git push origin main
 ```
 
-!!! progress 
-    Cheguei Aqui!
