@@ -495,7 +495,7 @@ Gera-se uma equação por agrupamento, cada grupo irá fornecer um componente na
     A equação feita via a tabela verdade seria:
    
     
-    $\bar{A}.B + \bar{A} . \bar{B}$ que pode ser reduzida para $\bar{A} (\bar{B}. B)$ e então para: $\bar{A}$
+    $\bar{A}.B + \bar{A} . \bar{B}$ que pode ser reduzida para $\bar{A} (\bar{B} + B)$ e então para: $\bar{A}$
     
     O mapa de Karnaugh já nos fornece o resultado de forma direta!
 
