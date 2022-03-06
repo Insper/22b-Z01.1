@@ -25,8 +25,9 @@ Toda vez que um novo projeto começar será necessário realizar algumas configu
 
 !!! warning
     Não seguir sem realizar a etapa anterior.
-
-<button class="button0" id="1:comencando-novo-projeto" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+    
+!!! progress
+    Cheguei aqui!
 
 ## Entendendo a estrutura de pastas dos projetos
 
@@ -62,7 +63,8 @@ Abra o software do `Quartus` ![](figs/LogiComb/quartusIcon.png){width=30px} e cl
 
 Abra o arquivo `TopLevel.vhd` como demonstrado no gif anterior, este arquivo é o que chamamos de [top level](https://www.xilinx.com/support/documentation/sw_manuals/xilinx10/isehelp/pfp_p_toplevelhdl.htm) (pode-se fazer uma analogia com o `main` de um código), ele será o primeiro a ser executado na compilação e utilizará os demais módulos do sistema.
 
-<button class="button0" id="2:abrindo-o-quartus" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 ### Compilando o código
 
@@ -73,7 +75,8 @@ Para compilarmos esse código VHDL basta irmos em: `Processing` :arrow_right: `S
 
 ![Compilando](figs/LogiComb/Quartus2.gif)
 
-<button class="button0" id="3:compilando" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 ### RTL View
 
@@ -96,7 +99,8 @@ Onde podemos analisar que não existe nenhuma lógica que relaciona entrada com 
 !!! tip 
     Iremos utilizar bastante o RTL, aprenda a gerar e a interpretar! 
 
-<button class="button0" id="4:rtl-view" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 ### Modificando o projeto
 
@@ -124,48 +128,47 @@ O resultado deve ser o seguinte:
 
 Onde o valor do `LEDR0` será o próprio valor de entrada chave `SW0`.
 
-??? info "Programando a FPGA: Para quem estiver no insper"
-    Essa etapa deve ser realizada somente para quem está 
-    presente no insper.
+### "Programando a FPGA: Para quem estiver no insper"
 
-    ![](figs/LogiComb/de0-cv.jpeg){wdith=10px}
+![](figs/LogiComb/de0-cv.jpeg){wdith=10px}
 
-    Para programar a FPGA você deve:
-    
-    - Conectar a placa via USB (não precisa da fonte)
-    - Ligar a placa (botão vermelho)
-    - Verificar se a chave SW10 está em 'run'
+Para programar a FPGA você deve:
 
-    No quartus vá em `Tools` :arrow_right: `Programmer`. Ele deve abrir uma nova interface:
+- Conectar a placa via USB (não precisa da fonte)
+- Ligar a placa (botão vermelho)
+- Verificar se a chave SW10 está em 'run'
 
-    ![Programando](figs/LogiComb/quartus-pgr.gif)
+No quartus vá em `Tools` :arrow_right: `Programmer`. Ele deve abrir uma nova interface:
 
-    Mexa na chave SW0 e note que o LED irá acender conforme a chave é colocada na posição on.
+![Programando](figs/LogiComb/quartus-pgr.gif)
 
-<button class="button0" id="5:modificando" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+Mexa na chave SW0 e note que o LED irá acender conforme a chave é colocada na posição on.
+
+!!! progress
+    Cheguei aqui!
 
 ## Exercícios
 
-Para cada desafio proposto a seguir, verifique se o RTL corresponde a lógica que deseja implementar. ~~Se estive no Insper teste o programa na FPGA:~~
+Para cada desafio proposto a seguir, verifique se o RTL corresponde a lógica que deseja implementar.
 
 1. Compile
 1. Verifique o RTL
-1. ~~Programe a FPGA (se estiver no insper)~~
+1. Programe a FPGA
     
-!!! tip
-    valide analisando o RTL ou programando a placa.
-
-<button class="button0" id="6:exe1" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+<!-- !!! tip
+    valide analisando o RTL ou programando a placa. -->
 
 !!! example "Tarefa"
     Faça a saída `LEDR(0)` ser o inverso da entrada `SW(0)`
 
-<button class="button0" id="7:exe2" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 !!! example "Tarefa" 
     Faça a saída `LEDR(0)` ser a entrada `SW(0) ou SW(1)`
 
-<button class="button0" id="8:exe3" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 !!! example "Tarefa"
     Faça:
@@ -173,7 +176,8 @@ Para cada desafio proposto a seguir, verifique se o RTL corresponde a lógica qu
     - `LEDR(0)` ser a entrada `SW(0) ou SW(1)` 
     - `LEDR(1)` ser a chave `SW(1)`
 
-<button class="button0" id="9:exe4" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 !!! example "Tarefa"
     Faça TODOs os LEDs acenderem quando a seguinte combinação de entrada for:
@@ -183,7 +187,8 @@ Para cada desafio proposto a seguir, verifique se o RTL corresponde a lógica qu
       1 0 0 1 1 0 1 0 1 0
     ```
 
-<button class="button0" id="10:exe5" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 !!! example "Tarefa"
     Escreva um código VHDL para implementar o circuito a seguir:
@@ -198,7 +203,8 @@ Para cada desafio proposto a seguir, verifique se o RTL corresponde a lógica qu
 
     **Dica:** encontre a equação, implemente em VHDL.
 
-<button class="button0" id="11:exe6" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 --------------------------
 
@@ -231,7 +237,6 @@ Agora com um display de 7segementos mapeado como saída (`out`) na nossa `entity
     1. Modifique a `entity` para possuir a nova saída
     1. Faça aparecer o número `5` no `HEX0`.
 
-<button class="button0" id="12:7seg" onClick="progressBut(this.id);">Cheguei Aqui!</button>
 
 <!--
 ## Adicionando um novo componente ao projeto
