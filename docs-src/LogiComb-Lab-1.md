@@ -128,7 +128,7 @@ O resultado deve ser o seguinte:
 
 Onde o valor do `LEDR0` será o próprio valor de entrada chave `SW0`.
 
-### "Programando a FPGA: Para quem estiver no insper"
+### "Programando a FPGA"
 
 ![](figs/LogiComb/de0-cv.jpeg){wdith=10px}
 
