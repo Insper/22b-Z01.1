@@ -121,15 +121,15 @@ Deve-se implementar os seguintes circuitos combinacionais:
     - **Arquivo**   : `Or8Way.vhd`
     - **Descrição** : OR entre 8 bits, resulta em uma única saída
  
-- Demultiplexiador de 2 saídas 
+- Demultiplexador de 2 saídas 
     - **Arquivo**   : `DMux2Way.vhd`
     - **Descrição** : Demultiplexa uma entrada binária em duas saídas.
     
-- Demultiplexiador de 4 saídas
+- Demultiplexador de 4 saídas
     - **Arquivo**   : `DMux4Way.vhd`
     - **Descrição** : Demultiplexa uma entrada binária em quatro saídas.
     
-- Demultiplexiador de 8 saídas
+- Demultiplexador de 8 saídas
     - **Arquivo**   : `DMux8Way.vhd`
     - **Descrição** : Demultiplexa uma entrada binária em oito saídas.
     
