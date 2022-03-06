@@ -5,7 +5,8 @@
 
 Esse laboratório introduz o modelo de desenvolvimento baseado em testes que será utilizado em todos os projetos.
 
-<button class="button0" id="0:comecando" onClick="progressBut(this.id);">Começando laboratório!</button>
+!!! progress
+    Começando...
 
 ## `or16.vhd`
 
@@ -53,7 +54,8 @@ O mesmo irá executar a compilação dos arquivos `src/*.vhd` e realizar testes 
 <script id="asciicast-hScw7GXpCGnSPw4ocDzwbt23m" src="https://asciinema.org/a/hScw7GXpCGnSPw4ocDzwbt23m.js" async></script>
 
 
-<button class="button0" id="1:executando-teste" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 
 Esse erro acontece pois o módulo não possui nenhuma implementação:
@@ -87,7 +89,8 @@ Teste novamente (`./testeLogicaCombinacional.py`) agora deve passar:
 
 <script id="asciicast-5CQCUV0yvDobOdOPZQgwaGMHI" src="https://asciinema.org/a/5CQCUV0yvDobOdOPZQgwaGMHI.js" async></script>
 
-<button class="button0" id="1:executando-teste-fixed" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 Uma vez implementando, testado e validado, podemos fazer o commit e enviar para
 o repositório do grupo esse novo branch. Essa modificação deve ser salva em novo branch **or16**. Dentro do terminal (na pasta do projeto C):
@@ -109,7 +112,8 @@ Com o branch enviado ao github você deve gerar um pull-request para o mediador 
     recever vários PRs desse branch, você só deve aceitar um, já que todos fizeram
     o mesmo.
 
-<button class="button0" id="2:push" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 ## `And16.vhd`
 
@@ -126,7 +130,8 @@ de 16 bits (`a` e `b`) e realizada uma `AND` bit a bit (`q(0) = a(0) and b(0) ..
 !!! tip
     Esse vai ser o fluxo para quase todos os projetos que iremos realizar na disciplina.
 
-<button class="button0" id="3:and16" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 ## `Mux2Way.vhd`
 
@@ -135,7 +140,8 @@ de 16 bits (`a` e `b`) e realizada uma `AND` bit a bit (`q(0) = a(0) and b(0) ..
 
 Faça a implementação do `Mux2Way.vhd`, usando os mesmos passos anteriores. 
 
-<button class="button0" id="4:mux" onClick="progressBut(this.id);">Cheguei Aqui!</button>
+!!! progress
+    Cheguei aqui!
 
 ## Próximos passos
 
