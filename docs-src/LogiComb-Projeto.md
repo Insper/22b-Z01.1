@@ -2,7 +2,7 @@
 
 | Data da entrega| 
 |----------------|
-| ~~Quinta - 09/09~~ Prorrogado até 15/09 |
+| Quinta - 17/03 |
 
 ![](figs/LogiComb/sistema-comb.svg)
 
@@ -49,7 +49,7 @@ A pasta contém dois diretórios distintos : `src/` e `Quartus/`. O diretório `
 
 ### Entendendo o projeto
 
-A pasta do projeto C no repositório `Z01.1` possui a seguinte estrutura :
+A pasta do projeto B no repositório `Z01.1` possui a seguinte estrutura :
 
 ```
 /B-LogicaCombinacional
@@ -88,8 +88,8 @@ A entrega deve ser feita no ramo `master` do git.
 
 - [ ] Implementar todos os módulos listados
 - [ ] Todos os módulos devem passar nos testes
-- [ ] Travis deve estar configurado e funcionando
-- [ ] Implementar acionamento do diplay de 7 segmentos ~~e demonstrar na FPGA~~
+- [ ] Actions deve estar configurado e funcionando
+- [ ] Implementar acionamento do diplay de 7 segmentos e demonstrar na FPGA
 
 !!! note 
     Esses arquivos estão localizados em `B-LogicaCombinacional/src/`
@@ -98,6 +98,8 @@ A entrega deve ser feita no ramo `master` do git.
     Utilize o VScode para editar os arquivos em `vhdl` e valide a implementação executando o script de testes.
 
 Deve-se implementar os seguintes circuitos combinacionais: 
+
+### Conceito C+
 
 - AND 16 bits
     - **Arquivo**   : `And16.vhd`
@@ -154,6 +156,9 @@ Deve-se implementar os seguintes circuitos combinacionais:
 -  Multiplexador 8 entradas de 16 bits cada
     - **Arquivo**   : `Mux8Way16.vhd`
 
+
+### Conceito B+
+
 - Circuito lógico 
     - **Arquivo** : `circuito.vhd`
     - **Descrição**: Primeira questão da lista de exercícios [Álgebra Booleana 2](https://insper.github.io/Z01.1/Exercicio-Algebra-Booleana-2/)
@@ -172,7 +177,7 @@ Deve-se implementar os seguintes circuitos combinacionais:
 
 !!! tip "Display 7s"
     1. Esse item é uma continuação do que foi realizado no [Lab4](/LogiComb-Lab-1/), onde vocês tiveram que exibir um valor constante no display de 7s. 
-    1. Para cada segmento do display, vocês devem encontrar uma equação booleana que o represente, e então implementar em VHDL. ~~e testar na FPGA~~
+    1. Para cada segmento do display, vocês devem encontrar uma equação booleana que o represente, e então implementar em VHDL e testar na FPGA.
 <!--
 - O grupo deve apresentar um vídeo da FPGA mostrando nos display de 7 segmentos o seguinte:
     - (C) O valor em hexadecimal da palavra binária formada pelas chaves SW(3 .. 0)
@@ -186,21 +191,18 @@ Cada integrante do grupo irá receber duas notas: Uma referente ao desenvolvimen
 
 ### Grupo
 
-| Data da entrega| 
-|----------------|
-| Quinta - 09/09 |
 
 Para atingir os objetivos A e B, deve-se antes atingir o C.
 
 | Conceito | Descritivo                                                  |
 |----------|-------------------------------------------------------------|
-| **A**    | Exibe três dígitos em Decimal na FPGA                       |
-| **B**    | Exibe três dígitos em Hexadecimal na FPGA                   |
+| **A+**   | Exibe três dígitos em Hexadecimal na FPGA - anexar video ao repositório                  |
 |          | (exibir até o valor 0x3FF = 2^10 - 1)                       |
-| **C**    | Ter criado o project no github                              |
-|          | O travis configurado e funcionando                          |
-|          | Todos os módulos implementados e funcionado                 |
-|          | **Implementando um único display de 7s (conta de 0x0 0xF)** |
+| **B+**   | Módulos adicionais implementados e funcionado (circuito, detector de moedas, impressora) |
+|          | Implementar um único display de 7s (conta de 0x0 0xF) - anexar video ao repositório |
+| **C+**   | Ter criado o project no github                              |
+|          | Actions configurado e funcionando                           |
+|          | Todos os módulos básicos implementados e funcionado         |
 | **D**    | Até dois Módulos com falha/ não apresentou o vídeo da FPGA  |
 | **I**    | Mais de três módulos com falha                              |
 
