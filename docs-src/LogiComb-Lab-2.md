@@ -93,7 +93,7 @@ Teste novamente (`./testeLogicaCombinacional.py`) agora deve passar:
     Cheguei aqui!
 
 Uma vez implementando, testado e validado, podemos fazer o commit e enviar para
-o repositório do grupo esse novo branch. Essa modificação deve ser salva em novo branch **or16**. Dentro do terminal (na pasta do projeto C):
+o repositório do grupo esse novo branch. Essa modificação deve ser salva em novo branch **or16**. Dentro do terminal (na pasta do projeto B):
 
 ``` bash
 $ git checkout -B or16-SEU-USER
