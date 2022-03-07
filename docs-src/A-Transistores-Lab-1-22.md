@@ -214,7 +214,7 @@ Para isso vocês deverão:
     - Mexa na chave para aplicar `0` ou `1` na entrada do circuito.
 
 !!! note "Solução"
-    https://www.tinkercad.com/things/bnWLvsuRvp6-neat-lappi-snicket/editel?sharecode=QlWtWTyxH18eCaVwphNPVTpzdXW9IlssdNUmgLUOtAU
+    https://www.tinkercad.com/things/5UK9w22fykq-fantastic-vihelmo-lahdi/editel?sharecode=Pf5ZAOJK09Skvm128BIzTAuarSX-nLYnMMrE2YQYe7U
 
 !!! progress
     Cheguei Aqui!
@@ -319,7 +319,7 @@ Vamos usar o componente [7404](https://pt.wikipedia.org/wiki/TTL_7404) que possu
     ![](figs/A-Transistores/7404.png)
 
 !!! note "Solução"
-    - https://www.tinkercad.com/things/5didIR3U6qY-sizzling-jaban-jarv/editel?tenant=circuits?sharecode=2N6uVn_CZekje82phPIUcZu_24lOLu1_oeEenH-htT8
+    - https://www.tinkercad.com/things/kLr9TtHWZiL-dazzling-gogo/editel?sharecode=-_Z8VZQsUBWqvOQtc0codGcJn5mnrZr7-LkwdooNvjM
 
 !!! progress
     Cheguei Aqui!
