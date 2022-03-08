@@ -28,9 +28,9 @@ extra_javascript:
   - https://cdn.jsdelivr.net/gh/insper-education/active-handout-plugins-js@main/package/plugin-bundle.js
 
 plugins:
-    - search
-    - git-revision-date-localized
-    - active-exercises:
+  - search
+  - git-revision-date-localized
+  - active-exercises:
       offering_id: 1
 
 extra:
