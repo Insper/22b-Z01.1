@@ -30,6 +30,8 @@ extra_javascript:
 plugins:
     - search
     - git-revision-date-localized
+    - active-exercises:
+      offering_id: 1
 
 extra:
   ihandout_config:
