@@ -13,7 +13,7 @@ entity tb_Nand2 is
   generic (runner_cfg : string);
 end entity;
 
-architecture tb of tb_nand is
+architecture tb of tb_Nand2 is
 
   component Nand2 is
     port(a:in  STD_LOGIC;
