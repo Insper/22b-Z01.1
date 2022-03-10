@@ -48,7 +48,7 @@ if __name__ == "__main__":
     noti = notificacao('Teste projeto B')
     tstLogiComb = tstLogiComb()
     tstLogiComb.add(tstLogiComb.work)
-    if tstLogiComb.work.run() is -1:
+    if tstLogiComb.work.run() == -1:
         noti.error('\n Erro de compilação VHDL')
         sys.exit(-1)
 
