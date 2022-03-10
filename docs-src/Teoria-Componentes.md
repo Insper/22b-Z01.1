@@ -1,6 +1,6 @@
 # Componentes Digitais
 
-!!! success "2020-2"
+!!! success "2022-1"
     Material atualizado.
 
 Aqui iremos alguns dos inúmeros componentes combinacionais
@@ -55,7 +55,7 @@ A seguir uma tabela verdade para um `mux` de 2 entradas:
 | X                   | 1                  |       1 |     1 |
     
 !!! note
-    A tabela verdade do mux de 2 entradas possuir 3^2 linhas (o seletor conta como entrada), totalizando 8 linhas. Porém para simplificar, utilizamos o `X` que significa tanto faz (`0` ou `1`), logo cada linha que possui `X` seria expandida para duas linhas.
+    A tabela verdade do mux de 2 entradas possuir 2^3 linhas (o seletor conta como entrada), totalizando 8 linhas. Porém para simplificar, utilizamos o `X` que significa tanto faz (`0` ou `1`), logo cada linha que possui `X` seria expandida para duas linhas.
     
 !!! tip
     O tamanho do seletor deve ser um numero inteiro: $log2(size(n))$. 
