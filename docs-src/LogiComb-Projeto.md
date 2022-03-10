@@ -156,6 +156,9 @@ Deve-se implementar os seguintes circuitos combinacionais:
 -  Multiplexador 8 entradas de 16 bits cada
     - **Arquivo**   : `Mux8Way16.vhd`
 
+-  Deslocador de bits
+    - **Arquivo**   : `BarrelShifter16.vhd`
+
 
 ### Conceito B+
 
