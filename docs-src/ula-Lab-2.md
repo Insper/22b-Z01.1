@@ -1,11 +1,13 @@
 # Lab 7: Visualizando simulação
 
-!!! success "2020-2"
+!!! success "2022-1"
     Material atualizado.
 
+<!--
 !!! note "Sugestão"
     1. Realizar o lab individualmente
     1. Ficar no canal do grupo e tirar dúvidas entre os colegas!
+-->
 
 É muito difícil sabermos porque uma implementação em VHDL não funciona, atualmente o fluxo é: transcreve para VHDL o componente; testa; não funcionou volta para o VHDL; testa.... Será que não existe uma forma de conseguirmos visualizar o resultado do teste e com isso mudarmos a implementação em VDHL? Sim existe! Para isso será necessário invocarmos a parte gráfica do modelsim. 
 Na hora de invocarmos o script de teste (`B-UnidadeLogicaAritmetica/testeULA.py`) passe o parâmetro `--gui` (ou `-g`), como a seguir:
