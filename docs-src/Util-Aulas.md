@@ -294,7 +294,7 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 ## Aula 16/03
 
-Inicio do projeto B - Lógica Combinacional
+Projeto B - Lógica Combinacional
 
 | Estudo prévio                                      |
 |----------------------------------------------------|
