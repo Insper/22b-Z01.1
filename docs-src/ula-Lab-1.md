@@ -1,6 +1,6 @@
 # Lab 6: Adders
 
-!!! success "2020-2"
+!!! success "2022-1"
     Material atualizado.
 
 !!! warning "Antes de começar"
@@ -8,9 +8,11 @@
 
     - Não seguir sem realizar a etapa anterior.
 
+<!--
 !!! note "Sugestão"
     1. Realizar o lab individualmente
     1. Ficar no canal do grupo e tirar dúvidas entre os colegas!
+-->
 
 ## Half-adder
 
@@ -61,14 +63,10 @@ SW(1) -->  b -->|      |--> Carry --> LEDR(1)
 !!! example "Tarefa"
     - Implemente o VHDL
     - Compile o projeto
-    - Gere e analise o RTL
-
-    No insper? Faça também:
-    
+    - Gere e analise o RTL    
     - Programe a FPGA
     - Mexa nas chaves, o resultado é o esperado?
-    
-    (**filme e mostre para os seus colegas!!**)
+
 
 ## Full-Adder
 
@@ -92,13 +90,9 @@ end rtl;
     - Implemente o VHDL
     - Compile o projeto
     - Gere e analise o RTL
-
-    No insper? Faça também:
-    
     - Programe a FPGA
     - Mexa nas chaves, o resultado é o esperado?
-    
-    (**filme e mostre para os seus colegas!!**)
+
     
 ## Somador
 
@@ -129,14 +123,10 @@ Utilizando `port map` construa o circuito anterior, utilize como entrada X as ch
 !!! example "Tarefa"
     - Implemente o VHDL
     - Compile o projeto
-    - Gere e analise o RTL
-
-    No insper? Faça também:
-    
+    - Gere e analise o RTL   
     - Programe a FPGA
     - Mexa nas chaves, o resultado é o esperado?
-    
-    (**filme e mostre para os seus colegas!!**)
+
     
 !!! tip
     Você deve utilizar `port map` para isso, inicializando dois componentes FullAdder
