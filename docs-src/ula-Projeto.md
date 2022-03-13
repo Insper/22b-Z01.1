@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 16/09 - Quinta |
+| 24/03 - Quinta |
 
 ![ULA](figs/D-ULA/D-sistema-ula.png)
 
@@ -166,7 +166,7 @@ Para cada teste realizado, deve-se carregar a interface gráfica e tirar um prin
 
 ## Testando em HW
 
-~~Para testar os módulos em hardware, deve-se abrir o projeto (`C-UnidadeLogicaAritmetica/Quartus`). Ele já inclui todos os módulos desta entrega e também os módulos da entrega passada. O arquivo localizado em `/rtl/toplevel.vhd` já faz o mapeamento dos pinos da FPGA para os pinos da ULA. Para testar no hardware basta compilar e programar a FPGA.~~
+Para testar os módulos em hardware, deve-se abrir o projeto (`C-UnidadeLogicaAritmetica/Quartus`). Ele já inclui todos os módulos desta entrega e também os módulos da entrega passada. O arquivo localizado em `/rtl/toplevel.vhd` já faz o mapeamento dos pinos da FPGA para os pinos da ULA. Para testar no hardware basta compilar e programar a FPGA.
 
 ## Rubricas para avaliação de projetos
 
@@ -181,26 +181,25 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 | Conceito |                                                                                                       |
 |----------|-------------------------------------------------------------------------------------------------------|
 | A        | - Modifique a ULA adicionando a operação de shift left/right                                          |
-|          | <s>- Modifique o `toplevel` para mostrar o resultado da ULA nos displays de 7s (em hexa)</s>          |
+|          | - Modifique o `toplevel` para mostrar o resultado da ULA nos displays de 7s (em hexa)                 |
 |          |                                                                                                       |
 | B        | - Modifique a ULA adicionando o sinal de estouro da soma (carry) a saída da ULA                       |
 |          | - Modifique a ULA adicionando a operação: X xor Y                                                     |
+|          | - Compila no Quartus a ULA do grupo e faz um vídeo demonstrando o seu funcionamento (FPGA).           |
 |          |                                                                                                       |
-| C        | - Configurou o travis para testar o projeto                                                           |
+| C        | - Configurou o Actions para testar o projeto                                                          |
 |          | - Todos os modulos implementando e passam nos testes                                                  |
 |          | - Faz reaproveitamentos dos módulos via `port map` sempre que possível                                |
+|          | - Possui a forma de onda de todos os módulos (.png).                                                  |
 |          |                                                                                                       |
 | D        | - Implementou todos os módulos menos a ULA.                                                           |
 |          |                                                                                                       |
 | I        | - Não implementou os módulos Add16, ULA, Comparador, FullAdder, HalfAdder, Inc16, Inversosr, Zerador. |
 
-<!--
-|          | - Possui a forma de onda de todos os módulos (.png).                                                  |
-|          | - Compila no Quartus a ULA do grupo e fez um vídeo demonstrando o seu funcionamento (FPGA).           |
--->
+
 
 !!! note
-    1. ~~Para os conceitos B e A, o grupo deve gravar um vídeo da FPGA demonstrando que as modificações funcionam.~~
+    1. Para os conceitos B e A, o grupo deve gravar um vídeo da FPGA demonstrando que as modificações funcionam.
     1. Para os conceitos B e A, o grupo deve modificar o teste da ULA para que comprove o funcionamento dos recursos adicionados (sinais, operações), ou seja, testa-los tentando abordar todos os casos comuns de uso. 
 
     1. Os conceitos são incrementais: primeiro deve atingir o C :arrow_right: B :arrow_right: A.
