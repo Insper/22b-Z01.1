@@ -1,8 +1,10 @@
 # Lab 8: ULA 
 
+<!--
 !!! note "Sugestão"
     1. Realizar o lab individualmente
     1. Ficar no canal do grupo e tirar dúvidas entre os colegas!
+-->
 
 !!! tip
     Antes de seguir você deve ter lido a [Teoria/ULA](/Z01.1/Teoria-ULA/).
