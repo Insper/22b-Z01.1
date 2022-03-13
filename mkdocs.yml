@@ -91,7 +91,7 @@ nav:
   - 'A-Ambiente-Desenvolvimento-Projeto.md'
   - 'LogiComb-Projeto.md'
   - 'ula-Projeto.md'
-  - 'ula-Projeto-dicas.md'
+  #- 'ula-Projeto-dicas.md'
   - 'seq-Projeto.md'
   - 'assembly-Projeto.md'
   - 'F - CPU':
