@@ -273,38 +273,6 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
     - [Lab 6: Adders](/Z01.1/ula-Lab-1/)
     - [Lab 7: Visualizando simulação ](/Z01.1/ula-Lab-2/)
 
-
-
-## Aula 7
-
-Aula estúdio Projeto B.
-
-1. Laboratórios (2h00)
-    - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
-
-## Aula 6
-
-Primeira Avaliação Individual - A1
-
-[Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas.pdf)
-
-
-## Aula 5 
-
-Inicio do projeto B - Lógica Booleana, começo do uso de VHDL.
-
-| Estudo prévio                                      |
-|----------------------------------------------------|
-| https://insper.github.io/Z01.1/Teoria-Componentes/ |
-| https://insper.github.io/Z01.1/VHDL-basico/        |
-| https://insper.github.io/Z01.1/VHDL-Combinacional/ |
-
-1. Expositiva/ Dúvidas (0h40)
-    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/05-Slides-LogComb-VHDL.pdf)
-
-1. Laboratórios (1h20)
-    - [Lab4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
-
 ## Aula 4
 
 Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
@@ -320,15 +288,60 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
     - [Dados Digitais 1](https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing)
     - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
 
-## Aula 3
 
-
-## Aula 2 
-
-1. Laboratório (15 min): 
-    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-2)
-preparar github do grupo
 -->
+
+
+## Aula 16/03
+
+Inicio do projeto B - Lógica Combinacional
+
+| Estudo prévio                                      |
+|----------------------------------------------------|
+| https://insper.github.io/Z01.1/Teoria-Componentes/ |
+| https://insper.github.io/Z01.1/VHDL-basico/        |
+| https://insper.github.io/Z01.1/VHDL-Combinacional/ |
+
+1. Expositiva/ Dúvidas (0h30)
+
+1. Laboratórios (1h30)
+    - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
+
+
+## Aula 11/03
+
+Inicio do projeto B - Lógica Combinacional, começo do uso de VHDL.
+
+| Estudo prévio                                      |
+|----------------------------------------------------|
+| https://insper.github.io/Z01.1/Teoria-Componentes/ |
+| https://insper.github.io/Z01.1/VHDL-basico/        |
+| https://insper.github.io/Z01.1/VHDL-Combinacional/ |
+
+1. Expositiva/ Dúvidas (0h40)
+
+1. Laboratórios (1h20)
+    - [Lab4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
+    
+
+## Aula 09/03
+
+Primeira Avaliação Individual - Av1
+
+## Aula 04/03
+
+| Estudo prévio                                            |
+|----------------------------------------------------------|
+| [Teoria RTL](https://insper.github.io/Z01.1/Teoria-RTL/) |
+| [Teoria CMOS](https://insper.github.io/Z01.1/Teoria-CMOS/) |
+
+1. Expositiva/ Dúvidas  (0h40):
+
+1. Laboratório (1h20):
+    - [Lab 1: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
+    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-1)
+    - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
+
 
 ## Aula 25/02
 
