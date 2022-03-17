@@ -180,14 +180,14 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 
 | Conceito |                                                                                                       |
 |----------|-------------------------------------------------------------------------------------------------------|
-| A        | - Modifique a ULA adicionando a operação de shift left/right                                          |
+| A+       | - Modifique a ULA adicionando a operação de shift left/right                                          |
 |          | - Modifique o `toplevel` para mostrar o resultado da ULA nos displays de 7s (em hexa)                 |
 |          |                                                                                                       |
-| B        | - Modifique a ULA adicionando o sinal de estouro da soma (carry) a saída da ULA                       |
+| B+       | - Modifique a ULA adicionando o sinal de estouro da soma (carry) a saída da ULA                       |
 |          | - Modifique a ULA adicionando a operação: X xor Y                                                     |
 |          | - Compila no Quartus a ULA do grupo e faz um vídeo demonstrando o seu funcionamento (FPGA).           |
 |          |                                                                                                       |
-| C        | - Configurou o Actions para testar o projeto                                                          |
+| C+       | - Configurou o Actions para testar o projeto                                                          |
 |          | - Todos os modulos implementando e passam nos testes                                                  |
 |          | - Faz reaproveitamentos dos módulos via `port map` sempre que possível                                |
 |          | - Possui a forma de onda de todos os módulos (.png).                                                  |
