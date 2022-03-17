@@ -42,7 +42,7 @@ def run(nome,path_in,path_out,path_proj):
 
     screen = pygame.display.set_mode((width, height))
     pygame.display.set_caption(nome)
-    icon = pygame.image.load('icon-elementos.png')
+    icon = pygame.image.load('VHDL-gui/icon-elementos.png')
     pygame.display.set_icon(icon)
     screen.fill(background_colour)
 
