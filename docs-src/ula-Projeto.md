@@ -19,7 +19,7 @@ Neste projeto seu grupo terá que desenvolver os componentes para a implementaç
 !!! tip
     Você é `Scrum Master` e não sabe por onde começar? 
     De uma olhada nessas dicas:
-    [Vixi! Sou Scrum Master](/Util-vixi-sou-scrum)
+    [Vixi! Sou Scrum Master](Util-vixi-sou-scrum)
     
 !!! tip
     Sempre teste os módulos e verifique se está funcionando como o esperado.
