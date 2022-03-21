@@ -1,4 +1,4 @@
-# Lab 13: saltos (jump)
+# Lab 12: saltos (jump)
 
 Ao final desse lab você deve ser capaz de:
 
