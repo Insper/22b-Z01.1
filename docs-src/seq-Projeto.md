@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 23/09 - Quinta |
+| 31/03 - Quinta |
 
 ![](figs/E-LogSeq/sistema-seq.png)
 
@@ -44,7 +44,7 @@ O mesmo irá compilar os arquivos `.vhd` e executar os testes unitários em cada
 ## Projeto
 
 - Deve-se gerar uma imagem com a forma de onda desses módulos.
-- Deve-se gerar um RTL para cada módulo do projeto (Lab 10)
+- Deve-se gerar um RTL para cada módulo do projeto (Lab 4)
 - Note que é possível reaproveitar, via `port map`, os módulos dos projetos anteriores. Para isso basta usar port map.
 
 ### Módulos 
@@ -171,9 +171,9 @@ Para cada módulo deve-se gerar o `RTL` e salvar uma imagem da implementação n
 !! warning
     Não basta só gerar a imagem, você precisa analisar e entender. Isso será cobrado nas avaliações.
 
-~~### Testando em Hardware~~
+### Testando em Hardware
 
-~~No hardware você deverá desenvolver um cenário de teste para o `Program Counter` ou para para a `RAM8`.~~
+No hardware você deverá desenvolver um cenário de teste para o `Program Counter` e para para a `RAM8`.
 
 ## Rubricas para avaliação de projetos
 
@@ -183,13 +183,14 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 
 | Conceito |                                                                           |
 |----------|---------------------------------------------------------------------------|
-| A        | - Módulos extras (rtl + tests)                                              |
+| A        | - Módulos extras (rtl + testes)                                            |
 |          |                                                                           |
 | B        | - Usou sempre que possível outros módulos para criar um novo (hierarquia) |
 |          | - Exemplo: usou o `inc16`, `mux16` e `reg16` para criar PC                |
+|          | - Teste do PC e da RAM8 na FPGA                                           |
 |          |                                                                           |
-| C        | - Todos os módulos sendo testados no Travis                               |
-|          | - Todos os módulos passam nos testes                                      |
+| C        | - Todos os módulos básicos sendo testados no Actions                              |
+|          | - Todos os módulos básicos passam nos testes                                      |
 |          | - Possui a forma de onda (.png) e rtl de todos os módulos (.png)          |
 |          |                                                                           |
 | D        | - Ao menos um módulo não foi implementando ou não passa no testes.        |
@@ -235,5 +236,5 @@ As rubricas a serem seguidas serão comuns a todos os projeto e está descrito n
  - [Rubricas Scrum e Desenvolvedor](/Sobre-Rubricas/)
 
 ### Formulários
- - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSeVewaJIMBCWYt3CsQ3MBzyMr_RaqtBkdEytX4m8B8aSdZ6uA/viewform?usp=sf_link)
- - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
+ - [Scrum Master](https://forms.gle/xk3PYCTBbrxkcKAT8)
+ - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
