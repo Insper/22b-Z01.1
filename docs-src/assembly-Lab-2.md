@@ -1,4 +1,4 @@
-# Lab 12: Periféricos
+# Lab 11: Periféricos
 
 Ao final desse lab você deve ser capaz de:
 
