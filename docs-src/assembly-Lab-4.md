@@ -1,4 +1,4 @@
-# Lab 14: praticando nasm
+# Lab 13: praticando nasm
 
 Ao final desse lab você deve ser capaz de:
 
