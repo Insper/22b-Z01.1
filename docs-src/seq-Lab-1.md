@@ -1,4 +1,4 @@
-# Lab 10: Lógica Sequencial
+# Lab 9: Lógica Sequencial
 
 !!! warning "Antes de começar"
     Toda vez que um novo projeto começar será necessário realizar algumas configurações no repositório do grupo, vocês devem seguir para o documento: [`Util/Começando novo Projeto`](https://insper.github.io/Z01.1/Util-Comecando-novo-projeto/) e depois voltar para esse lab.
@@ -23,7 +23,7 @@ Estudo prévio necessário para realizar esse lab:
 !!! example "Execute"
     1. Faça uma branch
     1. Implemente local no seu PC
-    1. **Só um integrante do grupo deve enviar para a master via PR ao final**
+    1. **Só um integrante do grupo deve enviar para a main via PR ao final**
 
 !!! tip
     - Esse já é um dos módulos da entrega do projeto!
