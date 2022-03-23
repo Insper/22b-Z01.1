@@ -210,34 +210,6 @@ Resumo e planejamento das aulas.
     - [Lab 11: Assembly](/Z01.1/assembly-Lab-1/)
     
 
-## Aula 11 - 22/09
-
-Projeto D-Lógica Sequencial.
-
-1. Expositiva/ Dúvidas (0h30)
-
-1. Aula estúdio (1h30)
-
-
-## Aula 10 - 17/09
-
-Começo do projeto D-Lógica Sequencial.
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Lógica Sequencial](https://insper.github.io/Z01.1/Teoria-Logica-Sequencial/)           |
-
-
-1. Expositiva/ Dúvidas (0h40):
-    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/10-Slides-LogSequencial.pdf)
-
-1. Simulação Clock (0h40):
-    - Tinkercad
-
-1. Laboratório (0h40)
-    - [Lab 10: Adders](/Z01.1/seq-Lab-1/)
-
-
 ## Aula 4
 
 Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
@@ -255,6 +227,35 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 
 -->
+
+## Aula 01/04
+
+Segunda Avaliação Individual - Av2
+
+
+## Aula 30/03
+
+Projeto D-Lógica Sequencial.
+
+1. Expositiva/ Dúvidas (0h30)
+
+1. Aula estúdio (1h30)
+
+
+## Aula 25/03
+
+Começo do projeto D-Lógica Sequencial.
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Lógica Sequencial](https://insper.github.io/Z01.1/Teoria-Logica-Sequencial/)           |
+
+
+1. Expositiva/ Dúvidas (0h40):
+
+1. Laboratório (0h40)
+    - [Lab 9: Lógica sequencial](/Z01.1/seq-Lab-1/)
+    
 
 ## Aula 23/03
 
