@@ -251,9 +251,9 @@ Começo do projeto D-Lógica Sequencial.
 | [Lógica Sequencial](https://insper.github.io/Z01.1/Teoria-Logica-Sequencial/)           |
 
 
-1. Expositiva/ Dúvidas (0h40):
+1. Expositiva/ Dúvidas (1h00):
 
-1. Laboratório (0h40)
+1. Laboratório (1h00)
     - [Lab 9: Lógica sequencial](/Z01.1/seq-Lab-1/)
     
 
