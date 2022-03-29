@@ -42,9 +42,9 @@ Liberado consulta ao material da disciplina.
 
 [Prova - Av3 - 21a](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av3-21a.pdf) - [Repositório](https://github.com/insper-classroom/21b-ele-av3-simulado)
 
+-->
 
-
-## AV2 - AI - sexta 01/10 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2_resposta.pdf )
+## AV2 - AI - sexta 01/04 - 
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
@@ -69,12 +69,10 @@ Liberado consulta ao material da disciplina.
     - Formas de onda
     - Arquivos de teste
 
-**Simulado liberado no blackboard (até quinta-feira 30/09 às 23:59hs).**
+[Prova - Av2 - 21b](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2_resposta.pdf )
 
-[Prova - Av2 - 21a](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2-21a.pdf) - 
-[Uma possível resolução](https://github.com/Insper/Z01.1/blob/docs/docs-src/21a/21a-ele-av2_resolucao.txt) (Não necessariamente a melhor)
 
--->
+
 ## AV1 - quarta 09/03 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas22a.pdf)
 
 - Conteúdos: 
