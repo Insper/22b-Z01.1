@@ -47,4 +47,4 @@ Instruções do tipo C são aquelas que computam alguma coisa (númerico ou lóg
 
 !!! example 
     - `addw %A, %D, %D`
-    - `10000000010010000`
+    - `100000000100010000`
