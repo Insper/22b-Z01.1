@@ -161,54 +161,8 @@ Resumo e planejamento das aulas.
 
 1. Laboratório (1h00)
     - [Lab 13: Jump](/Z01.1/assembly-Lab-3/)
-    - [Lab 14: Praticando](/Z01.1/assembly-Lab-4/)   
-    
 
-## Aula 13/10
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [ASM - Jump](https://insper.github.io/Z01.1/Teoria-nasm-jump/)       |
-
-   
-1. Resolução prova (0h30)
-
-1. ASM - Jump (0h30)
-
-1. Laboratório (1h00)
-    - [Lab 12: Periféricos](/Z01.1/assembly-Lab-2/)
-    - [Lab 13: Jump](/Z01.1/assembly-Lab-3/)
-
-
-## Aula 13 - 29/09
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [ASM - Mapa de memória](https://insper.github.io/Z01.1/Teoria-Z01-mapadeMemoria/)       |
-
-   
-1. Revisão/ Dúvidas/ Expositiva (1h00):
-
-1. Laboratório (1h00)
-    - [Lab 12: Periféricos](/Z01.1/assembly-Lab-2/)
-    
-
-## Aula 12 - 24/09
-
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
-
-
-1. Avaliação docente (0h15):
-   
-1. Expositiva/ Dúvidas (1h00):
-    - [Slides](https://github.com/Insper/Z01.1/raw/main/Aulas/12-Slides-Assembly.pdf)
-
-1. Laboratório (0h45)
-    - [Lab 11: Assembly](/Z01.1/assembly-Lab-1/)
-    
+ 
 
 ## Aula 4
 
@@ -228,6 +182,49 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 -->
 
+## Aula 27/04
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [ASM - Jump](https://insper.github.io/Z01.1/Teoria-nasm-jump/)       |
+
+   
+1. Revisão/ Dúvidas/ Expositiva (0h30):
+
+1. Laboratório (1h30)
+    - [Lab 12: Jump](/Z01.1/assembly-Lab-3/)
+    - [Lab 13: Praticando](/Z01.1/assembly-Lab-4/)   
+
+
+## Aula 20/04
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [ASM - Mapa de memória](https://insper.github.io/Z01.1/Teoria-Z01-mapadeMemoria/)       |
+
+   
+1. Revisão/ Dúvidas/ Expositiva (1h00):
+
+1. Laboratório (1h00)
+    - [Lab 11: Periféricos](/Z01.1/assembly-Lab-2/)
+    
+
+## Aula 13/04
+
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
+| [ASM - Assembly](https://insper.github.io/Z01.1/Teoria-Assembly/)           |
+| [Resumo - Assembly](https://insper.github.io/Z01.1/Util-Resumo-Assembly/)           |
+
+   
+1. Expositiva/ Dúvidas (1h00):
+
+1. Laboratório (1h00)
+    - [Lab 10: Assembly](/Z01.1/assembly-Lab-1/)
+    
+    
 ## Aula 01/04
 
 Segunda Avaliação Individual - Av2
