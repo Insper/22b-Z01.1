@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 19/10 - Terça |
+| 28/04 - Quinta |
 
 ![Assembly](figs/F-Assembly/sistema-assembly.svg)
 
@@ -64,17 +64,17 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 **A descrição de cada módulo está localizada no cabeçalho do arquivo.**
  
 - add
-    - **Arquivo**   : `add.nasm` (==lab 11==)
+    - **Arquivo**   : `add.nasm` (==lab 10==)
 - sub
-    - **Arquivo**   : `sub.nasm` (==lab 11==)
+    - **Arquivo**   : `sub.nasm` (==lab 10==)
 - mov
-    - **Arquivo**   : `mov.nasm` (==lab 11==)           
+    - **Arquivo**   : `mov.nasm` (==lab 10==)           
 - abs
-    - **Arquivo**   : `abs.nasm` (==lab 13==)
+    - **Arquivo**   : `abs.nasm` (==lab 12==)
 - max
-    - **Arquivo**   : `max.nasm` (==lab 13==)
+    - **Arquivo**   : `max.nasm` (==lab 12==)
 - mult
-    - **Arquivo**   : `mult.nasm` (==lab 13==)
+    - **Arquivo**   : `mult.nasm` (==lab 12==)
 - mod
     - **Arquivo**   : `mod.nasm`
 - div
@@ -83,35 +83,34 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - **Arquivo**   : `pow.nasm`
 - Chaves e Leds 
     - **Arquivo** : `SWeLED.nasm`
-
-
-#### Conceito B
 - É par 
     - **Arquivo** : `isEven.nasm`
 - String length 
     - **Arquivo** : `stringLength.nasm`
+
+
+#### Conceito B
+
 - Linha
     - **Arquivo**   : `LCDlinha.nasm`
     - Edite o arquivo para desenhar uma linha completa
-
-
-
-#### Conceito A
-
 - Quadrado
     - **Arquivo**   : `quadrado.nasm`
 - Letra Grupo
     - **Arquivo**   : `LCDletraGrupo.nasm`
 
-    
-#### Extra
 
+#### Conceito A
 - Palindromo 
     - **Arquivo** : `palindromo.nasm`
 - fatorial
     - **Arquivo**   : `fatorial.nasm`    
 - Mean
     - **Arquivo** : `vectorMean.nasm`
+
+    
+#### Extra
+
 - SWeLED2 
     - **Arquivo** : `SWeLED2.nasm`    
 - Nome grupo
