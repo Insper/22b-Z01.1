@@ -81,8 +81,6 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - **Arquivo**   : `div.nasm` 
 - pow
     - **Arquivo**   : `pow.nasm`
-- Chaves e Leds 
-    - **Arquivo** : `SWeLED.nasm`
 - É par 
     - **Arquivo** : `isEven.nasm`
 - String length 
@@ -90,7 +88,16 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 
 
 #### Conceito B
+- Palindromo 
+    - **Arquivo** : `palindromo.nasm`
+- fatorial
+    - **Arquivo**   : `fatorial.nasm`    
+- Mean
+    - **Arquivo** : `vectorMean.nasm`
+- Chaves e Leds 
+    - **Arquivo** : `SWeLED.nasm`
 
+#### Conceito A
 - Linha
     - **Arquivo**   : `LCDlinha.nasm`
     - Edite o arquivo para desenhar uma linha completa
@@ -99,15 +106,7 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 - Letra Grupo
     - **Arquivo**   : `LCDletraGrupo.nasm`
 
-
-#### Conceito A
-- Palindromo 
-    - **Arquivo** : `palindromo.nasm`
-- fatorial
-    - **Arquivo**   : `fatorial.nasm`    
-- Mean
-    - **Arquivo** : `vectorMean.nasm`
-
+**O funcionamento dos arquivos que envolvem SWs, LEDs e LCD deve ser demonstrado na FPGA.**
     
 #### Extra
 
@@ -122,6 +121,6 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 
 
 ### Formulários
- - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSe6GEJ238aHQ5raPlcwn6M3X91gIcsc6fXUjQ6BgvSm2O8rTg/viewform?usp=sf_link)
- - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
+ - [Scrum Master](https://forms.gle/H8k9McBk8ep6yghFA)
+ - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
 
