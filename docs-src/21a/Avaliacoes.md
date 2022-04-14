@@ -44,7 +44,7 @@ Liberado consulta ao material da disciplina.
 
 -->
 
-## AV2 - AI - sexta 01/04 - 
+## AV2 - AI - sexta 01/04 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av2_resolucao.pdf )
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
