@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| até 01/12 - Quarta |
+| 09/06 - Quarta |
 
 Nesse projeto iremos criar o programa *VM translator* que é responsável por traduzir os códigos escrito em linguagem VM de pilha para a linguagem assembly.
 
