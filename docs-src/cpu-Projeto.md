@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 28/10 - Quinta |
+| 10/05 - Terça |
 
 ![](figs/G-CPU/sistema-cpu.svg)
 
@@ -153,11 +153,11 @@ Os módulos estão listados de maneira Top - Down
 | D        |  Ao menos um módulo não está feito e não passa no testes.                          |
 |          |                                                                                    |
 | C        |  Construiu com os módulos do grupo o seu próprio computador                        |
-|          |  Todos os módulos sendo testados no Actions.                                        |
+|          |  Todos os módulos sendo testados no Actions.                                       |
 |          |  Todos os módulos passam nos testes.                                               |
 |          |                                                                                    |
 | B        |  Adiciona um novo registrador a CPU  (`%S`)                                        |
-|          | ~~Adiciona os displays de Sete Segmentos aos periféricos do Computador (memoryIO)~~ |
+|          |  Adiciona os displays de Sete Segmentos aos periféricos do Computador (memoryIO)   |
 |          |  Modifica os testes para testar esse novo recurso!                                 |
 |          |                                                                                    |
 | A        |  Possibilita realizar carregamento efetivo em %D (`leaw $5, %D`)                   |
@@ -165,7 +165,7 @@ Os módulos estão listados de maneira Top - Down
 
 
 ### Formulários
- - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSfbnCZlGCKQLQnABFJhxhkG6vcH2HLP7ukIG0s9bhO5_M31kw/viewform?usp=sf_link)
- - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
+ - [Scrum Master](https://forms.gle/DZxPn3yWudqn6HjDA)
+ - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
 
 
