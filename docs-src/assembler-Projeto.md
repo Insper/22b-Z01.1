@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| ~~11/11 - Quinta~~ até 16/11 - Terça |
+| 24/05 - Terça |
 
 ![Assembly](figs/H-Assembler/sistema-assembler.png)
 
