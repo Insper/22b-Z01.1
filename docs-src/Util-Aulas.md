@@ -90,10 +90,6 @@ Resumo e planejamento das aulas.
     - [Lab 16: Assembler - parte 4](/Z01.1/assembler-Lab-1-parte-4/)
     - [Lab 16: Assembler - parte 5](/Z01.1/assembler-Lab-1-parte-5/)
     
-
-## 05/11 - Av3
-
-
 ## Aula 03/11
 
 | Estudo prévio                                                                           |
@@ -106,50 +102,6 @@ Resumo e planejamento das aulas.
 1. Laboratório (1h00)
     - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-3/)
     
-
-## Aula 29/10
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Assembler](/Z01.1/Teoria-Assembler/)       |
-
-1. Expositiva/Dúvidas  (1h20)
-
-1. Laboratório (0h40)
-    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-1/)
-
-
-## Aula 27/10
-
-1. Exercícios - CPU/ Dúvidas  (1h00)
-
-1. Aula estúdio (1h00)
-
-
-
-## Aula 22/10
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [CPU](https://insper.github.io/Z01.1/Teoria-Z01/)       |
-
-1. Expositiva/ Dúvidas  (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 15: Control unit](/Z01.1/cpu-lab-1/)
-
-
-## Aula 20/10
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [CPU](https://insper.github.io/Z01.1/Teoria-Z01/)       |
-
-1. Expositiva/ Dúvidas  (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 9: Pequena CPU](/Z01.1/ula-lab-4/)
-
 
 ## Aula 15/10
 | Estudo prévio                                                                           |
@@ -182,6 +134,55 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 -->
 
+
+## 13/05 - Av3
+
+## Aula 11/05
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Assembler](/Z01.1/Teoria-Assembler/)       |
+
+1. Expositiva/Dúvidas  (1h20)
+
+1. Laboratório (0h40)
+    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-1/)
+
+
+## Aula 06/05
+
+1. Exercícios - CPU/ Dúvidas  (1h00)
+
+1. Aula estúdio (1h00)
+
+
+
+## Aula 04/05
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [CPU](https://insper.github.io/Z01.1/Teoria-Z01/)       |
+| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
+
+1. Expositiva/ Dúvidas  (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 15: Control unit](/Z01.1/cpu-lab-1/)
+
+
+## Aula 29/04
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [CPU](https://insper.github.io/Z01.1/Teoria-Z01/)       |
+| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
+
+1. Expositiva/ Dúvidas  (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 14: Pequena CPU](/Z01.1/ula-lab-4/)
+    
+    
 ## Aula 27/04
 
 | Estudo prévio                                                                           |
