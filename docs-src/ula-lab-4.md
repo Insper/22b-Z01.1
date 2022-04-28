@@ -7,7 +7,7 @@
     1. Um integrante faz na sua máquina e compartilha a tela com os demais (todos comentam o mesmo código)
 
 !!! info "Tempo"
-    Tempo estimando no lab: 45 min
+    Tempo estimando no lab: 60 min
 
 ## Começando
 
