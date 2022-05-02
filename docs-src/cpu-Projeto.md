@@ -157,7 +157,6 @@ Os módulos estão listados de maneira Top - Down
 |          |  Todos os módulos passam nos testes.                                               |
 |          |                                                                                    |
 | B        |  Adiciona um novo registrador a CPU  (`%S`)                                        |
-|          |  Adiciona os displays de Sete Segmentos aos periféricos do Computador (memoryIO)   |
 |          |  Modifica os testes para testar esse novo recurso!                                 |
 |          |                                                                                    |
 | A        |  Possibilita realizar carregamento efetivo em %D (`leaw $5, %D`)                   |
