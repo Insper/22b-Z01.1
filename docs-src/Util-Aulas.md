@@ -74,34 +74,7 @@ Resumo e planejamento das aulas.
 1. Expositiva/Dúvidas (1h00)
 
 1. Laboratório (1h00)
-    
-
-## Aula 10/11
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Assembler - Tabela de símbolos](/Z01.1/assembler-Dicas-SymbolTable/)        |
-
-1. Resolução prova (0h30)
-
-1. Dúvidas/ Expositiva (0h30):
-
-1. Laboratório (1h00)
-    - [Lab 16: Assembler - parte 4](/Z01.1/assembler-Lab-1-parte-4/)
-    - [Lab 16: Assembler - parte 5](/Z01.1/assembler-Lab-1-parte-5/)
-    
-## Aula 03/11
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Assembler](/Z01.1/Teoria-Assembler/)        |
-
-   
-1. Revisão/ Dúvidas/ Expositiva (1h00):
-
-1. Laboratório (1h00)
-    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-3/)
-    
+       
 
 ## Aula 15/10
 | Estudo prévio                                                                           |
@@ -134,9 +107,36 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 -->
 
+## Aula 20/05
 
-## 13/05 - Av3
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Assembler - Tabela de símbolos](/Z01.1/assembler-Dicas-SymbolTable/)        |
 
+1. Resolução prova (0h30)
+
+1. Dúvidas/ Expositiva (0h30):
+
+1. Laboratório (1h00)
+    - [Lab 16: Assembler - parte 4](/Z01.1/assembler-Lab-1-parte-4/)
+    - [Lab 16: Assembler - parte 5](/Z01.1/assembler-Lab-1-parte-5/)
+    
+
+## 18/05 - Av3
+
+## Aula 13/05
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Assembler](/Z01.1/Teoria-Assembler/)        |
+
+   
+1. Revisão/ Dúvidas/ Expositiva (1h00):
+
+1. Laboratório (1h00)
+    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-3/)
+    
+    
 ## Aula 11/05
 
 | Estudo prévio                                                                           |
