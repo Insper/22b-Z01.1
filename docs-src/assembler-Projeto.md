@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 24/05 - Terça |
+| 25/05 - Terça |
 
 ![Assembly](figs/H-Assembler/sistema-assembler.png)
 
@@ -75,6 +75,6 @@ O projeto no total possui 5 módulos, sendo que o módulo `AssemblerZ01.java` j�
 
 
 ### Formulários
- - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSdMCaRW4UZtJZH8-tmAE672gZLp6VFUh-p9KOCgxrylgAc5XQ/viewform?usp=sf_link)
- - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
+ - [Scrum Master](https://forms.gle/qgUh31sUxEPzgwCX9)
+ - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
 
