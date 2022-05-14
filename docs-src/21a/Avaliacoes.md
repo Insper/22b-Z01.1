@@ -44,7 +44,7 @@ Liberado consulta ao material da disciplina.
     - Control Unit
     - VHDL
 
-[Prova - Av3 - 21b](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3.pdf) - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3_resolucao.pdf)
+[Prova - Av3 - 21b](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3.pdf) - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3_resolucao.pdf) - [Repositório](https://github.com/insper-classroom/21b-ele-av3-teste)
 
 ## AV2 - AI - sexta 01/04 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av2_resolucao.pdf )
 
