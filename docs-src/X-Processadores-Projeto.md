@@ -1,16 +1,16 @@
 # Mundo Real
 
 !!! warning ""
-    Entregar até dia ~~5/12~~ 06/12.
+    Entregar até dia 12/06
 
 | HW | SW |
 |----|----|
-| 20 | 15 |
+| 15 | 10 |
 
-Esse projeto extra optativo (individual) fornece **20 pontos** 
-extras de **Hardware** e **15 pontos extras** de **Software**. 
+Esse projeto extra optativo (individual) fornece **15 pontos** 
+extras de **Hardware** e **10 pontos extras** de **Software**. 
 
-## (20 HW) Processadores
+## (15 HW) Processadores
 
 Você deverá escolher um dos processadores listados a seguir:
 
@@ -57,7 +57,7 @@ Vocês devem entregar um vídeo que explica a CPU em questão, neste vídeo (de 
     - [ ] Quantidade total de instruções
     - [ ] Diferença com relação ao Z01.1 
 
-## (**15 SW**) Comentar código
+## (**10 SW**) Comentar código
 
 Você deve pegar um código de exemplo do assembly da CPU escolhida e comentar ele no vídeo, explicando o que está fazendo.
 
@@ -66,4 +66,6 @@ Você deve pegar um código de exemplo do assembly da CPU escolhida e comentar e
 - Muitas arquitetura possuem simulador! Interessante usar, mas não é necessário
 
 ### Entrega
- - [Link para entrega](https://docs.google.com/forms/d/e/1FAIpQLScJGKDQ_ngx5N8TaBdoZGLVWjALlbV7brkExjAZRmaXhPacdw/viewform?usp=sf_link)
+<!--
+- [Link para entrega](https://docs.google.com/forms/d/e/1FAIpQLScJGKDQ_ngx5N8TaBdoZGLVWjALlbV7brkExjAZRmaXhPacdw/viewform?usp=sf_link)
+-->
