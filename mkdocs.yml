@@ -100,7 +100,7 @@ nav:
   - 'assembler-Projeto.md'
   - 'vm-Projeto.md'
   - 'J-VMtranslator-Projeto.md'
-  # - 'X-Processadores-Projeto.md'
+  - 'X-Processadores-Projeto.md'
 
 - Labs:
   - 'A-Transistores-Lab-1-22.md'
