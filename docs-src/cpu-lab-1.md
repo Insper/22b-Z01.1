@@ -49,7 +49,7 @@ Com esses dados conseguimos criar a tabela verdade a seguir e extrair a equaçã
 Podendo ser traduzido para o código em VHDL (via soma dos produtos):
 
 ``` vhdl
-  loadD <= istruction(17) and instruction(4);
+  loadD <= instruction(17) and instruction(4);
 ```
 
 > Nesse lab iremos fazer parte do ControlUnit, ele não deve passar em todos os testes.
