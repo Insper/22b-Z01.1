@@ -66,6 +66,6 @@ Você deve pegar um código de exemplo do assembly da CPU escolhida e comentar e
 - Muitas arquitetura possuem simulador! Interessante usar, mas não é necessário
 
 ### Entrega
-<!--
-- [Link para entrega](https://docs.google.com/forms/d/e/1FAIpQLScJGKDQ_ngx5N8TaBdoZGLVWjALlbV7brkExjAZRmaXhPacdw/viewform?usp=sf_link)
--->
+
+- [Link para entrega](https://forms.gle/fc7qPkoZNw8uE9aD9)
+
