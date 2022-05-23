@@ -8,73 +8,12 @@ Resumo e planejamento das aulas.
 <!--
 ## 14/12 - Sub
 
-## 03/12 - Av4 - AF
-
-
 ## Aula 01/12
 
 1. Revisão/ Dúvidas/ Expositiva
 
 1. Término Projeto I e Mundo Real
-    
-    
-## Aula 26/11
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 18: VMTranslator](/Z01.1/VMtranslator-Lab-1-old/) (loops e funções)
-
-
-## Aula 24/11
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Exercícios VM - Lab 17](/Z01.1/vm-Lab-1/)        |
-
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 18: VMTranslator](/Z01.1/VMtranslator-Lab-1-old/) (writePushPop e writeArithmetic)
-
-
-## Aula 19/11
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [VM - jump](/Z01.1/Teoria-vm-jump/)        |
-| [VM - Funções](/Z01.1/Teoria-vm-funcoes/)        |
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 17: VM](/Z01.1/vm-Lab-1/) (goto (jump) e funções)
-
-
-## Aula 17/11
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [VM - Segmentos](/Z01.1/Teoria-vm-segmentos/)        |
-| [VM - Memória](/Z01.1/Teoria-vm-memoria/)        |
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 17: VM](/Z01.1/vm-Lab-1/) (Treinando RPN e VM Z01 - básico)
-
-
-## Aula 12/11
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Linguagem de Máquina Virtual](/Z01.1/Teoria-vm/)        |
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-       
+          
 
 ## Aula 15/10
 | Estudo prévio                                                                           |
@@ -106,6 +45,65 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
 
 -->
+
+
+## 10/06 - Av4 - AF
+
+## Aula 08/06
+
+1. Expositiva/Dúvidas (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 18: VMTranslator](/Z01.1/VMtranslator-Lab-1-old/) (loops e funções)
+
+
+## Aula 03/06
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Exercícios VM - Lab 17](/Z01.1/vm-Lab-1/)        |
+
+
+1. Expositiva/Dúvidas (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 18: VMTranslator](/Z01.1/VMtranslator-Lab-1-old/) (writePushPop e writeArithmetic)
+
+
+## Aula 01/06
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [VM - jump](/Z01.1/Teoria-vm-jump/)        |
+| [VM - Funções](/Z01.1/Teoria-vm-funcoes/)        |
+
+1. Expositiva/Dúvidas (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 17: VM](/Z01.1/vm-Lab-1/) (goto (jump) e funções)
+    
+## Aula 27/05
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [VM - Segmentos](/Z01.1/Teoria-vm-segmentos/)        |
+| [VM - Memória](/Z01.1/Teoria-vm-memoria/)        |
+
+1. Expositiva/Dúvidas (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 17: VM](/Z01.1/vm-Lab-1/) (Treinando RPN e VM Z01 - básico)
+
+
+## Aula 25/05
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Linguagem de Máquina Virtual](/Z01.1/Teoria-vm/)        |
+
+1. Expositiva/Dúvidas (1h00)
+
+1. Laboratório (1h00)
 
 ## Aula 20/05
 
