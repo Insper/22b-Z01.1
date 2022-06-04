@@ -126,6 +126,6 @@ A seguir os testes que devem passar para cada nota :
 
 
 ### Formulários
- - [Scrum Master](https://docs.google.com/forms/d/e/1FAIpQLSdKx-e5QB_YWYdH6n8P-PZsvwp2PJIGy6FOmBs2PCf_uRbuXw/viewform?usp=sf_link)
- - [Desenvolvedores](https://docs.google.com/forms/d/e/1FAIpQLSduO77Uzt0i8weuF1Jj-9T2dY868zRn_FWT4HdgE7dNf_VT4w/viewform?usp=sf_link)
+ - [Scrum Master](https://forms.gle/tYabMR4cSaCDWRXAA)
+ - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
 
