@@ -2,8 +2,8 @@
 
 Informações sobre as avaliações (e simulados) da disciplina:
 
-<!--
-## AV4 - AF - sexta 03/12
+
+## AV4 - AF - sexta 10/06
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
@@ -11,16 +11,15 @@ A avaliação será distribuída via github classroom (link estará no blakcboar
 
 Liberado consulta ao material da disciplina.
 
-- Projetos:
+- Projetos (pontos de SW):
     - G: Assembler 
     - H: VM
     - I: VM Translator
+- Álgebra booleana (pontos de HW)
 
-[Prova - Av4 - 21a](https://github.com/insper-classroom/21a-ele-av4)
+[Prova - Av4 - 21b - Repositório](https://github.com/insper-classroom/21b-ele-av4-teste)
     
 
-
--->
 
 ## AV3 - sexta 13/05
 
