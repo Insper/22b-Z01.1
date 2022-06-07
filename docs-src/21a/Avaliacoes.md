@@ -17,7 +17,7 @@ Liberado consulta ao material da disciplina.
     - I: VM Translator
 - Álgebra booleana (pontos de HW)
 
-[Prova - Av4 - 21b - Repositório](https://github.com/insper-classroom/21b-ele-av4-teste)
+[Prova - Av4 - 21b - Repositório](https://github.com/insper-classroom/21b-ele-av4-teste) - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av4_21b_resolucao.pdf)
     
 
 
