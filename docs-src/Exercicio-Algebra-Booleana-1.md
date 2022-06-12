@@ -61,7 +61,7 @@
 ----------------
 
 !!! exercise choice "Pergunta"
-    Aplicando o teorema de DeMorgan na expressão $\overline{ABC}$, obtem:
+    Aplicando o teorema de DeMorgan na expressão $\overline{ABC}$, obtém:
 
     - [x] $\bar{A}+\bar{B}+\bar{C}$
     - [ ] $\overline{A+B+C}$

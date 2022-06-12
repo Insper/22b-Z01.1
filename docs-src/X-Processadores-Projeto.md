@@ -44,7 +44,7 @@ Vocês devem entregar um vídeo que explica a CPU em questão, neste vídeo (de 
         - [ ] Quantidade de registradores
         - [ ] Operações da ULA (se for muitas, pode pegar algumas)
         - [ ] A arquitetura é CISC ou RISC?
-        - [ ] Como o Program Cunter (PC) funciona? 
+        - [ ] Como o Program Counter (PC) funciona? 
         - [ ] Como é realizado o acesso a memória nessa arquitetura?
         - [ ] Pode fazer operações direto na memória? Ou temos que carregar para os registradores antes?
         - [ ] Especificidades

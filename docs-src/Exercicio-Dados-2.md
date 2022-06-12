@@ -34,7 +34,7 @@ Você está fazendo um projeto que possui um display de 7 segmentos, mas infeliz
 
 ![](figs/Exercicios/Dados-7seg.png)
 
-Você deve descobrir quais são os três valores (fachas) que estariam sendo exibidos no display!
+Você deve descobrir quais são os três valores (faixas) que estariam sendo exibidos no display!
 
 
 

@@ -109,7 +109,7 @@ Com o branch enviado ao github você deve gerar um pull-request para o mediador 
  
 !!! tip "Para o Mediador"
     Como vocês estão realizando isso individualmente, o mediador do projeto vai
-    recever vários PRs desse branch, você só deve aceitar um, já que todos fizeram
+    receber vários PRs desse branch, você só deve aceitar um, já que todos fizeram
     o mesmo.
 
 !!! progress

@@ -43,7 +43,7 @@ Uma equação de lógica booleana pode possuir uma ou mais 'entradas' e apenas u
 ![](figs/Teoria/LogicaBooleana-caixaPreta.png){width=400}
 
 !!! note 
-    A operação `.` é chamada de `E` (`and`) que também pode ser representada pelo simbolo: `^`
+    A operação `.` é chamada de `E` (`and`) que também pode ser representada pelo símbolo: `^`
     
     ```
     X = A and B

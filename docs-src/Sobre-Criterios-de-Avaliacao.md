@@ -7,7 +7,7 @@ Os critérios de avaliação a seguir serão aplicados a disciplina:
 Os alunos devem:
 
 1. Ter acumulado no mínimo 50 pontos de `HW` (Álgebra booleana, lógica combinacional, unidade lógica aritmética, lógica sequencial, CPU) nas provas
-1. Ter acumulado no mínimo 50 pontos de `SW` (Dadoss digitais, assembly, assembler, máquina virtual, VM translator) nas provas
+1. Ter acumulado no mínimo 50 pontos de `SW` (Dados digitais, assembly, assembler, máquina virtual, VM translator) nas provas
 1. Ter no mínimo conceito C na média de todos os Projetos nos quesitos `Individual` e `Grupo` 
 1. Ter no máximo duas notas inferiores a C na avaliação individual e uma nota inferior a C na avaliação coletiva dos Projetos
 

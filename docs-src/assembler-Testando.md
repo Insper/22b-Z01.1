@@ -11,7 +11,7 @@ A pasta do projeto H, possui a seguinte estrutura:
 
 ## Testes
 
-É disponibilizado dois tipos de testes: **Unitário** para as classes em java e de **Integração** para o Assembler como um todo. Os testes unitários das classes estão localizados em `Assembler/src/tsts/` e pode ser executado de duas maneiras:
+É disponibilizado dois tipos de testes: **Unitário** para as classes em java e de **Integração** para o Assembler como um todo. Os testes unitários das classes estão localizados em `Assembler/src/tests/` e pode ser executado de duas maneiras:
 
 1. Via IDE (Intellij)
 2. Via **maven** na geração do jar (`genJAR.py**)

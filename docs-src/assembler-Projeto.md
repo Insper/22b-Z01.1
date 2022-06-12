@@ -53,7 +53,7 @@ O projeto no total possui 5 módulos, sendo que o módulo `AssemblerZ01.java` j�
 
 | Conceito |                                                                                      |
 |----------|--------------------------------------------------------------------------------------|
-| A        | - Insere automaticamente um NOP após intrução de JUMP que não é seguida de nop.      |
+| A        | - Insere automaticamente um NOP após instrução de JUMP que não é seguida de nop.      |
 |          | - Imprime mensagem de alerta que isso foi feito.                                     |
 |          |                                                                                      |
 | B        | - Verifica se instrução de jump é seguida de NOP, caso contrário dá erro             |

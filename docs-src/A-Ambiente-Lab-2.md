@@ -57,12 +57,12 @@ Nesse etapa cada integrante do grupo irá editar um arquivo no seu computador e 
 ### `INTEGRANTES.json`
 
 **Cada integrante** do grupo deve editar o documento com na raiz do projeto com nome `INTEGRANTES.json` 
-e adicionar a esse arquivo o seu nome, e-mail (insper) e usuário gituhb. Conforme o exemplo a seguir:
+e adicionar a esse arquivo o seu nome, e-mail (Insper) e usuário github. Conforme o exemplo a seguir:
 
 ``` json
 {
   "aluno-1": {
-    "nome": "Rafae Corsi",
+    "nome": "Rafael Corsi",
     "email-insper": "rafael.corsi@insper.edu.br",
     "user-github": "rafaelcorsi"
   },
