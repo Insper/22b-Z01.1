@@ -10,7 +10,7 @@ Nesse projeto cada grupo terá que implementar diversos códigos em assembly a f
 
 ## Instruções 
 
-Seguir as intruções a seguir para desenvolvimento do projeto.
+Seguir as instruções a seguir para desenvolvimento do projeto.
 
 ## Entendendo a Organização do Projeto
 

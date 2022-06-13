@@ -61,7 +61,7 @@ assertTrue("leaw $0,%A",parser.commandType("leaw $0,%A")==Parser.CommandType.A_C
 
 - Nesse teste é passado a string `"leaw $0,%A"` para o método `parser.commandType` e esperasse na saída `A_COMMAND`.
 
-Com essa informação complementar conseguimos inciar o desenvolvimento dessa classe.
+Com essa informação complementar conseguimos iniciar o desenvolvimento dessa classe.
 
 !!! warning "Antes de continuar"
      1. Implemente a classe `parser.commandType`

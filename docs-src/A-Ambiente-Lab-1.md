@@ -86,7 +86,7 @@ Nessa disciplina iremos utilizar não só a ferramenta principal do github, que 
 
     - **Main**: Ramo principal do projeto, gerenciado pelo Scrum Master
 
-    - **Pull-request**: Maneira de um lider de projeto receber alterações a um projeto e ter controle do que será aceito ou não. Na maioria dos casos o pull-request é criado por um usuário e revisado por outro. Quem for fazer a eletiva de [`Desenvolvimento Aberto`](https://igordsm.github.io/dev-aberto/aulas.html) do [Prof. Igor](https://github.com/igordsm) verá bem a fundo essa questão. 
+    - **Pull-request**: Maneira de um líder de projeto receber alterações a um projeto e ter controle do que será aceito ou não. Na maioria dos casos o pull-request é criado por um usuário e revisado por outro. Quem for fazer a eletiva de [`Desenvolvimento Aberto`](https://igordsm.github.io/dev-aberto/aulas.html) do [Prof. Igor](https://github.com/igordsm) verá bem a fundo essa questão. 
 
 
 ## Actions

@@ -1,4 +1,4 @@
-# Exercicio CPU - 2
+# Exercício CPU - 2
 
 ## falha 1
 

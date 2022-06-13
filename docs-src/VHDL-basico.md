@@ -16,7 +16,7 @@
 
 O [VHDL](https://en.wikipedia.org/wiki/VHDL) é uma linguagem de descrição de hardware ([Hardware Description Language - HDL](https://en.wikipedia.org/wiki/Hardware_description_language)), não sendo uma linguagem de programação. Foi criada durante a Guerra Fria no Departamento de Defesa Americano (DoD-DARPA) para a documentação de hardwares complexos (complementava/substituía os esquemáticos). Com a evolução da tecnologia agora é possível utilizar a linguagem para implementar sistemas digitais em hardwares programáveis (FPGA/CPL/...).
 
-Por não ter sido criada para o fim que a utilizamos, o VHDL é no primeiro momento bastante intricado. Mas com o usar, vocês irão se acostumar com a linguagem e serão capazes de realizar hardwares cada vez mais complexos.
+Por não ter sido criada para o fim que a utilizamos, o VHDL é no primeiro momento bastante intrigante. Mas com o usar, vocês irão se acostumar com a linguagem e serão capazes de realizar hardwares cada vez mais complexos.
 
 !!! note
     Algumas vezes iremos utilizar a palavra 'código' para descrever um projeto em VHDL, 
@@ -72,7 +72,7 @@ Um código em VHDL possui basicamente três partes:
     Comentários em VHDL são iniciados com dois traços: `--`. Exemplo:
     
     ``` vhdl
-    -- Comenário em VHDL 
+    -- Comentário em VHDL 
     -- a <= not b;          Trecho de código comentado
     a <= `1`; -- comentário
     ```

@@ -4,8 +4,8 @@
 No Quartus atribua ao **toplevel** o arquivo `TopLevel.vhd` (mesmo passos anteriores), esse módulo irá mapear o FF recém criado para os pinos da FPGA:
 
 ``` vhd
-Clock <= not KEY(0); -- os botoes quando nao apertado vale 1
-                     -- e apertado 0, essa logica inverte isso
+Clock <= not KEY(0); -- os botões quando nao apertado vale 1
+                     -- e apertado 0, essa lógica inverte isso
 clear <= not KEY(1);
 set   <= not KEY(2);
 

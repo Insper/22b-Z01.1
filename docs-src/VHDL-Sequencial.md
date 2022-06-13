@@ -58,7 +58,7 @@ end process;
 Sempre que o clock sofrer variação (`0` -> `1`, `1` -> `0`) o process é chamado e verifica-se se a transição foi de borda de subida (`rising_edge`) se for, atribui o sinal A ao sinal Q, caso contrário Q mantém seu último valor.
 
 !!! note 
-     Em FPGA um sinal digital não deve sofrer atualização em ambas as bordas: subida (`rising_edge`) e de descida (`falling_edge`) pois **não será suportado por hardware**. Salvo em registradores DDR (duble data rate) especiais, exemplo do que não deve ser feito!:
+     Em FPGA um sinal digital não deve sofrer atualização em ambas as bordas: subida (`rising_edge`) e de descida (`falling_edge`) pois **não será suportado por hardware**. Salvo em registradores DDR (double data rate) especiais, exemplo do que não deve ser feito!:
 
     ``` vhdl
     process(clock)

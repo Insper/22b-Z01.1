@@ -41,7 +41,7 @@ $ ./testeHW.py
 
 !!! warning
     Esse script testa apenas uma pequena parte
-    do Control Uniy e do MemoryIO!
+    do Control Unity e do MemoryIO!
 
     Passar nesse teste não indica 100% que o projeto está correto.
 

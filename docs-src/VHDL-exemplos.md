@@ -236,4 +236,4 @@ begin
 end architecture;
 ```
 
-> Exemplo estraído de: http://ftp.smart-dv.com/examples/vhdl/parity.html#Using_Assign
+> Exemplo extraído de: http://ftp.smart-dv.com/examples/vhdl/parity.html#Using_Assign

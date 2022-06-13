@@ -11,7 +11,7 @@
     1. ![](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png){width=30} Usar o Linux fornecido.
    
     1. Esse laboratório é para ser realizado individualmente. Ficar conectado no canal
-    do grupo para descutir com os colegas.    
+    do grupo para discutir com os colegas.    
 
 Este laboratório é introdutório para o desenvolvimento do projeto ([`B-Lógica-Combinacional`](/Z01.1/LogiComb-Projeto)), onde iremos criar componentes de hardware que serão os alicerces do nosso computador. Primeiro precisamos praticar um pouco de VHDL e entender a ferramenta e o fluxo de compilação, teste e programação (Quartus).
 
@@ -226,7 +226,7 @@ entity TopLevel is
 end entity;
 ```
 
-Agora com um display de 7segementos mapeado como saída (`out`) na nossa `entity` podemos acionar cada led do display como descrito no manual da placa (isso só é possível pois o projeto já foi configurado corretamente antes pelo seu professor).
+Agora com um display de 7 segmentos mapeado como saída (`out`) na nossa `entity` podemos acionar cada led do display como descrito no manual da placa (isso só é possível pois o projeto já foi configurado corretamente antes pelo seu professor).
 
 ![](figs/LogiComb/7seg-manual.png){width=450}
 
@@ -315,7 +315,7 @@ Compilando o projeto podemos analisar o RTL gerado:
 !!! example "Tarefa"
     1. Compile
     1. Gere o RTL e análise 
-    1. Programe a FPGA e teste (se estiver no insper)
+    1. Programe a FPGA e teste (se estiver no Insper)
     
         - você deve mudar as chaves SW e observar se os LEDs (3..0) e (7..4) estão acendendo corretamente.
         - Coloque a palavra 13 em binário nas chaves (1101) você deve obter: LED(3..0) = "0011" e os LED(7..4) = "0001".

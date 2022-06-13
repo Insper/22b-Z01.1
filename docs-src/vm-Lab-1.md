@@ -21,7 +21,7 @@ Abra o simulador online da calculadora [hp48](http://www.poleyland.com/hp48/) e 
 
 1. `12 + 34 + 56 – 78 + 90 – 12`
 1. `(12 × 34) + (56 × 78) – (90 × 12)`
-1. `3 × (4 + (5 × (6 + 7)))`   (Dica: comece pelo parentese mais interno)
+1. `3 × (4 + (5 × (6 + 7)))`   (Dica: comece pelo parêntese mais interno)
 1. $1/\sqrt{121}$
 
 > Exercícios extraídos de: https://hansklav.home.xs4all.nl/rpn/

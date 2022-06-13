@@ -345,7 +345,7 @@ Q = (A xor B) or not(C)
 
 ## Praticando no papel
 
-> Questão extraida do EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES 2014
+> Questão extraída do EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES 2014
 
 Um processo monitora três parâmetros para controle de qualidade: `A`, `B`, `C`. Cada parâmetro possui um
 valor na decisão final da qualidade. A existência do parâmetro `A` pesa 30% na decisão final, enquanto os

@@ -22,7 +22,7 @@ Um pouco de contexto: O livro texto (The Elements Of Computer System) disponibil
 
 Percebemos alguns pontos negativos de utilizar um simulador em Java sendo o principal: Qualquer alteração no Hardware iria demandar uma alteração no simulador, sendo necessário mantermos dois projetos independentes e sincronizados.
 
-Nesta versão do curso iremos utilizar um simulador que utiliza o nosso próprio código VHDL como descrição da CPU (e de tudo envolvido), uma alteração no hardware (VHDL) irá automaticamente alterar o simulador e o comportamento do computador. Para isso, fazemos uso do ModelSim, um software da Mentor Graphics que executa simulaçòes em VHDL (o mesmo utilizado nos projetos anterios), desenvolvemos uma série de APIs e configurações desse simulador para funcionar para a disciplina.
+Nesta versão do curso iremos utilizar um simulador que utiliza o nosso próprio código VHDL como descrição da CPU (e de tudo envolvido), uma alteração no hardware (VHDL) irá automaticamente alterar o simulador e o comportamento do computador. Para isso, fazemos uso do ModelSim, um software da Mentor Graphics que executa simulações em VHDL (o mesmo utilizado nos projetos anteriores), desenvolvemos uma série de APIs e configurações desse simulador para funcionar para a disciplina.
 
 > As APIS de interface do simulador foram desenvolvidas por mim (vhdl/ tcl/ python) e a interface gráfica pelo Prof. Eduardo Marossi (python/ qt5). 
 >
@@ -178,7 +178,7 @@ Os arquivos a serem implementando estão na pasta `E-Assembly/src/` lá você va
 
 Agora com o módulo implementando podemos testar seu funcionamento. Para isso execute o script `testeAssembly.py`. Esse script irá compilar o nasm e gerar os arquivos `.hack` e `.mif` (salvos no `/bin/hack/`) que serão carregados no simulador junto com uma configuração inicial da memória RAM (como no gui do simulador), ao término da simulação um arquivo com o estado final da RAM é salvo na pasta `/tests/add/add0_end.mif`.
 
-Executamos um script que compara o estado final da RAM com o um esperado (`add0_tst.mif`), em caso de algum erro, o scripr irá reportar falha.
+Executamos um script que compara o estado final da RAM com o um esperado (`add0_tst.mif`), em caso de algum erro, o script irá reportar falha.
 
 Se tudo ocorrer bem você deverá ter a seguinte saída :
 

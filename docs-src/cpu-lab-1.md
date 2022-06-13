@@ -49,7 +49,7 @@ Com esses dados conseguimos criar a tabela verdade a seguir e extrair a equaçã
 Podendo ser traduzido para o código em VHDL (via soma dos produtos):
 
 ``` vhdl
-  loadD <= istruction(17) and instruction(4);
+  loadD <= instruction(17) and instruction(4);
 ```
 
 > Nesse lab iremos fazer parte do ControlUnit, ele não deve passar em todos os testes.
@@ -194,10 +194,10 @@ O componente `memoryIO` possui a seguinte entidade:
              LCD_INIT_OK  => LCD_INIT_OK,
 
              LCD_CS_N 	  => LCD_CS_N ,
-             LCD_D 		    => LCD_D,
+             LCD_D 		  => LCD_D,
              LCD_RD_N 	  => LCD_RD_N,
              LCD_RESET_N  => LCD_RESET_N,
-             LCD_RS 	    => LCD_RS,
+             LCD_RS 	  => LCD_RS,
              LCD_WR_N 	  => LCD_WR_N
     );
     ```
@@ -206,7 +206,7 @@ O componente `memoryIO` possui a seguinte entidade:
     - `load`: se é para atualizar os px
     - `adddress`: quais px serão escritos
 
-    Note que esses sinais são os mesmos sinais de uma memória RAM, porém se a parte de leitura. O LCD como foi implementando, não suporta que realizemos a leitura de seus pxs.
+    Note que esses sinais são os mesmos sinais de uma memória RAM, porém sem a parte de leitura. O LCD como foi implementando, não suporta que realizemos a leitura de seus pxs.
 
 4. Como funciona o LED?
 

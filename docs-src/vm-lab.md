@@ -197,9 +197,9 @@ Nesse pequeno código em C o que está acontecendo é que primeiramente definimo
 ```
 push constant 16384   -- carrega 16384 para a pilha
 pop pointer 1         -- atualiza para onde that aponta (int *pLCD = 16384)
-push contant 1        -- carrega 1 para a pilha
+push constant 1        -- carrega 1 para a pilha
 neg                   -- nega o 1 para obter o valor 0xFFFF
-                      -- poderia ter realizado o push contant 4095 no lugar
+                      -- poderia ter realizado o push constant 4095 no lugar
                       -- dessas duas operações
 pop that 1200         -- faz com que o endereço da memória 16384 + 1200 = 0xFFFF
 ```
@@ -215,7 +215,7 @@ Goto é a maneira de desviarmos uma execução em .vm, e possui a seguinte sinta
 podemos utilizar dois tipos : 
 
 - goto : incondicional , salta sem condição
-- if-goto : condiconal, salta se o último valor da pilha for True
+- if-goto : condicional, salta se o último valor da pilha for True
 
 
 !!! example "Exemplo: Salto para igual se 3 = 2"
@@ -364,7 +364,7 @@ e em seguida fazer a chamada de função que possui a seguinte estrutura:
 Onde :
 
 - **call** : palavra reservada para chamada de funções
-- **functioName** : nome da função a ser chamada
+- **functionName** : nome da função a ser chamada
 - **numberOfPar** : quantidade de parâmetros que essa função recebe.
 
 O exemplo a seguir chama a função SimpleFunction com os valores 5 e 8
