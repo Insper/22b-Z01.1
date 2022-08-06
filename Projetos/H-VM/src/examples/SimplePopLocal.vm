@@ -1,4 +1,0 @@
-// Pushes and adds two constants.
-pop local 0
-pop local 1
-pop local 2

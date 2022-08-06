@@ -1,6 +1,0 @@
-function SimpleFunction 2
-	push argument 0
-	push argument 1
-  add
-	return
-

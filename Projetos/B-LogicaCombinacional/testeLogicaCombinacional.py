@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 
 # Curso de Elementos de Sistemas
-# Desenvolvido por: Rafael Corsi <rafael.corsi@insper.edu.br>
+# Desenvolvido por: Renan Trevisoli <renantd@insper.edu.br>
 #
-# Adaptado de :     Pedro Cunial   <pedrocc4@al.insper.edu.br>
+# Adaptado de :     Rafael Corsi <rafael.corsi@insper.edu.br>
+#                   Pedro Cunial   <pedrocc4@al.insper.edu.br>
 #                   Luciano Soares <lpsoares@insper.edu.br>
 # Data de criação: 07/2017
 
@@ -19,44 +20,34 @@ from pathlib import Path
 sys.path.insert(0, str(Path.home()) + '/Z01-Tools/scripts/')
 
 from config import *
+from testeVHDL_cocotb import *
 
 
 class tstLogiComb(object):
     def __init__(self):
         self.pwd = os.path.dirname(os.path.abspath(__file__))
         self.rtl = os.path.join(self.pwd,'src/')
-        self.tst = os.path.join(self.pwd,'')
-        self.log = os.path.join(TOOL_PATH,'log','logB.xml')
-        self.work = vhdlScript(self.log)
+        self.tst = os.path.join(self.pwd,'teste_cocotb/')
+        self.proj = os.path.dirname(self.pwd)
+        self.work = vhdlScript_cocotb(self.rtl,self.tst,self.proj)
 
-    def addSrc(self, work):
-        work.addSrc(self.rtl)
+        if not os.path.isdir(self.tst):
+            os.makedirs(self.tst) 
 
     def addTst(self, work):
-        if work.addTstConfigFile(self.tst) is False:
+        if work.runTstConfigFile(self.pwd + '/') is False:
             sys.exit(1)
 
-    def add(self, work):
-        self.addSrc(work)
-        self.addTst(work)
-
-    def head(self):
-        logLogiComb("---------- Logica-Combinacional   ")
-
+    def show_results(self, work):
+        work.show_results()
 
 if __name__ == "__main__":
-    noti = notificacao('Teste projeto B')
     tstLogiComb = tstLogiComb()
-    tstLogiComb.add(tstLogiComb.work)
-    if tstLogiComb.work.run() == -1:
-        noti.error('\n Erro de compilação VHDL')
-        sys.exit(-1)
+    tstLogiComb.addTst(tstLogiComb.work)   
 
+    print("\n\n===================================================")
+    print("B - Logica Combinacional")
     print("===================================================")
-    r = report(tstLogiComb.log, 'B', 'HW')
+    tstLogiComb.show_results(tstLogiComb.work)
+    print("===================================================\n")
 
-    #print("Reporting test result to server")
-    #noti.hw(r)
-    #r.send()
-    #sys.exit(r.error)
-    #print("===================================================")
