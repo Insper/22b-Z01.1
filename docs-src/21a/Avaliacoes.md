@@ -2,7 +2,7 @@
 
 Informações sobre as avaliações (e simulados) da disciplina:
 
-
+<!--
 ## AV4 - AF - sexta 10/06
 
 Avaliação prática individual a ser realizada no SSD Linux. 
@@ -72,9 +72,9 @@ Liberado consulta ao material da disciplina.
 
 [Prova - Av2 - 21b](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova-Av2_resposta.pdf )
 
+-->
 
-
-## AV1 - quarta 09/03 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av1_bb_respostas22a.pdf)
+## AV1 - quarta 31/08
 
 - Conteúdos: 
     - Organização de Computadores (visão geral)
