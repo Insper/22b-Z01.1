@@ -2,7 +2,7 @@
 
 | Data da entrega| 
 |----------------|
-| Quinta - 17/03 |
+| Terça - 13/09 |
 
 ![](figs/LogiComb/sistema-comb.svg)
 
@@ -49,7 +49,7 @@ A pasta contém dois diretórios distintos : `src/` e `Quartus/`. O diretório `
 
 ### Entendendo o projeto
 
-A pasta do projeto B no repositório `Z01.1` possui a seguinte estrutura :
+A pasta do projeto B no repositório `Z01.1-proj` possui a seguinte estrutura :
 
 ```
 /B-LogicaCombinacional
