@@ -44,7 +44,7 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
     - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
 
 
--->
+
 
 
 ## 10/06 - Av4 - AF
@@ -367,8 +367,8 @@ Estudar lógica booleana e praticar
     - [Álgebra Booleana - 1](/Z01.1/Exercicio-Algebra-Booleana-1)
     - [Álgebra Booleana - 2](/Z01.1/Exercicio-Algebra-Booleana-2)
 
-
-## Aula 18/02
+-->
+## Aula 19/08
 
 Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 
@@ -384,7 +384,7 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
     - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
 
 
-## Aula 16/02
+## Aula 17/08
 
 Aula de apresentação da matéria; visão geral do que vai ser feito; criação de grupos.
 
