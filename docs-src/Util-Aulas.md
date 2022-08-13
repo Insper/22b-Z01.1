@@ -380,7 +380,7 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
     - Slides
 
 1. Handout/ Exercício (1h20):
-    - [Dados Digitais 1](https://docs.google.com/spreadsheets/d/1rN_zQqYaVI8PjAhKqEBCmY-_06I0X9dD0RddcI-miJs/edit?usp=sharing)
+    - [Dados Digitais 1](https://github.com/Insper/Z01.1/blob/main/Exercicios/Dados_1.pdf)
     - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
 
 
