@@ -8,7 +8,7 @@ O grupo irá trabalhar de forma colaborativa via a utilização do git/ github. 
 
 Grupo de até 6 pessoas! Preencher a tabela a seguir:
 
-[Tabela - Grupos](https://alinsperedu-my.sharepoint.com/:x:/g/personal/renan_doria_al_insper_edu_br/ERwwJyWmeUhJgj7veaSi9QYBW-pLQYsvC72ZIMHKPPGdvA?e=MXODYi)
+[Tabela - Grupos](https://docs.google.com/spreadsheets/d/16m6ULxW1cEOEU187qpQ4e8oy_8L61lzKAQv9vR5g4Ug/edit?usp=sharing)
 
 
 ## GitHub
