@@ -337,8 +337,9 @@ Primeira Avaliação Individual - Av1
     - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-1)
     - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
 
+-->
 
-## Aula 25/02
+## Aula 26/08
 
 Trabalhar com transistores e circuitos integrados.
 
@@ -352,8 +353,8 @@ Trabalhar com transistores e circuitos integrados.
 1. Laboratório (1h20):
     - [Lab 1: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
     
-
-## Aula 23/02
+    
+## Aula 24/08
 
 Estudar lógica booleana e praticar
 
@@ -366,8 +367,8 @@ Estudar lógica booleana e praticar
 1. Handout/ Exercício/ Vevox (1h15):
     - [Álgebra Booleana - 1](/Z01.1/Exercicio-Algebra-Booleana-1)
     - [Álgebra Booleana - 2](/Z01.1/Exercicio-Algebra-Booleana-2)
-
--->
+    
+    
 ## Aula 19/08
 
 Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
@@ -377,7 +378,6 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 | [Dados digitais](https://insper.github.io/Z01.1/Teoria-Dados/) |
 
 1. Expositiva/ Dúvidas (0h40):
-    - Slides
 
 1. Handout/ Exercício (1h20):
     - [Dados Digitais 1](https://github.com/Insper/Z01.1/blob/main/Exercicios/Dados_1.pdf)
