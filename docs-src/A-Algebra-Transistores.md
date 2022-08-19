@@ -1,5 +1,9 @@
 # A - Álgebra Booleana e Implementação de Funções Lógicas com Transistores
 
+| Data da entrega| 
+|----------------|
+| Terça - 01/09 |
+
 Nesse projeto iremos utilizar a álgebra booleana para obter as funções lógicas de um sistema que deverão ser implementadas utilizando transistores.
 
 Esse projeto deverá ser realizado em duplas ou trios utilizando o GitHub Classroom.
