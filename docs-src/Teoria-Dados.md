@@ -118,7 +118,7 @@ Supondo que possuímos um binário de três dígitos, um contador de `0` a `7` e
     - [ ] 1101
 
     !!! answer
-        $\bar{A}+\bar{B}+\bar{C}$
+        0b1111
         
  
     
