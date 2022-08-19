@@ -364,7 +364,7 @@ Estudar lógica booleana e praticar
 
 1. Expositiva/ Dúvidas  (45 min)
 
-1. Handout/ Exercício/ Vevox (1h15):
+1. Handout/ Exercício (1h15):
     - [Álgebra Booleana - 1](/Z01.1/Exercicio-Algebra-Booleana-1)
     - [Álgebra Booleana - 2](/Z01.1/Exercicio-Algebra-Booleana-2)
     
