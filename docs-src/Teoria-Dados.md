@@ -101,34 +101,26 @@ Supondo que possuímos um binário de três dígitos, um contador de `0` a `7` e
     hex      bin      dec
     0x100 != 0b100 != 100
       ```
-   
-<div id="quiz-result" class="card">
-  Você acertou <span id="quiz-percent"></span>% - <span id="quiz-score"></span>/<span id="quiz-max-score"></span><br/>
-</div>
+
+!!! exercise text short
+    Quanto que é 0b00110 em decimal?
     
-!!! question "Quiz 1 - base 2"
-     <div id="quiz-1">
-            <!-- Question 1 -->
-            <div class="card quizlib-question">
-                <div class="quizlib-question-title">1. Quanto que é 0b00110 em decimal?</div>
-                <div class="quizlib-question-answers">
-                    <input type="text" name="">
-                </div>
-            </div>
-            <!-- Question 2 -->
-            <div class="card quizlib-question">
-                <div class="quizlib-question-title">2. Converta 15 de decimal para binário</div>
-                <div class="quizlib-question-answers">
-                    <ul>
-                        <li><label><input type="radio" name="q2" value="a"> 0015</label></li>
-                        <li><label><input type="radio" name="q2" value="b"> 1111</label></li>
-                        <li><label><input type="radio" name="q2" value="c"> 1110</label></li>
-                        <li><label><input type="radio" name="q2" value="d"> 1101</label></li>
-                    </ul>
-                </div>
-            </div>
-            <button type="button-quiz" onclick="showResults(this.parentNode.id);">Verificar resposta</button>
-      </div> 
+    !!! answer
+        6
+        
+        
+!!! exercise choice "Pergunta"
+    Converta 15 de decimal para binário:
+
+    - [ ] 0015
+    - [x] 1111
+    - [ ] 1110
+    - [ ] 1101
+
+    !!! answer
+        $\bar{A}+\bar{B}+\bar{C}$
+        
+ 
     
 ### Definições
 
