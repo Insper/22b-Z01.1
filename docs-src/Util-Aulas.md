@@ -378,10 +378,12 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 | [Dados digitais](https://insper.github.io/Z01.1/Teoria-Dados/) |
 
 1. Expositiva/ Dúvidas (0h40):
+    - [Slides](https://github.com/Insper/Z01.1/blob/main/Aulas/02-DadosDigitais.pdf)         
 
 1. Handout/ Exercício (1h20):
     - [Dados Digitais 1](https://github.com/Insper/Z01.1/blob/main/Exercicios/Dados_1.pdf)
     - [Dados Digitais 2](https://insper.github.io/Z01.1/Exercicio-Dados-2/)
+    - [Aritmetica Booleana - Ex. 1](https://github.com/Insper/Z01.1/blob/main/Exercicios/Exercicio-Aritmetica-Booleana.pdf)
 
 
 ## Aula 17/08
