@@ -9,7 +9,7 @@ Nesse laboratório iremos trabalhar com o uso do git de forma colaborativa.
 !!! warning "Individual"
     Todos do grupo devem realizar de maneira individual!
 
-Uma vez criado o **fork** e adicionado os colegas como contribuidores do projeto (feito no lab 1) vocês deverão clonar o repositório para o computador de vocês com o comando:
+Vcês deverão clonar o repositório para o computador de vocês com o comando:
 
 ``` bash
 $ git clone $URL_DO_FORK
