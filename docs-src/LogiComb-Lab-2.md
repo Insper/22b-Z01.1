@@ -10,7 +10,7 @@ Esse laboratório introduz o modelo de desenvolvimento baseado em testes que ser
 
 ## `or16.vhd`
 
-Iremos trabalhar implementando o módulo `or16` que é uma parte do projeto B. Para isso devemos editar o arquivo de configuração `Z01.1/Projetos/B-LogicaCombinacional/config_testes.txt` descomentando o módulo `Or16.vhd`:
+Iremos trabalhar implementando o módulo `or16` que é uma parte do projeto B. Para isso devemos editar o arquivo de configuração `Projetos/B-LogicaCombinacional/config_testes.txt` descomentando o módulo `Or16.vhd`:
 
 ```python
 ######################################
