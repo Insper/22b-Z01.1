@@ -303,26 +303,6 @@ Projeto B - Lógica Combinacional
     - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
 
 
-## Aula 11/03
-
-Inicio do projeto B - Lógica Combinacional, começo do uso de VHDL.
-
-| Estudo prévio                                      |
-|----------------------------------------------------|
-| https://insper.github.io/Z01.1/Teoria-Componentes/ |
-| https://insper.github.io/Z01.1/VHDL-basico/        |
-| https://insper.github.io/Z01.1/VHDL-Combinacional/ |
-
-1. Expositiva/ Dúvidas (0h40)
-
-1. Laboratórios (1h20)
-    - [Lab4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
-    
-
-## Aula 09/03
-
-Primeira Avaliação Individual - Av1
-
 ## Aula 04/03
 
 | Estudo prévio                                            |
@@ -338,6 +318,28 @@ Primeira Avaliação Individual - Av1
     - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
 
 -->
+
+## Aula 02/09
+
+Inicio do projeto B - Lógica Combinacional, começo do uso de VHDL.
+
+| Estudo prévio                                      |
+|----------------------------------------------------|
+| https://insper.github.io/Z01.1/Teoria-Componentes/ |
+| https://insper.github.io/Z01.1/VHDL-basico/        |
+| https://insper.github.io/Z01.1/VHDL-Combinacional/ |
+
+1. Expositiva/ Dúvidas (0h30)
+
+1. Laboratórios (1h30)
+    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-1)
+    - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
+    - [Lab4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
+    
+
+## Aula 31/08
+
+Primeira Avaliação Individual - Av1
 
 ## Aula 26/08
 
