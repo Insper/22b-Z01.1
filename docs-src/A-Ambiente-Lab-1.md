@@ -106,7 +106,7 @@ Como ele funciona ? Ele fica verificando o repositório por alterações (você 
 3. Executa os scripts de teste localizados em cada projeto.
 4. Desliga e "deleta" a máquina virtual recém criada.
 
-O arquivo de configuração está localizado na pasta: [`<repo>/.github/workflows/`](https://github.com/Insper/Z01.1/blob/main/.github/workflows/actions.yml). Nele que estão feitas todas as definições de execução.
+O arquivo de configuração está localizado na pasta: `<repo>/.github/workflows/`. Nele que estão feitas todas as definições de execução.
 
 Na pagina do seu repositório em commits deve aparecer uma pequena bolinha em cada um dos commits novos que serão feitos no projeto, esse indicador será atualizado pelo travis sendo:
 
