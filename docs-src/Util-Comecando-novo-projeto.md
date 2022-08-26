@@ -24,7 +24,7 @@ Ao acessar a nova atividade, um novo repositório é criado. Assim, é necessár
 No terminal:
 
 ``` bash
-$ git remote add --fetch APS-a https://github.com/insper-classroom/aps-&lt;projeto anterior&gt;-&lt;nome do grupo&gt;
+$ git remote add --fetch APS-a https://github.com/insper-classroom/aps-<projeto anterior>-<nome do grupo>
 $ git merge --allow-unrelated-histories APS-a/main -X theirs
 $ git remote remove APS-a
 ```
