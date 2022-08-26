@@ -2,7 +2,7 @@
 
 | Data da entrega| 
 |----------------|
-| Quinta - 01/09 |
+| Sexta - 02/09 |
 
 Nesse projeto iremos utilizar a álgebra booleana para obter as funções lógicas de um sistema as quais deverão ser implementadas utilizando transistores.
 
