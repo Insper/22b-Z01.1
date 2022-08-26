@@ -15,7 +15,24 @@ Você deve fazer a secção do seu papel: Mediador/ Desenvolvedor
 !!! note "Mediador"
     ==Somente mediador==, mas todos devem acompanhar (uma hora será sua vez).
 
+Ao acessar a nova atividade, um novo repositório é criado. Assim, é necessário juntar os arquivos desenvolvidos nos projetos anteriores (camadas inferiores) ao novo repositório.
+
+
+!!! tip "Abrindo terminal no Linux"
+    <kbd>ctrl</kbd>+<kbd>alt</kbd>+<kbd>t</kbd>
+
+No terminal:
+
+``` bash
+$ git remote add --fetch APS-a https://github.com/insper-classroom/aps-&lt;projeto anterior&gt;-&lt;nome do grupo&gt;
+$ git merge --allow-unrelated-histories APS-a/main -X theirs
+$ git remote remove APS-a
+```
+
+
+<!--
 Antes de começar será necessário atualizar o ==repositório de vocês== com os novos arquivos no repositório oficial da disciplina, e também configurar o Travis para executar os testes nesse novo projeto. 
+
 
 ### upstream
 
@@ -39,6 +56,8 @@ $ git merge upstream/main
 ```
 
 Feito isso deve ter aparecido uma nova pasta dentro do repositório de vocês: `Projetos/B-LogicaCombinacional/`.
+-->
+
 <!--
 ### travis
 
@@ -76,10 +95,12 @@ $ git commit -m "configurando travis para novo projeto"
 
 Edite o arquivo `actions.yml` localizado na pasta .github/workflows/ modificando o final do arquivo para ficar como:
 
+!!! tip 
+    Acrescentar o script do novo projeto ao final do arquivo.
+    
 ``` yml
         python3 Projetos/B-LogicaCombinacional/testeLogicaCombinacional.py
         python3 Projetos/C-UnidadeLogicaAritmetica/testeULA.py
-        python3 Projetos/D-LogicaSequencial/testeLogicaSequencial.py
 ```
 
 Agora vamos realizar um commit e submeter aos demais colegas do grupo as alterações:
