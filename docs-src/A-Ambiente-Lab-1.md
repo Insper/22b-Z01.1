@@ -13,7 +13,12 @@ Grupo de até 6 pessoas! Preencher a tabela a seguir:
 
 ## GitHub
 
-O git será uma das ferramentas mais importantes para o projeto, com as etapas a seguir vocês realizaram um [Fork](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) do repositório do projeto e adicionaram os colaboradores.
+O git será uma das ferramentas mais importantes para o projeto.
+
+Utilizar o link fornecido no Blackboard para acessar a atividade no Github Classroom. Um repositório com o nome "aps-<projeto>-<nome do grupo>" será criado.
+
+<!--
+, com as etapas a seguir vocês realizaram um [Fork](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) do repositório do projeto e adicionaram os colaboradores.
 
 ### Fork
 
@@ -59,6 +64,8 @@ Isso irá criar uma cópia do repositório na sua conta, uma vez realizado a có
 
 !!! progress 
     Cheguei Aqui!
+-->
+
 
 ### Ferramentas github
 
@@ -67,11 +74,15 @@ Isso irá criar uma cópia do repositório na sua conta, uma vez realizado a có
     
     - [http://github.com](http://github.com)
 
-Nessa disciplina iremos utilizar não só a ferramenta principal do github, que é o servidor de repositórios git, mas todas as outras ferramentas já integradas na plataforma para gestão e acompanhamento de projeto. Para isso será alteramos algumas configurações no repositório:
+Nessa disciplina iremos utilizar não só a ferramenta principal do github, que é o servidor de repositórios git, mas todas as outras ferramentas já integradas na plataforma para gestão e acompanhamento de projeto. 
+    
+<!--
+Para isso será alteramos algumas configurações no repositório:
 
 !!! example "Execute"
     Na página do seu repositório vá em: `Settings` :arrow_right: `Features` :arrow_right: e ative `Issues ` e `Project`.
-
+-->
+    
 ??? tip "Ferramentas github"
     - **Github Project**: Ferramenta do github para gerenciamento de projetos (estilo Kambam), cada repositório pode ter N projetos, e o github automatiza o processo de todo/doing/done deixando de maneira visual as tarefas.
 
@@ -95,7 +106,7 @@ Como ele funciona ? Ele fica verificando o repositório por alterações (você 
 3. Executa os scripts de teste localizados em cada projeto.
 4. Desliga e "deleta" a máquina virtual recém criada.
 
-O arquivo de configuração está localizado na pasta: [`Z01.1/.github/workflows/`](https://github.com/Insper/Z01.1/blob/main/.github/workflows/actions.yml). Nele que estão feitas todas as definições de execução.
+O arquivo de configuração está localizado na pasta: [`<repo>/.github/workflows/`](https://github.com/Insper/Z01.1/blob/main/.github/workflows/actions.yml). Nele que estão feitas todas as definições de execução.
 
 Na pagina do seu repositório em commits deve aparecer uma pequena bolinha em cada um dos commits novos que serão feitos no projeto, esse indicador será atualizado pelo travis sendo:
 
@@ -112,7 +123,7 @@ Na pagina do seu repositório em commits deve aparecer uma pequena bolinha em ca
 !!! warning "Um por grupo"
     Somente um do grupo deve realizar isso.
 
-Após clonar o repositório o mediador desse projeto deve editar o arquivo json `GRUPO.json` que está localizado na raiz do projeto inserindo a letra do grupo (que foi atribuída em sala) e o nome recém criado do grupo (o nome do grupo deve ser uma Frase com a primeira palavra começando com a letra do Grupo).
+O mediador desse projeto deve editar o arquivo json `GRUPO.json` que está localizado na raiz do projeto inserindo a letra do grupo (que foi atribuída em sala) e o nome recém criado do grupo (o nome do grupo deve ser uma Frase com a primeira palavra começando com a letra do Grupo).
 
 Exemplo um grupo com a letra **M**, `GRUPO.json`:
 
