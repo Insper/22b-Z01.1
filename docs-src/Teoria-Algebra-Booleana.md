@@ -280,6 +280,8 @@ Existem duas formas bastante populares de simplificar uma equação booleana: al
 
 Na simplificação algébrica iremos utilizar as seguintes propriedades de lógica booleana para nos ajudar a simplificar uma equação:
 
+![](figs/Propriedades.png)
+<!--
 | Propriedade               | Operação                                |
 |---------------------------|-----------------------------------------|
 | Lei da Identidade         | A = A                                   |
@@ -301,6 +303,7 @@ Na simplificação algébrica iremos utilizar as seguintes propriedades de lógi
 |                           | A + (B . C) = (A + B) (A + C)           |
 | Teorema de DeMorgan       | $\overline{A \, B} = \bar{A} + \bar{B}$ |
 |                           | $\overline{A + B} = \bar{A} \, \bar{B}$ |
+-->
 
 !!! note "Explicação da tabela"
     Para essas simplificações nós usaremos as propriedades das operações básicas de álgebra booleana, representada na tabela anterior. As leis da identidade, comutatividade, associatividade e distributividade são bem similares ao que já fazemos normalmente em expressões matemáticas. A idempotência mostra que um AND ou OR com duas variáveis é exatamente a mesma variável. A lei do complemento duplo mostra que se negarmos duas vezes uma variável, teremos a mesma variável. A lei da complementariedade já mostra que fazermos um AND com a negação da mesma variável acabaremos com zero, ou seja, 0 vezes 1 ou 1 vezes 0 sempre dará zero. Já com o OR é o oposto e sempre teremos 1 como resposta. Na lei da interseção temos que uma variável vezes 1 é sempre ela mesma, e se for vezes 0, acabara zerando o resultado. Já a lei da união diz que uma variável mais um é sempre um, e uma variável mais zero é a própria variável. O teorema de DeMorgam é bem interessante, pois mostra uma propriedade bem peculiar da álgebra booleana, no caso o conjunto de A vezes B negado, é o mesmo que A negado, mais B negado, e da mesma forma A negado mais B negado é igual ao A vezes B, e esse resultado negado.
