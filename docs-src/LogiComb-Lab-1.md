@@ -21,11 +21,22 @@ Após essa etapa, iremos começar o desenvolvimento do projeto, programando os m
 
 ## Antes de começar
 
+Executar os comandos:
+
+```
+sudo apt install ghdl gtkwave
+pip install cocotb
+```
+
+para instalar o simulador GHDL e a library cocotb para os testes a serem realizados através de script.
+
+<!--
 Toda vez que um novo projeto começar será necessário realizar algumas configurações no repositório do grupo, vocês devem seguir para o documento: [`Util/Começando novo Projeto`](/Z01.1/Util-Comecando-novo-projeto/) e depois voltar para esse lab.
 
 !!! warning
     Não seguir sem realizar a etapa anterior.
-    
+-->
+
 !!! progress
     Cheguei aqui!
 
