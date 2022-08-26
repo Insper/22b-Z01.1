@@ -334,7 +334,7 @@ Inicio do projeto B - Lógica Combinacional, começo do uso de VHDL.
 1. Laboratórios (1h30)
     - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-1)
     - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
-    - [Lab4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
+    - [Lab 4: FPGA - VHDL](https://insper.github.io/Z01.1/LogiComb-Lab-1)
     
 
 ## Aula 31/08
