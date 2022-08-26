@@ -15,7 +15,7 @@ Grupo de até 6 pessoas! Preencher a tabela a seguir:
 
 O git será uma das ferramentas mais importantes para o projeto.
 
-Utilizar o link fornecido no Blackboard para acessar a atividade no Github Classroom. Um repositório com o nome "aps-<projeto>-<nome do grupo>" será criado.
+Utilizar o link fornecido no Blackboard para acessar a atividade no Github Classroom. Um repositório com o nome "aps-&lt;projeto>-<nome do grupo>" será criado.
 
 <!--
 , com as etapas a seguir vocês realizaram um [Fork](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) do repositório do projeto e adicionaram os colaboradores.
