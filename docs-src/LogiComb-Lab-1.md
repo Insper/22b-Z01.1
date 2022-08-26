@@ -23,9 +23,9 @@ Após essa etapa, iremos começar o desenvolvimento do projeto, programando os m
 
 Executar os comandos:
 
-```
-sudo apt install ghdl gtkwave
-pip install cocotb
+``` bash
+$ sudo apt install ghdl gtkwave
+$ pip install cocotb
 ```
 
 para instalar o simulador GHDL e a library cocotb para os testes a serem realizados através de script.
