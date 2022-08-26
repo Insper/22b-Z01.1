@@ -280,7 +280,8 @@ Existem duas formas bastante populares de simplificar uma equação booleana: al
 
 Na simplificação algébrica iremos utilizar as seguintes propriedades de lógica booleana para nos ajudar a simplificar uma equação:
 
-![](figs/Propriedades.png)
+![](figs/Propriedades.PNG)
+
 <!--
 | Propriedade               | Operação                                |
 |---------------------------|-----------------------------------------|
