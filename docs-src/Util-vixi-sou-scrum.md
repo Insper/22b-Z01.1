@@ -5,7 +5,7 @@
 !!! tip "Passos"
     Você é o mediador (Scrum Master) do projeto e não sabe por onde começar? A seguir os passos que devem ser realizados!
 
-    1. [Sincronizar repositório com upstream](https://insper.github.io/Z01.1/Util-Dicas-GIT/#configurando-upstream-z011-professor)
+    1. Merge dos repositórios
 
     2. Editar `SCRUM_MASTER.json` com suas informações
 
@@ -24,7 +24,7 @@
 
     9. Criar uma tag no git para marcar o commit que tudo funciona, exemplo: `git tag Projeto-C` + `git push --tag`
 
-    10. Preencher formulário de relato (irá receber por e-mail)
+    10. Preencher formulário
 
 ## Criar project no github
 
