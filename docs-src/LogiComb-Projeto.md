@@ -174,6 +174,10 @@ Deve-se implementar os seguintes circuitos combinacionais:
     - **Arquivo** : `impressora.vhd`
     - **Descrição**: Questão da impressora da lista de exercícios [Álgebra Booleana 2](https://insper.github.io/Z01.1/Exercicio-Algebra-Booleana-2/)
 
+- Porta xor de 3 entradas
+    - **Arquivo** : `xor3.vhd`
+    - **Descrição**: Implemente uma porta XOR de 3 entradas utilizando necessariamente apenas um Mux8Way.
+    
 - Display de 7s
     - **Arquivo**: `sevenSeg.vhd'
     - **Descrição**: Questão do display de sete segmentos da lista de exercícios [Álgebra Booleana 2](https://insper.github.io/Z01.1/Exercicio-Algebra-Booleana-2/)
@@ -201,7 +205,7 @@ Para atingir os objetivos A e B, deve-se antes atingir o C.
 |----------|-------------------------------------------------------------|
 | **A+**   | Exibe três dígitos em Hexadecimal na FPGA - anexar video ao repositório                  |
 |          | (exibir até o valor 0x3FF = 2^10 - 1)                       |
-| **B+**   | Módulos adicionais implementados e funcionado (circuito, detector de moedas, impressora) |
+| **B+**   | Módulos adicionais implementados e funcionado (circuito, detector de moedas, impressora, xor) |
 |          | Implementar um único display de 7s (conta de 0x0 0xF) - anexar video ao repositório |
 | **C+**   | Ter criado o project no github                              |
 |          | Actions configurado e funcionando                           |
