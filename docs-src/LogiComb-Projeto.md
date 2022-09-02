@@ -84,7 +84,7 @@ $ ./testeLogicaCombinacional.py
 
 ## Entrega
 
-A entrega deve ser feita no ramo `master` do git.
+A entrega deve ser feita no ramo `main` do git.
 
 - [ ] Implementar todos os módulos listados
 - [ ] Todos os módulos devem passar nos testes
@@ -213,17 +213,13 @@ Para atingir os objetivos A e B, deve-se antes atingir o C.
 | **D**    | Até dois Módulos com falha/ não apresentou o vídeo da FPGA  |
 | **I**    | Mais de três módulos com falha                              |
 
-!!! tip "Conceito A e B"
-    Atualizei o repositório adicionando dois novos arquivos:
-    
-    - `ConceitoB.vhd` e `ConceitoA.vhd`
-    
-    Vocês devem implementar os o "exibe hexadecimal" e "exibe decimal" nestes
-    arquivos. Adicionei um teste para os módulos, ==você pode testar descomentando
-    o arquivo de configuração de testes.==
-    
-    Sugerimos que vocês reutilizem o módulo `sevenSeg.vhd`, para isso devem
-    utilizar uma recurso do VHDL chamado de `port map`, para saber mais acesse:
+!!! tip "Conceito A"
+
+    Vocês devem implementar o "exibe hexadecimal" no arquivo `ConceitoA.vhd`.
+    Tem um teste para os módulos, ==você pode testar incluindo o arquivo de configuração de testes.==
+
+    Sugerimos que vocês reutilizem o módulo `sevenSeg.vhd`, 
+    para isso devem utilizar uma recurso do VHDL chamado de `port map`.
     
     - [VHDL/port map](/Z01.1/VHDL-port-map/)    
     
@@ -235,5 +231,7 @@ As rubricas a serem seguidas serão comuns a todos os projeto e está descrito n
 - [Rubricas Scrum e Desenvolvedor](/Z01.1/Sobre-Rubricas/)
 
 ### Formulários
+<!--
 - [Scrum Master](https://forms.gle/LqmbrhUFbxpEhubSA)
 - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
+-->
