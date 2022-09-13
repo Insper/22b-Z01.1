@@ -2,7 +2,7 @@
 
 | Data da entrega| 
 |----------------|
-| Terça - 13/09 |
+| Quinta - 15/09 |
 
 ![](figs/LogiComb/sistema-comb.svg)
 
