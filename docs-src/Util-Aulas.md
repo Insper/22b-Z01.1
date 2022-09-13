@@ -237,8 +237,25 @@ Projeto D-Lógica Sequencial.
 
 1. Aula estúdio (1h30)
 
+   
+     
+## Aula 04/03
 
-## Aula 25/03
+| Estudo prévio                                            |
+|----------------------------------------------------------|
+| [Teoria RTL](https://insper.github.io/Z01.1/Teoria-RTL/) |
+| [Teoria CMOS](https://insper.github.io/Z01.1/Teoria-CMOS/) |
+
+1. Expositiva/ Dúvidas  (0h40):
+
+1. Laboratório (1h20):
+    - [Lab 1: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
+    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-1)
+    - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
+
+-->
+
+## Aula 21/09
 
 Começo do projeto D-Lógica Sequencial.
 
@@ -253,7 +270,7 @@ Começo do projeto D-Lógica Sequencial.
     - [Lab 9: Lógica sequencial](/Z01.1/seq-Lab-1/)
     
 
-## Aula 23/03
+## Aula 16/09
 
 Detalhes da ULA da CPU do Z01.1.
 
@@ -268,7 +285,7 @@ Detalhes da ULA da CPU do Z01.1.
 
 1. Aula estúdio (1h00)
 
-## Aula 18/03
+## Aula 14/09
 
 Começo do projeto C-ULA, trabalhando com aritmética binária.
 
@@ -286,8 +303,8 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
     - [Lab 6: Adders](/Z01.1/ula-Lab-1/)
     - [Lab 7: Visualizando simulação ](/Z01.1/ula-Lab-2/)
     
-     
-## Aula 16/03
+    
+## Aula 09/09
 
 Projeto B - Lógica Combinacional
 
@@ -301,24 +318,7 @@ Projeto B - Lógica Combinacional
 
 1. Laboratórios (1h30)
     - [Lab5: Lógica Combinacional](/Z01.1/LogiComb-Lab-2)
-
-
-## Aula 04/03
-
-| Estudo prévio                                            |
-|----------------------------------------------------------|
-| [Teoria RTL](https://insper.github.io/Z01.1/Teoria-RTL/) |
-| [Teoria CMOS](https://insper.github.io/Z01.1/Teoria-CMOS/) |
-
-1. Expositiva/ Dúvidas  (0h40):
-
-1. Laboratório (1h20):
-    - [Lab 1: Transistores / CI](https://insper.github.io/Z01.1/A-Transistores-Lab-1/)
-    - [Lab 2: GitHub](/Z01.1/A-Ambiente-Lab-1)
-    - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
-
--->
-
+    
 ## Aula 02/09
 
 Inicio do projeto B - Lógica Combinacional, começo do uso de VHDL.
