@@ -39,7 +39,7 @@ A pasta do projeto C, no repositório Z01, possui a seguinte estrutura:
         tests.py
 ```
 
-1. Quartus: Projeto Quartus que faz uso dos arquivos VHDL localizados em src/rtl/*.vhd;
+1. Quartus: Projeto Quartus que faz uso dos arquivos VHDL localizados em src/*.vhd;
 1. testeULA.py: Scripts em python que automatizam a execução dos testes;
 1. src/*.vhd: Arquivos VHDL que serão implementados pelo grupo;
 1. teste_cocotb/tests.py: Arquivo python que realizam o teste lógico nos arquivos do rtl.
@@ -52,7 +52,7 @@ Abra o terminal na pasta `C-UnidadeLogicaAritmetica/`  e execute o script python
 $ ./testeULA.py
 ```
 
-O mesmo irá compilar os arquivos `src/rtl/*.vhd` e executar os testes unitários em cada um deles. Nesse momento do teste, como os módulos não estão implementados, o resultado deverá ser falho.
+O mesmo irá compilar os arquivos `src/*.vhd` e executar os testes unitários em cada um deles. Nesse momento do teste, como os módulos não estão implementados, o resultado deverá ser falho.
 
 Esse comando executa um teste unitário em cada um dos módulos, verificando se sua implementação está correta. O resultado é exibido na tela como : **Passed** ou **Failed**.
 
