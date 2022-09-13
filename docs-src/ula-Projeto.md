@@ -19,7 +19,7 @@ Neste projeto seu grupo terá que desenvolver os componentes para a implementaç
 !!! tip
     Você é `Scrum Master` e não sabe por onde começar? 
     De uma olhada nessas dicas:
-    [Vixi! Sou Scrum Master](https://insper.github.io/Z01.1/Util-vixi-sou-scrum/)
+    [Vixi! Sou Scrum Master](https://insper.github.io/Z01.1/Util-Comecando-novo-projeto/)
     
 !!! tip
     Sempre teste os módulos e verifique se está funcionando como o esperado.
@@ -34,17 +34,15 @@ A pasta do projeto C, no repositório Z01, possui a seguinte estrutura:
     programFPGA.py
     /Quartus
     /src
-        /rtl
-            *.vhd
-    /tests
-        /tst
-            *.vhd
+        *.vhd
+    /teste_cocotb
+        tests.py
 ```
 
 1. Quartus: Projeto Quartus que faz uso dos arquivos VHDL localizados em src/rtl/*.vhd;
 1. testeULA.py: Scripts em python que automatizam a execução dos testes;
-1. src/rtl/*.vhd: Arquivos VHDL que serão implementados pelo grupo;
-1. tests/tst/*.vhd: Arquivos VHDL que realizam o teste lógico nos arquivos do rtl.
+1. src/*.vhd: Arquivos VHDL que serão implementados pelo grupo;
+1. teste_cocotb/tests.py: Arquivo python que realizam o teste lógico nos arquivos do rtl.
 
 ### Executando o Script de Teste 
 
@@ -56,7 +54,7 @@ $ ./testeULA.py
 
 O mesmo irá compilar os arquivos `src/rtl/*.vhd` e executar os testes unitários em cada um deles. Nesse momento do teste, como os módulos não estão implementados, o resultado deverá ser falho.
 
-Esse comando executa um teste unitário em cada um dos módulos, verificando se sua implementação está correta. O resultado é exibido na tela como : **pass** ou **fail**.
+Esse comando executa um teste unitário em cada um dos módulos, verificando se sua implementação está correta. O resultado é exibido na tela como : **Passed** ou **Failed**.
 
 # O que deve ser feito: 
 
@@ -67,7 +65,7 @@ Note que é possível reaproveitar, via **port map**, os módulos do projeto ant
 ## Módulos 
 
 !!! note
-    Esses arquivos estão localizados em `C-UnidadeLogicaAritmetica/src/rtl/`
+    Esses arquivos estão localizados em `C-UnidadeLogicaAritmetica/src/`
 
 Deve-se implementar os seguintes circuitos combinacionais:
 
@@ -142,7 +140,7 @@ Para implementar a ALU será necessário usar os blocos desenvolvidos neste proj
 
 ## Forma de onda
 
-Para cada teste realizado, deve-se carregar a interface gráfica e tirar um print da forma de onda do módulo com os testes aplicados a ele (LAB-7). Essa imagem deve ser salva na mesma pasta dos arquivos VHDL (src/rtl/) e com o mesmo nome dos módulos. A pasta no final do projeto deve possuir os seguintes arquivos:
+Para cada teste realizado, deve-se carregar a interface gráfica e tirar um print da forma de onda do módulo com os testes aplicados a ele (LAB-7). Essa imagem deve ser salva na mesma pasta dos arquivos VHDL (src/) e com o mesmo nome dos módulos. A pasta no final do projeto deve possuir os seguintes arquivos:
 
 ``` bash
 /src/rtl/
@@ -200,7 +198,7 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 
 !!! note
     1. Para os conceitos B e A, o grupo deve gravar um vídeo da FPGA demonstrando que as modificações funcionam.
-    1. Para os conceitos B e A, o grupo deve modificar o teste da ULA para que comprove o funcionamento dos recursos adicionados (sinais, operações), ou seja, testa-los tentando abordar todos os casos comuns de uso. 
+    1. Para os conceitos B e A, o grupo deve modificar o teste da ULA para que comprove o funcionamento dos recursos adicionados (sinais, operações), ou seja, testá-los tentando abordar todos os casos comuns de uso. 
 
     1. Os conceitos são incrementais: primeiro deve atingir o C :arrow_right: B :arrow_right: A.
     
@@ -212,5 +210,7 @@ As rubricas a serem seguidas serão comuns a todos os projeto e está descrito n
  - [Rubricas Scrum e Desenvolvedor](/Sobre-Rubricas/)
 
 ### Formulários
+<!--
  - [Scrum Master](https://forms.gle/WD769e2jLR9bzLTb6)
  - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
+-->
