@@ -143,7 +143,7 @@ Para implementar a ALU será necessário usar os blocos desenvolvidos neste proj
 Para cada teste realizado, deve-se carregar a interface gráfica e tirar um print da forma de onda do módulo com os testes aplicados a ele (LAB-7). Essa imagem deve ser salva na mesma pasta dos arquivos VHDL (src/) e com o mesmo nome dos módulos. A pasta no final do projeto deve possuir os seguintes arquivos:
 
 ``` bash
-/src/rtl/
+/src/
          Add16.vhd
          Add16.png
          ALU.vhd
@@ -164,7 +164,7 @@ Para cada teste realizado, deve-se carregar a interface gráfica e tirar um prin
 
 ## Testando em HW
 
-Para testar os módulos em hardware, deve-se abrir o projeto (`C-UnidadeLogicaAritmetica/Quartus`). Ele já inclui todos os módulos desta entrega e também os módulos da entrega passada. O arquivo localizado em `/rtl/toplevel.vhd` já faz o mapeamento dos pinos da FPGA para os pinos da ULA. Para testar no hardware basta compilar e programar a FPGA.
+Para testar os módulos em hardware, deve-se abrir o projeto (`C-UnidadeLogicaAritmetica/Quartus`). Ele já inclui todos os módulos desta entrega e também os módulos da entrega passada. O arquivo localizado em `src/toplevel.vhd` já faz o mapeamento dos pinos da FPGA para os pinos da ULA. Para testar no hardware basta compilar e programar a FPGA.
 
 ## Rubricas para avaliação de projetos
 
