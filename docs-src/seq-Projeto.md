@@ -200,10 +200,11 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 ### A - Módulos extras
 
 Para a rubrica A o grupo deve implementar os seguintes módulos extras 
-<!--   e os seus testes (estão vazios)-->
+<!--   e os seus testes (estão vazios)
 
 !!! warning
     Vocês devem implementar o módulos e seus testes!
+-->
 
 - Flip Flop JK
    - **Arquivo**: `conceitoA/FlipFlopJK.vhd`
