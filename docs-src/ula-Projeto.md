@@ -210,7 +210,7 @@ As rubricas a serem seguidas serão comuns a todos os projeto e está descrito n
  - [Rubricas Scrum e Desenvolvedor](/Sobre-Rubricas/)
 
 ### Formulários
-<!--
- - [Scrum Master](https://forms.gle/WD769e2jLR9bzLTb6)
- - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
--->
+
+ - [Scrum Master](https://forms.gle/bH2PZoGeakVoVznF7)
+ - [Desenvolvedores](https://forms.gle/NnHDz7UVb63zwpm86)
+
