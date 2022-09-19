@@ -11,10 +11,10 @@ Cada simulação realizada usando o software GHDL salva um arquivo `.vcd`que con
 Assim, após executar o script de teste (`C-UnidadeLogicaAritmetica/testeULA.py`), pode-se utilizar o software `gtkwave` para visualizar o resultado. Por exemplo:
 
 ```bash
-$ gtkwave teste_cocotb/waves/add16.vcd 
+$ gtkwave teste_cocotb/waves/fulladder.vcd 
 ```
 
-Esse comando irá abrir no software `gtkwave` o resultado do teste do `add16`.
+Esse comando irá abrir no software `gtkwave` o resultado do teste do `fulladder`.
 
 ![GTKWave](figs/D-ULA/gtkwave.png)
 
