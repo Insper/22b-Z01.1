@@ -207,23 +207,23 @@ Para a rubrica A o grupo deve implementar os seguintes módulos extras
 
 - Flip Flop JK
    - **Arquivo**: `conceitoA/FlipFlopJK.vhd`
-<!--   - **Arquivo Teste**: `tests/tb_FlipFlopJK.vhd`-->
    - **Dependência**:
- 
+<!--   - **Arquivo Teste**: `tests/tb_FlipFlopJK.vhd`-->
+
 É é flipflop do tipo [JK](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 - Flip Flop T
    - **Arquivo**: `ConceitoA/FlipFlopT.vhd`
-<!--      - **Arquivo Teste**: `tests/tb_FlipFlopT.vhd`-->
    - **Dependência**:
- 
+<!--      - **Arquivo Teste**: `tests/tb_FlipFlopT.vhd`-->
+
 É é flipflop do tipo [T](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 - Counter Down
    - **Arquivo**: `ConceitoA/CounterDown.vhd`
-<!--      - **Arquivo Teste**: `tests/CoubterDown.vhd`-->
    - **Dependência**: `FlipFlopT`
- 
+<!--      - **Arquivo Teste**: `tests/CoubterDown.vhd`-->
+
  O CouterDown é componente capaz de contar para 'baixo' em binário (000 -> 111 -> 110 -> 101 -> 100), esse componente é formado por FlipFlops do tipo T, como demonstrado no diagrama a seguir:
  
 ![](figs/E-LogSeq/CounterDown.png)
