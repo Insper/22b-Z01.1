@@ -13,7 +13,7 @@
 
     4. [Configurar Actions para executar teste do projeto](https://insper.github.io/Z01.1/Util-Dicas-Travis/)
 
-    5. Criar Project e issues no github (detalhes ao final dessa página)
+    5. Criar issues no github (detalhes ao final dessa página)
         - Discuta com os seus colegas
 
     7. Acompanhe o grupo ajudando o pessoal trabalhar, **seu papel é entregar!! no prazo!!!** 
@@ -26,13 +26,15 @@
 
     10. Preencher formulário
 
+<!--
 ## Criar project no github
 
 - Criando um project no github
 
 ![](figs/LogiComb/C-2-project.gif)
+-->
 
-- Adicionando issues
+## Adicionando issues
 
 !!! tip
     Os issues devem ser todos os módulos a serem implementados do projeto.
