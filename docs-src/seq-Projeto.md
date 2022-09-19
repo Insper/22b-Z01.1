@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 14/04 - Quinta |
+| 14/10 - Sexta |
 
 ![](figs/E-LogSeq/sistema-seq.png)
 
@@ -19,14 +19,14 @@ A pasta do projeto `D-LogicaSequencial` no repositório Z01, possui a seguinte e
     /Quartus
     /src
         *.vhd
-    /tests
-        *.vhd
+    /teste_cocotb
+        tests.py
 ```
 
 1. Quartus: Projeto Quartus que faz uso dos arquivos VHDL localizados em `src/*.vhd`;
 1. scripts: Scripts em python que automatizam a execução dos testes;
 1. `src/*.vhd`: Arquivos VHDL que serão implementados pelo grupo;
-1. `tests/*.vhd`: Arquivos VHDL que realizam o teste lógico nos arquivos do rtl.
+1. `teste_cocotb/tests.py`: Arquivo que possui os testes lógicos dos arquivos do rtl.
 
 ### Executando o Script de Teste 
 
@@ -199,28 +199,29 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 
 ### A - Módulos extras
 
-Para a rubrica A o grupo deve implementar os seguintes módulos extras e os seus testes (estão vazios!)
+Para a rubrica A o grupo deve implementar os seguintes módulos extras 
+<!--   e os seus testes (estão vazios)-->
 
 !!! warning
     Vocês devem implementar o módulos e seus testes!
 
 - Flip Flop JK
    - **Arquivo**: `conceitoA/FlipFlopJK.vhd`
-   - **Arquivo Teste**: `tests/tb_FlipFlopJK.vhd`
+<!--   - **Arquivo Teste**: `tests/tb_FlipFlopJK.vhd`-->
    - **Dependência**:
  
 É é flipflop do tipo [JK](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 - Flip Flop T
    - **Arquivo**: `ConceitoA/FlipFlopT.vhd`
-   - **Arquivo Teste**: `tests/tb_FlipFlopT.vhd`
+<!--      - **Arquivo Teste**: `tests/tb_FlipFlopT.vhd`-->
    - **Dependência**:
  
 É é flipflop do tipo [T](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 - Counter Down
    - **Arquivo**: `ConceitoA/CounterDown.vhd`
-   - **Arquivo Teste**: `tests/CoubterDown.vhd`
+<!--      - **Arquivo Teste**: `tests/CoubterDown.vhd`-->
    - **Dependência**: `FlipFlopT`
  
  O CouterDown é componente capaz de contar para 'baixo' em binário (000 -> 111 -> 110 -> 101 -> 100), esse componente é formado por FlipFlops do tipo T, como demonstrado no diagrama a seguir:
@@ -235,6 +236,8 @@ As rubricas a serem seguidas serão comuns a todos os projeto e está descrito n
 
  - [Rubricas Scrum e Desenvolvedor](/Sobre-Rubricas/)
 
+<!--
 ### Formulários
  - [Scrum Master](https://forms.gle/xk3PYCTBbrxkcKAT8)
  - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
+-->
