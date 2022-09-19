@@ -255,7 +255,7 @@ Projeto D-Lógica Sequencial.
 
 -->
 
-## Aula 21/09
+## Aula 23/09
 
 Começo do projeto D-Lógica Sequencial.
 
@@ -270,7 +270,7 @@ Começo do projeto D-Lógica Sequencial.
     - [Lab 9: Lógica sequencial](/Z01.1/seq-Lab-1/)
     
 
-## Aula 16/09
+## Aula 21/09
 
 Detalhes da ULA da CPU do Z01.1.
 
@@ -285,7 +285,7 @@ Detalhes da ULA da CPU do Z01.1.
 
 1. Aula estúdio (1h00)
 
-## Aula 14/09
+## Aula 16/09
 
 Começo do projeto C-ULA, trabalhando com aritmética binária.
 
@@ -303,7 +303,10 @@ Começo do projeto C-ULA, trabalhando com aritmética binária.
     - [Lab 6: Adders](/Z01.1/ula-Lab-1/)
     - [Lab 7: Visualizando simulação ](/Z01.1/ula-Lab-2/)
     
-    
+## Aula 14/09    
+
+1. Estúdio
+
 ## Aula 09/09
 
 Projeto B - Lógica Combinacional
