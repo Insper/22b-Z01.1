@@ -103,4 +103,4 @@ Para isso vocês terão que modificar o arquivo: `D-LogicaSequencial/src/BinaryD
     1. Teste 
 
 !!! warning
-    Assim como no FFD cada um do grupo vai ter uma implementação do binary-digit e só um deve enviar o PR para a `master`.
+    Assim como no FFD cada um do grupo vai ter uma implementação do binary-digit e só um deve enviar o PR para a `main`.
