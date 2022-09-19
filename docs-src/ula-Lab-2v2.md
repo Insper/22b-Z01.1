@@ -8,7 +8,7 @@
 
 Cada simulação realizada usando o software GHDL salva um arquivo `.vcd`que contém as formas de onda que resultam dos testes.
 
-Assim, após executar o script de teste (`B-UnidadeLogicaAritmetica/testeULA.py`), pode-se utilizar o software `gtkwave` para visualizar o resultado. Por exemplo:
+Assim, após executar o script de teste (`C-UnidadeLogicaAritmetica/testeULA.py`), pode-se utilizar o software `gtkwave` para visualizar o resultado. Por exemplo:
 
 ```bash
 $ gtkwave teste_cocotb/waves/add16.vcd 
