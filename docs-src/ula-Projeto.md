@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 22/09 - Quinta |
+| 23/09 - Sexta |
 
 ![ULA](figs/D-ULA/D-sistema-ula.png)
 
