@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 14/10 - Sexta |
+| 20/10 - Quinta |
 
 ![](figs/E-LogSeq/sistema-seq.png)
 
