@@ -87,7 +87,7 @@ Ao final dessa etapa você deve ser capaz de:
 
 - Saber o que é um `process` em **VHDL** e o impacto da lista de sensibilidade
 - Saber o que é um **FlipFlop** tipo D
-- Explicar a forma de onda do **FlipFlopD** gerada no **modelsim**
+- Explicar a forma de onda do **FlipFlopD** gerada no **GTKWave**
 - Explicar o **RTL** do **FlipFlopD** criado pelo **Quartus**
 
 ## Implementando o binary-digit
