@@ -255,7 +255,7 @@ Projeto D-Lógica Sequencial.
 
 -->
 
-## Aula 23/09
+## Aula 14/10
 
 Começo do projeto D-Lógica Sequencial.
 
@@ -268,7 +268,18 @@ Começo do projeto D-Lógica Sequencial.
 
 1. Laboratório (1h00)
     - [Lab 9: Lógica sequencial](/Z01.1/seq-Lab-1/)
-    
+  
+  
+## Aula 30/09
+
+Segunda Avaliação Individual - Av2
+
+
+## Aula 23/09
+
+1. Expositiva/Dúvidas/Revisão para a AV-I (0h30)
+
+1. Aula estúdio (1h30)
 
 ## Aula 21/09
 
