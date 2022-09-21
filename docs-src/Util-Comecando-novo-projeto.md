@@ -112,7 +112,7 @@ $ git commit -m "configurando actions para novo projeto"
 
 ### `SCRUM_MASTER.json`
 
-O mediador do projeto deve editar o arquivo `SCRUM_MASTER.json` localizado na pasta do projeto (no caso do projeto B: `Projetos/B-LogicaCombinacional/SCRUM_MASTER.json`) com os seus dados.
+O mediador do projeto deve editar o arquivo `SCRUM_MASTER.json` localizado na pasta do projeto (no caso do projeto B: `B-LogicaCombinacional/SCRUM_MASTER.json`) com os seus dados.
 
 Após editar esse arquivo deve realizar um commit e fazer o envio para o github:
 
