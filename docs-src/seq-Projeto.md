@@ -183,7 +183,8 @@ Cada integrante do grupo irá receber duas notas: uma referente ao desenvolvimen
 
 | Conceito |                                                                           |
 |----------|---------------------------------------------------------------------------|
-| A        | - Módulos extras (rtl + testes)                                            |
+| A        | - Módulos extras (rtl + testes)                                           |
+|          | - Gravar vídeo explicando os rtl e as formas de onda dos módulos extras   |
 |          |                                                                           |
 | B        | - Usou sempre que possível outros módulos para criar um novo (hierarquia) |
 |          | - Exemplo: usou o `inc16`, `mux16` e `reg16` para criar PC                |
