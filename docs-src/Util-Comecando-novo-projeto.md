@@ -55,7 +55,7 @@ $ git checkout main
 $ git merge upstream/main
 ```
 
-Feito isso deve ter aparecido uma nova pasta dentro do repositório de vocês: `Projetos/B-LogicaCombinacional/`.
+Feito isso deve ter aparecido uma nova pasta dentro do repositório de vocês: `B-LogicaCombinacional/`.
 -->
 
 <!--
@@ -72,8 +72,8 @@ Edite o arquivo `.travis.yml` localizado na raiz do repositório modificando o f
 
 ``` yml
 script:
-   - python3 Projetos/A-AmbienteDesenvolvimento/testeAmbienteDesenvolvimento.py
-   - python3 Projetos/B-LogicaCombinacional/testeLogicaCombinacional.py 
+   - python3 A-AmbienteDesenvolvimento/testeAmbienteDesenvolvimento.py
+   - python3 B-LogicaCombinacional/testeLogicaCombinacional.py 
 ```
 
 Agora vamos realizar um commit e submeter aos demais colegas do grupo as alterações:
@@ -99,8 +99,8 @@ Edite o arquivo `actions.yml` localizado na pasta .github/workflows/ modificando
     Acrescentar o script do novo projeto ao final do arquivo.
     
 ``` yml
-        python3 Projetos/B-LogicaCombinacional/testeLogicaCombinacional.py
-        python3 Projetos/C-UnidadeLogicaAritmetica/testeULA.py
+        python3 B-LogicaCombinacional/testeLogicaCombinacional.py
+        python3 C-UnidadeLogicaAritmetica/testeULA.py
 ```
 
 Agora vamos realizar um commit e submeter aos demais colegas do grupo as alterações:
