@@ -208,36 +208,12 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
     - [Lab 11: Periféricos](/Z01.1/assembly-Lab-2/)
     
 
-## Aula 13/04
-
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
-| [ASM - Assembly](https://insper.github.io/Z01.1/Teoria-Assembly/)           |
-| [Resumo - Assembly](https://insper.github.io/Z01.1/Util-Resumo-Assembly/)           |
-
-   
-1. Expositiva/ Dúvidas (1h00):
-
-1. Laboratório (1h00)
-    - [Lab 10: Assembly](/Z01.1/assembly-Lab-1/)
-    
     
 ## Aula 01/04
 
 Segunda Avaliação Individual - Av2
 
-
-## Aula 30/03
-
-Projeto D-Lógica Sequencial.
-
-1. Expositiva/ Dúvidas (0h30)
-
-1. Aula estúdio (1h30)
-
-   
+  
      
 ## Aula 04/03
 
@@ -254,6 +230,31 @@ Projeto D-Lógica Sequencial.
     - [Lab 3: GitHub](/Z01.1/A-Ambiente-Lab-2)
 
 -->
+
+## Aula 21/10
+
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Linguagem de máquina](https://insper.github.io/Z01.1/Teoria-Linguagem-de-Maquina/)           |
+| [ASM - Assembly](https://insper.github.io/Z01.1/Teoria-Assembly/)           |
+| [Resumo - Assembly](https://insper.github.io/Z01.1/Util-Resumo-Assembly/)           |
+
+   
+1. Expositiva/ Dúvidas (1h00):
+
+1. Laboratório (1h00)
+    - [Lab 10: Assembly](/Z01.1/assembly-Lab-1/)
+    
+    
+## Aula 19/10
+
+Projeto D-Lógica Sequencial.
+
+1. Expositiva/ Dúvidas (0h30)
+
+1. Aula estúdio (1h30)
+
 
 ## Aula 14/10
 
