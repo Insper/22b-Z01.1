@@ -11,8 +11,8 @@ Estudo prévio necessário para realizar esse lab:
 
 | Leitura                    |
 |----------------------------|
-| `Teoria/Lógica Sequencial` |
-| `VHDL/Sequencial`          |
+| [Lógica Sequencial](https://insper.github.io/Z01.1/Teoria-Logica-Sequencial/)  |
+| [VHDL/Sequencial](https://insper.github.io/Z01.1/VHDL-Sequencial/)             |
 
 ## Implementando um FF tipo D
 
