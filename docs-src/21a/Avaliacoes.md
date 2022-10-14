@@ -21,7 +21,9 @@ Liberado consulta ao material da disciplina.
     
 
 
-## AV3 - sexta 13/05
+-->
+
+## AV3 - sexta 11/11
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
@@ -30,10 +32,13 @@ A avaliação será distribuída via github classroom (link estará no blakcboar
 Liberado consulta ao material da disciplina.
 
 - Projetos:
+    - D: Lógica sequencial 
     - E: Assembly  
     - F: CPU
 
 - Conteúdos:
+    - Lógica Sequêncial
+    - VHDL: Sequencial   
     - Assembly
     - Assembly - Mapa de memória
     - Assembly - Saltos
@@ -41,12 +46,11 @@ Liberado consulta ao material da disciplina.
     - Conjunto de Instruções
     - CPU
     - Control Unit
-    - VHDL
 
 [Prova - Av3 - 21b](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3.pdf) - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3_resolucao.pdf) - [Repositório](https://github.com/insper-classroom/21b-ele-av3-teste)
--->
 
-## AV2 - AI - sexta 30/09 
+
+## AV2 - AI - sexta 30/09 - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/22b-ele-av2_resolucao.pdf)
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
