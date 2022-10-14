@@ -73,9 +73,7 @@ Esse componente possui a tabela verdade a seguir:
 | `1` | `0` | Copia Entrada `D`: `0` | Copia Entrad `D` negada: `1` |
 | `1` | `1` | Copia Entrada `D`: `1` | Copia Entrada `D` negada: `0` |
 
-<!--
-<iframe width="900" height="506" src="https://www.youtube.com/embed/KGVeOCovTEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
+
 ## Clock
 
 Em sistemas digitais, precisamos considerar que cada porta lógica possui um tempo de propagação do resultado, a resposta de uma porta AND não é imediata, leva alguns `ns` para que o resultado da operação `a and b` estabilize na saída. Cada porta possui tempos de propagação distintos (até uma mesma porta AND possui diferença de tempo entre elas). 
