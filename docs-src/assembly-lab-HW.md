@@ -52,5 +52,4 @@ Mexa nas chaves SW e veja o que acontece com os LEDS.
 Quando as chaves estiverem para baixo, o respectivo LED acende e quando a chave estiver para cima o LED apaga.
 
 !!! tip
-    - Valide na FPGA! Chame um professor
-    - para mostrar.
+    - Valide na FPGA! <!--Chame um professor para mostrar.-->
