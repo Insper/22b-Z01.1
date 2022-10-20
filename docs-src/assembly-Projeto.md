@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 28/04 - Quinta |
+| 03/11 - Quinta |
 
 ![Assembly](figs/F-Assembly/sistema-assembly.svg)
 
@@ -50,7 +50,7 @@ Esse comando executa um teste unitário em cada um dos módulos, verificando se 
 
 
 !!! tip
-    Lembrando que o arquivo `tests/config.txt` define quais testes serão executados.
+    O arquivo `config_testes_nasm.txt` define quais testes serão executados.
 
 ## Projeto
 
@@ -59,7 +59,7 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
 
 ### Módulos 
 
-- Esses arquivos estão localizados em `E-Assembly/src/nasm/`
+- Esses arquivos estão localizados em `E-Assembly/src/`
 
 **A descrição de cada módulo está localizada no cabeçalho do arquivo.**
  
@@ -119,8 +119,8 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - Criar um programa em python que converte um tabela do excel (onde cada célula equivale a um px pintado) em um código nasm que executa no Z01 e gera a imagem da tabela
 
 
-
+<!--
 ### Formulários
  - [Scrum Master](https://forms.gle/H8k9McBk8ep6yghFA)
  - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
-
+-->
