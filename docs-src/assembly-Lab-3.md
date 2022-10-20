@@ -18,7 +18,7 @@ Esse lab deve ser feito no Z01Simulador, para abrir o programa basta ==executar 
 ## Incondicional
 
 !!! example "lcd1.nasm" 
-    - `Projetos/E-Assembly/src/labs/lcd1.nasm`
+    - `E-Assembly/src/labs/lcd1.nasm`
     
     Preencha todos os px do LCD de preto!
     
@@ -59,7 +59,7 @@ Saltos condicionais são utilizados para verificarmos condições no programa, v
 
 
 !!! example "jmp1.nasm" 
-    - `Projetos/E-Assembly/src/labs/jmp1.nasm`
+    - `E-Assembly/src/labs/jmp1.nasm`
     
     Implemente o pseudo código a seguir em nasm:
     
@@ -107,7 +107,7 @@ Saltos condicionais são utilizados para verificarmos condições no programa, v
         ```
         
 !!! example "jmp3.nasm" 
-    - `Projetos/E-Assembly/src/labs/jmp3.nasm`
+    - `E-Assembly/src/labs/jmp3.nasm`
     
     Implemente o pseudo código a seguir em nasm:
     
@@ -145,7 +145,7 @@ Saltos condicionais são utilizados para verificarmos condições no programa, v
         ```
 
 !!! example "jmp4.nasm" 
-    - Criar o arquivo `Projetos/E-Assembly/src/labs/jmp4.nasm`
+    - Criar o arquivo `E-Assembly/src/labs/jmp4.nasm`
     
     Implemente o pseudo código a seguir em nasm:
     
@@ -167,7 +167,7 @@ Saltos condicionais são utilizados para verificarmos condições no programa, v
         - Teste 2: RAM[0] = 2
 
 !!! example "jmp5.nasm" 
-    - Criar o arquivo `Projetos/E-Assembly/src/labs/jmp5.nasm`
+    - Criar o arquivo `E-Assembly/src/labs/jmp5.nasm`
     
     Acione a metade superior dos pxs do LCD de preto.
     
