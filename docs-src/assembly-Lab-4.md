@@ -13,10 +13,10 @@ Os seguintes programas são contemplados nesse lab:
 
 
 
-Os problemas desse lab possuem teste unitário, para isso você deve editar o arquivo de configurações de teste: `test/config.txt` e descomentar o módulo que está implementando. E então executar o script `testeAssembly.py`
+Os problemas desse lab possuem teste unitário, para isso você deve editar o arquivo de configurações de teste: `config_testes_nasm.txt` e descomentar o módulo que está implementando. E então executar o script `testeAssembly.py`
 
 !!! example "mov.nasm" 
-    - `Projetos/E-Assembly/src/mov.nasm`
+    - `E-Assembly/src/mov.nasm`
     
     Movimentação de dados da memoria RAM
     
@@ -25,7 +25,7 @@ Os problemas desse lab possuem teste unitário, para isso você deve editar o ar
     - RAM[3] = 1
 
 !!! example "max.nasm" 
-    - `Projetos/E-Assembly/src/max.nasm`
+    - `E-Assembly/src/max.nasm`
     
     RAM2 = max(RAM[0], RAM[1])
     
@@ -33,11 +33,11 @@ Os problemas desse lab possuem teste unitário, para isso você deve editar o ar
     Estamos considerando número inteiros.                                 
  
 !!! example "abs.nasm" 
-    - `Projetos/E-Assembly/src/abs.nasm`
+    - `E-Assembly/src/abs.nasm`
    
     Copia o valor de RAM[1] para RAM[0] deixando o valor sempre positivo.
 
 !!! example "mult.nasm" 
-    - `Projetos/E-Assembly/src/mult.nasm`
+    - `E-Assembly/src/mult.nasm`
  
     Multiplica o valor de RAM[1] com RAM[0] salvando em RAM[3]
