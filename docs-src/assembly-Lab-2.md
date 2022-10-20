@@ -28,7 +28,7 @@ Problemas relacionados ao LED do nosso Z01
         - `21184`
 
 !!! example "led1.nasm"
-    - `Projetos/E-Assembly/src/labs/led1.nasm`
+    - `E-Assembly/src/labs/led1.nasm`
     
     Faça o LED0 acender
     
@@ -44,7 +44,7 @@ Problemas relacionados ao LED do nosso Z01
         ```
         
 !!! example "led2.nasm"
-    - `Projetos/E-Assembly/src/labs/led2.nasm`
+    - `E-Assembly/src/labs/led2.nasm`
     
     Faça os LEDs: 9,7,5,3,1 acenderem
     
@@ -68,7 +68,7 @@ Problemas relacionado a chave do nosso Z01
         - `21185`
 
 !!! example "sw1.nasm"
-    - `Projetos/E-Assembly/src/labs/sw1.nasm`
+    - `E-Assembly/src/labs/sw1.nasm`
     
     Faça os LEDs serem o valor das chaves: LED = SW
     
@@ -89,7 +89,7 @@ Problemas relacionado a chave do nosso Z01
         ```
 
 !!! example "sw2.nasm"
-    - `Projetos/E-Assembly/src/labs/sw2.nasm`
+    - `E-Assembly/src/labs/sw2.nasm`
     
     Faça os LEDs serem o contrário do valor das chaves: LED = !SW
     
@@ -109,7 +109,7 @@ Problemas relacionado a chave do nosso Z01
 Trabalhando com o LCD.
 
 !!! example "LCD" 
-    - Linhas 6-7 do arquivo `Projetos/E-Assembly/src/labs/lcd2.nasm` -->
+    - Linhas 6-7 do arquivo `E-Assembly/src/labs/lcd2.nasm` -->
     
     Acione os 16 primeiros pxs do LCD.
     
@@ -125,7 +125,7 @@ Trabalhando com o LCD.
         > `movw $-1, (%A)`: Gera o vetor `1111111111111` e grava no endereço que %A aponta (primeiros pxs do LCD)
 
 !!! example "lcd2.nasm" 
-    - `Projetos/E-Assembly/src/labs/lcd2.nasm`
+    - `E-Assembly/src/labs/lcd2.nasm`
     
     Acione todos os pxs da primeira posição de memória do LCD, do meio do LCD e da última posição de memória do LCD.
     
