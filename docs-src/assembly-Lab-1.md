@@ -18,13 +18,13 @@ Ao final desse lab você deve ser capaz de:
 
 Nosso código assembly pode ser executado em hardware de verdade (FPGA) porém nesse primeiro momento iremos trabalhar em um ambiente simulado que nos dará maior facilidade de programação e depuração.
 
-Um pouco de contexto: O livro texto (The Elements Of Computer System) disponibiliza um simulador da CPU original todo escrito em java, esse código é fechado e não permite nenhuma customização. Em 2017 o Prof. Luciano Pereiro iniciou a criação de um simulador Z0 (versão anterior) também em Java, onde teríamos controle total do software.
+Um pouco de contexto: O livro texto (The Elements Of Computer System) disponibiliza um simulador da CPU original todo escrito em java, esse código é fechado e não permite nenhuma customização. Em 2017 o Prof. Luciano Pereira iniciou a criação de um simulador Z0 (versão anterior) também em Java, onde teríamos controle total do software.
 
 Percebemos alguns pontos negativos de utilizar um simulador em Java sendo o principal: Qualquer alteração no Hardware iria demandar uma alteração no simulador, sendo necessário mantermos dois projetos independentes e sincronizados.
 
 Nesta versão do curso iremos utilizar um simulador que utiliza o nosso próprio código VHDL como descrição da CPU (e de tudo envolvido), uma alteração no hardware (VHDL) irá automaticamente alterar o simulador e o comportamento do computador. Para isso, fazemos uso do ModelSim, um software da Mentor Graphics que executa simulações em VHDL (o mesmo utilizado nos projetos anteriores), desenvolvemos uma série de APIs e configurações desse simulador para funcionar para a disciplina.
 
-> As APIS de interface do simulador foram desenvolvidas por mim (vhdl/ tcl/ python) e a interface gráfica pelo Prof. Eduardo Marossi (python/ qt5). 
+> As APIS de interface do simulador foram desenvolvidas pelo Prof. Rafael Corsi (vhdl/ tcl/ python) e a interface gráfica pelo Prof. Eduardo Marossi (python/ qt5). 
 >
 > De uma olhada na pasta Z01-Tools na sua home, está tudo lá!
 
@@ -46,7 +46,7 @@ O simulador está localizado nas pastas `Z01-tools/` :
 Para inicializar o simulador basta executar o script localizado na pasta do projeto E:
 
 ``` bash
-$ python3 Projetos/E-Assembly/Z01simulador.py
+$ python3 E-Assembly/Z01simulador.py
 ```
 
 ##Interface do Simulador 
@@ -120,7 +120,7 @@ Para testarmos esse código será necessário colocarmos valores iniciais na mem
 
 Vamos praticar um pouco agora programar em assembly, no começo parece bem difícil, mas com a prática as coisas vão ficando mais fáceis.
 
-Use o resumo das instruções: [AssemblyZ1](https://insper.github.io/Z01.1/Util-Resumo-Assembly) para saber as instruções disponíveis.
+Use o resumo das instruções: [AssemblyZ01](https://insper.github.io/Z01.1/Util-Resumo-Assembly) para saber as instruções disponíveis.
 
 !!! example ""
     Altere o código para armazenar o resultado no endereço RAM[5]
@@ -151,20 +151,22 @@ Use o resumo das instruções: [AssemblyZ1](https://insper.github.io/Z01.1/Util-
     
 ## Script automático de testes
 
-Além da interface gráfica do simulador, possuímos um script de teste automatizado (similar ao do VHDL), esse script: `E-Assembly/testeAssembly.py` compila os códigos que estão na pasta `E-Assembly/src/` para a pasta `E-Assembly/bin/hack` e executa os testes localizados em `E-Assembly/tests/`. Somente os arquivos configurados no `config_testes.txt` serão testados.
+Além da interface gráfica do simulador, possuímos um script de teste automatizado (similar ao do VHDL), esse script: `E-Assembly/testeAssembly.py` compila os códigos que estão na pasta `E-Assembly/src/` para a pasta `E-Assembly/bin/hack` e executa os testes localizados em `E-Assembly/tests/`. Somente os arquivos configurados no `config_testes_nasm.txt` serão testados.
 
-### `config_testes.txt`
+### `config_testes_nasm.txt`
 
 O arquivo de configuração dos testes é um pouco diferente, possui além do nome do módulo que será testado um segundo parâmetro que indica quantos testes serão executados para esse módulo e quantos microsegundos ele ficará na simulação (microsegundos suposto de um sistema real).
 
-Exemplo do `config_testes.txt`
+Exemplo do `config_testes_nasm.txt`
 ```
 # nome | quantidade de testes | us de execucao
 #add 1 1000
 ```
 
+<!--
 !!! example "Tarefa"
-    - Abra o arquivo `config_testes.txt` e remova o comentário do módulo add
+    - Abra o arquivo `config_testes_nasm.txt` e remova o comentário do módulo add
+-->
 
 ### Implementando o add.nasm
 
@@ -193,7 +195,7 @@ Se tudo ocorrer bem você deverá ter a seguinte saída :
  
 ### Implementando outros módulos
 
-Vamos implementar outros módulos: `sub.nasm` e `mov.nasm`. Para cada módulo descomente o teste no `config_tests.txt` e leia o que deve ser feito nos comentários de cada arquivo.
+Vamos implementar outros módulos: `sub.nasm` e `mov.nasm`. Para cada módulo descomente o teste no `config_tests_nasm.txt` e leia o que deve ser feito nos comentários de cada arquivo.
 
 !!! example "Tarefa"
     1. Implementar o `sub.nasm` e testar
