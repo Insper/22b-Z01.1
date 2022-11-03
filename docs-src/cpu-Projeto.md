@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 11/05 - Quarta |
+| 15/11 - Terça |
 
 ![](figs/G-CPU/sistema-cpu.svg)
 
@@ -19,48 +19,33 @@ A pasta do projeto F no repositório Z01, possui a seguinte estrutura:
 ```
 F-Computador/
     testeHW.py
-    testeAssemblyMyCPU.py
     Z01SimuladorMyCPU.py
-    src/rtl/
+    src/
     Quartus/
     Z01-Simulator-RTL/
 ```
 
-1. `testeHW.py`: Testa o `controlUnit.vhd` e `memoryIO.vhd`
-1. `testeAssemblyMyCPU.py`: Testa todo o HW do computador (`CPU.vhd`)
+1. `testeHW.py`: Testa o `controlUnit.vhd`, `memoryIO.vhd` e todo o HW do computador (`CPU.vhd`)
 1. `Z01SimuladorMyCPU.py`: Abre o simulador gráfico do Z01.1 com o HW do grupo
-1. `Z01-Simulator-RTL` : Pasta com o simulador do computador (usa o hardware criado por vocês)
+1. `Z01-Simulator-RTL` : Pasta com o simulador do computador
 
 ### Testando HW (ControlUnit e MemoryIO)
 
-Abra o terminal na pasta `F-CPU` e execute o script python localizado nessa pasta:
+Abra o terminal na pasta `F-Computador`, deixe descomentado apenas as linhas referentes ao `ControlUnit.vhd` e ao `MemoryIO.vhd` no arquivo `config_testes.txt` e execute o script python:
 
 ```bash
 $ ./testeHW.py
 ```
 
-!!! warning
-    Esse script testa apenas uma pequena parte
-    do Control Unity e do MemoryIO!
-
-    Passar nesse teste não indica 100% que o projeto está correto.
-
-É possível testar apenas o controlUnit ou MemoryIO, execute o comando com: `lib.tb_controlunit.all` ou `lib.tb_memoryio.all` para testar apenas um módulo. 
-
-```bash
-$ ./testeHW.py lib.tb_memoryio.all 
-$ ./testeHW.py lib.tb_controlunit.all
-```
-
 ### Testando o projeto completo
 
-Para testar se o computador está correto, iremos executar alguns programas realizados na etapa `E-Assembly` porém agora no Harware que vocês montaram. Para isso execute.
+Para testar se o computador está correto, iremos executar alguns programas realizados na APS `E-Assembly` porém agora no Harware que vocês montaram. Apenas execute esse teste após a implementação dos três módulos solicitados no projeto. Para isso, descomente a linha referente ao `CPU.vhd` no arquivo `config_testes.txt` execute.
 
 ```bash
-$ ./testeAssemblyMyCPU.py
+$ ./testeHW.py
 ```
 
-Esse script irá compilar todos os módulos (desde o projeto C) e executar o top level `Computador.vhd`, iremos comparar se a resposta (memória RAM) possui o resultado esperado. Como os programas são complexos, esperamos com isso conseguir testar a totalidade do projeto.
+Todos os módulos vhdl (desde o projeto B) serão compilados e o `CPU.vhd` será executado. Todos os programas em Assembly que estiverem descomentados no arquivo `config_testes_nasm.txt` na pasta `E-Assembly` serão verificados. Na sequência, iremos comparar se a resposta (memória RAM) possui o resultado esperado. Como os programas são complexos, esperamos com isso conseguir testar a totalidade do projeto. 
 
 !!! tip
     Temos uma página inteira detalhando como debugamos esse teste:
@@ -69,14 +54,12 @@ Esse script irá compilar todos os módulos (desde o projeto C) e executar o top
 
 ### Actions
 
-Adicione ao Actions os dois testes, separando o memoryIO e o controlUnit:
+Adicione ao Actions o teste:
 
-- `testeHW.py lib.tb_memoryio.all`
-- `testeHW.py lib.tb_controlunit.all`
-- `testeAssemblyMyCPU.py`
+- `testeHW.py`
 
 !!! tip
-    No Actions você tem que colocar o caminho completo: `Projeto/F-Computador/...`
+    No Actions você tem que colocar o caminho completo: `F-Computador/...`
 
 
 ## Projeto
@@ -86,7 +69,7 @@ Deve-se implementar o `Control Unit` e integrar os módulos: `MemoryIO` e `CPU`.
 ## Módulos 
 
 !!! note
-    Esses arquivos estão localizados em `F-Computador/src/rtl/`
+    Esses arquivos estão localizados em `F-Computador/src/`
 
 Os módulos estão listados de maneira Top - Down
 
@@ -164,7 +147,8 @@ Os módulos estão listados de maneira Top - Down
 
 
 ### Formulários
+<!--
  - [Scrum Master](https://forms.gle/DZxPn3yWudqn6HjDA)
  - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
-
+-->
 
