@@ -5,12 +5,12 @@
 
 | HW | SW |
 |----|----|
-| 15 | 10 |
+| 10 | 10 |
 
-Esse projeto extra optativo (individual) fornece **15 pontos** 
+Esse projeto extra optativo (individual) fornece **10 pontos** 
 extras de **Hardware** e **10 pontos extras** de **Software**. 
 
-## (15 HW) Processadores
+## (10 HW) Processadores
 
 Você deverá escolher um dos processadores listados a seguir:
 
