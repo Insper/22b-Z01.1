@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 03/11 - Quinta |
+| 04/11 - Sexta |
 
 ![Assembly](figs/F-Assembly/sistema-assembly.svg)
 
