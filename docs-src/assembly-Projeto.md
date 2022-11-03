@@ -119,8 +119,7 @@ Deve-se implementar diversos programas na linguagem de máquina do Z01 que irão
     - Criar um programa em python que converte um tabela do excel (onde cada célula equivale a um px pintado) em um código nasm que executa no Z01 e gera a imagem da tabela
 
 
-<!--
 ### Formulários
- - [Scrum Master](https://forms.gle/H8k9McBk8ep6yghFA)
- - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
--->
+ 
+ - [Scrum Master](https://forms.gle/Yjoi2Mtwmp7MbSfS8)
+ - [Desenvolvedores](https://forms.gle/NnHDz7UVb63zwpm86)
