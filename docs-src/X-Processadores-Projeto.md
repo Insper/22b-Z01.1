@@ -1,7 +1,7 @@
 # Mundo Real
 
 !!! warning ""
-    Entregar até dia 12/06
+    Entregar até dia 30/11
 
 | HW | SW |
 |----|----|
@@ -22,12 +22,15 @@ Você deverá escolher um dos processadores listados a seguir:
 - [SPARC V8](https://en.wikipedia.org/wiki/SPARC)
 - [ZIP CPU](https://zipcpu.com/)
 - [OpenRISC](https://openrisc.io/)
+- [Intel 8051](https://en.wikipedia.org/wiki/8051)
+- [ESP8266](https://en.wikipedia.org/wiki/ESP8266)
+- [PIC16x](https://en.wikipedia.org/wiki/PIC16x84)
 
 !!! warning 
     Não pode repetir dentro do grupo!
     ==DPs: Não pode ser o mesmo do semestre passado==
 
-Vocês devem entregar um vídeo que explica a CPU em questão, neste vídeo (de no mínimo 4 minutos e no máximo 6) vocês devem explicar:
+Vocês devem entregar um vídeo que explica a CPU em questão, neste vídeo (de no máximo 10 minutos) vocês devem explicar:
 
 - Histórico
     - [ ] História da arquitetura
@@ -45,7 +48,7 @@ Vocês devem entregar um vídeo que explica a CPU em questão, neste vídeo (de 
         - [ ] Operações da ULA (se for muitas, pode pegar algumas)
         - [ ] A arquitetura é CISC ou RISC?
         - [ ] Como o Program Counter (PC) funciona? 
-        - [ ] Como é realizado o acesso a memória nessa arquitetura?
+        - [ ] Como é realizado o acesso a memória nessa arquitetura? (registrador-registrador, registrador-memória, memória-memória)
         - [ ] Pode fazer operações direto na memória? Ou temos que carregar para os registradores antes?
         - [ ] Especificidades
     - [ ] Comparação com o Z01.1
@@ -66,6 +69,6 @@ Você deve pegar um código de exemplo do assembly da CPU escolhida e comentar e
 - Muitas arquitetura possuem simulador! Interessante usar, mas não é necessário
 
 ### Entrega
-
+<!--
 - [Link para entrega](https://forms.gle/fc7qPkoZNw8uE9aD9)
-
+-->
