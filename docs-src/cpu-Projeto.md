@@ -147,8 +147,7 @@ Os módulos estão listados de maneira Top - Down
 
 
 ### Formulários
-<!--
- - [Scrum Master](https://forms.gle/DZxPn3yWudqn6HjDA)
- - [Desenvolvedores](https://forms.gle/jTrSaBegjKZZF6za6)
--->
+
+ - [Scrum Master](https://forms.gle/riMh8X9bkSmToxMCA)
+ - [Desenvolvedores](https://forms.gle/NnHDz7UVb63zwpm86)
 
