@@ -2,8 +2,7 @@
 
 Informações sobre as avaliações (e simulados) da disciplina:
 
-<!--
-## AV4 - AF - sexta 10/06
+## AV4 - AF - sexta 02/12
 
 Avaliação prática individual a ser realizada no SSD Linux. 
 
@@ -11,17 +10,13 @@ A avaliação será distribuída via github classroom (link estará no blakcboar
 
 Liberado consulta ao material da disciplina.
 
-- Projetos (pontos de SW):
-    - G: Assembler 
-    - H: VM
-    - I: VM Translator
-- Álgebra booleana (pontos de HW)
+- Projetos:
+    - F: CPU (HW)
+    - G: Assembler (SW)
+    - H: VM (SW)
 
 [Prova - Av4 - 21b - Repositório](https://github.com/insper-classroom/21b-ele-av4-teste) - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Av4_21b_resolucao.pdf)
-    
 
-
--->
 
 ## AV3 - sexta 11/11
 
@@ -34,7 +29,6 @@ Liberado consulta ao material da disciplina.
 - Projetos:
     - D: Lógica sequencial 
     - E: Assembly  
-    - F: CPU
 
 - Conteúdos:
     - Lógica Sequêncial
@@ -44,8 +38,6 @@ Liberado consulta ao material da disciplina.
     - Assembly - Saltos
     - Linguagem de máquina
     - Conjunto de Instruções
-    - CPU
-    - Control Unit
 
 [Prova - Av3 - 21b](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3.pdf) - [Resolução](https://github.com/Insper/Z01.1/blob/main/Exercicios/Extras/Prova_Av3_resolucao.pdf) - [Repositório](https://github.com/insper-classroom/21b-ele-av3-teste)
 
