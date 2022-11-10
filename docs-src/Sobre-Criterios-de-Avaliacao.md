@@ -20,9 +20,9 @@ A nota final de **prova** (atingido atingido o critério) será a média da soma
 | Provas           | Pontuação HW        | Pontuação SW        |  Pontuação Total    | Conteúdo            |
 |------------------|---------------------|---------------------|---------------------|---------------------|
 | A1               | 30                  | 10                  | 40                  | Álgebra booleana, dados digitais |
-| A2               | 40                  | 10                  | 50                  | Dados digitais, lógica combinacional, ULA, lógica sequencial |
-| A3               | 20                  | 35                  | 55                  | Assembly, CPU |
-| A4               | 10                  | 45                  | 55                  | Assembler, máquina virtual, VM translator, álgebra booleana |
+| A2               | 40                  | 10                  | 50                  | Dados digitais, lógica combinacional, ULA  |
+| A3               | 20                  | 35                  | 55                  | Lógica sequencial, Assembly |
+| A4               | 10                  | 45                  | 55                  | CPU, Assembler, máquina virtual |
 | Total            | 100                 | 100                 | 200                 | |
 
 ## Projetos (APS)
