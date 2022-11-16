@@ -2,7 +2,7 @@
 
 | Entrega      |
 |--------------|
-| 15/11 - Terça |
+| 17/11 - Quinta |
 
 ![](figs/G-CPU/sistema-cpu.svg)
 
