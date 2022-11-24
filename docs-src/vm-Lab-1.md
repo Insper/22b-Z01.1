@@ -8,7 +8,7 @@ Nesse lab iremos criar programas em VM para o nosso Z01.1, essa entrega é indiv
 Esse laboratório mistura exercícios com leitura de teoria, é essencial que você realize as leituras recomendadas para cada secção e então voltar para fazer os exercícios. 
 
 !!! warning "Antes de começar"
-    Esse laboratório não faz parte de um projeto, mas será necessário atualizar o repositório de vocês com o Z01 para buscarem a nova pasta (`upstream`). Escolham um do grupo para fazer isso, ele não será um scrum master!
+    Esse laboratório não faz parte de um projeto, mas será necessário atualizar o repositório de vocês com o Z01. Escolham um do grupo para fazer isso, ele não será um scrum master!
     
     - ==Não seguir sem realizar a etapa anterior.==
 
@@ -31,7 +31,7 @@ Abra o simulador online da calculadora [hp48](http://www.poleyland.com/hp48/) e 
 !!! info "TEORIA"
     Leia a [Teoria/VM](/Z01.1/Teoria-vm/) antes de seguir.
     
-Vamos agora trabalhar com a nossa vm, vocês terão que implementar os programas a seguir e testar com o script (`testeVm.py`). 
+Vamos agora trabalhar com a nossa vm, vocês terão que implementar os programas a seguir e testar com o script (`testeVM.py`). 
 
 !!! info
     A descrição do que deve ser feito está no próprio código
