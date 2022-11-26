@@ -1,7 +1,7 @@
 # Mundo Real
 
 !!! warning ""
-    Entregar até dia 30/11
+    Entregar até dia 09/12
 
 | HW | SW |
 |----|----|
