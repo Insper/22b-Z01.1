@@ -82,70 +82,9 @@ Dúvidas sobre dados digitais, uma breve visão geral sobre git e github.
 1. Laboratório (1h00)
     - [Lab 17: VM](/Z01.1/vm-Lab-1/) (goto (jump) e funções)
     
-## Aula 27/05
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [VM - Segmentos](/Z01.1/Teoria-vm-segmentos/)        |
-| [VM - Memória](/Z01.1/Teoria-vm-memoria/)        |
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-    - [Lab 17: VM](/Z01.1/vm-Lab-1/) (Treinando RPN e VM Z01 - básico)
-
-
-## Aula 25/05
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Linguagem de Máquina Virtual](/Z01.1/Teoria-vm/)        |
-
-1. Expositiva/Dúvidas (1h00)
-
-1. Laboratório (1h00)
-
-## Aula 20/05
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Assembler - Tabela de símbolos](/Z01.1/assembler-Dicas-SymbolTable/)        |
-
-1. Resolução prova (0h30)
-
-1. Dúvidas/ Expositiva (0h30):
-
-1. Laboratório (1h00)
-    - [Lab 16: Assembler - parte 4](/Z01.1/assembler-Lab-1-parte-4/)
-    - [Lab 16: Assembler - parte 5](/Z01.1/assembler-Lab-1-parte-5/)
-    
+  
 
 ## 18/05 - Av3
-
-## Aula 13/05
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Assembler](/Z01.1/Teoria-Assembler/)        |
-
-   
-1. Revisão/ Dúvidas/ Expositiva (1h00):
-
-1. Laboratório (1h00)
-    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-3/)
-    
-    
-## Aula 11/05
-
-| Estudo prévio                                                                           |
-|-----------------------------------------------------------------------------------------|
-| [Assembler](/Z01.1/Teoria-Assembler/)       |
-
-1. Expositiva/Dúvidas  (1h20)
-
-1. Laboratório (0h40)
-    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-1/)
-
 
 ## Aula 06/05
 
@@ -178,6 +117,72 @@ Segunda Avaliação Individual - Av2
 
 -->
 
+## Av4 - PF - 02/12
+
+## Aula 30/11
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [VM - jump](/Z01.1/Teoria-vm-jump/)        |
+| [VM - Funções](/Z01.1/Teoria-vm-funcoes/)        |
+
+1. Expositiva/Dúvidas (2h00)
+
+
+## Aula 25/11
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Linguagem de Máquina Virtual](/Z01.1/Teoria-vm/)        |
+| [VM - Segmentos](/Z01.1/Teoria-vm-segmentos/)        |
+| [VM - Memória](/Z01.1/Teoria-vm-memoria/)        |
+
+1. Expositiva/Dúvidas (1h00)
+
+1. Laboratório (1h00)
+    - [Lab 17: VM](/Z01.1/vm-Lab-1/) (Treinando RPN e VM Z01 - básico)
+    
+    
+## Aula 23/11
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Assembler - Tabela de símbolos](/Z01.1/assembler-Dicas-SymbolTable/)        |
+
+1. Resolução prova (0h30)
+
+1. Dúvidas/ Expositiva (0h30):
+
+1. Laboratório (1h00)
+    - [Lab 16: Assembler - parte 4](/Z01.1/assembler-Lab-1-parte-4/)
+    - [Lab 16: Assembler - parte 5](/Z01.1/assembler-Lab-1-parte-5/)
+
+
+## Aula 18/11
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Assembler](/Z01.1/Teoria-Assembler/)        |
+
+   
+1. Revisão/ Dúvidas/ Expositiva (1h00):
+
+1. Laboratório (1h00)
+    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-3/)
+    
+    
+## Aula 16/11
+
+| Estudo prévio                                                                           |
+|-----------------------------------------------------------------------------------------|
+| [Assembler](/Z01.1/Teoria-Assembler/)       |
+
+1. Expositiva/Dúvidas  (1h20)
+
+1. Laboratório (0h40)
+    - [Lab 16: Assembler](/Z01.1/assembler-Lab-1-parte-1/)
+    
+    
 ## 11/11 - Av3
 
 ## Aula 09/11
